@@ -1,0 +1,105 @@
+ind,activity_label,ctx,answer,final_prompt,len_tk_llama3.1_8b_instruct
+15461.0,Triple jump,"The two men hug each other. The first man walks down the track celebrating, with brief audience shots. the first man",C,"Context:
+""The two men hug each other. The first man walks down the track celebrating, with brief audience shots. the first man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. trips over a bar, gets hit in the face with a selfie stick while the camera catches it.
+B. rides his bike and records on a cell phone.
+C. receives a flag and hugs two other people.
+D. finishes and jumps into the sea.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",111
+37803.0,Table soccer,Two men are playing a game of foosball. A man acts as referee while standing in front of them. their game,B,"Context:
+""Two men are playing a game of foosball. A man acts as referee while standing in front of them. their game""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. continues as the player in black cleans the ball in between his or her foot.
+B. is being broadcast on a large screen.
+C. of table tennis is shown from several angles.
+D. continues as they pass two other players.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",108
+42256.0,Playing drums,"A young boy is sitting outdoors on a wooden bench and drumming on a drum set that is made out of steel plates, cans and pots. a man",A,"Context:
+""A young boy is sitting outdoors on a wooden bench and drumming on a drum set that is made out of steel plates, cans and pots. a man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. just walked past him while the boy was drumming loudly.
+B. stands over him listening to him play.
+C. walks down the sidewalk behind the boy.
+D. is sweeping next to him while he plays the drums.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",111
+41557.0,Shaving,A man is speaking into a microphone. A man wearing a black cape is getting his beard shaved. a person,C,"Context:
+""A man is speaking into a microphone. A man wearing a black cape is getting his beard shaved. a person""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. is waxing the mustache of the man.
+B. puts a contact into a person's eye.
+C. puts a white towel over the man's face.
+D. blows smoke into a cup of coffee.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",100
+26921.0,Playing rubik cube,A man is seen sitting in front of the camera with a rubix cube. the man,B,"Context:
+""A man is seen sitting in front of the camera with a rubix cube. the man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. then grabs the cube and begins using it as a kind of game.
+B. then begins to solve the rubix cube.
+C. begins working out on the side and ends up solving the cube.
+D. then begins cutting the cube with a saw.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",104
+14714.0,Capoeira,A man swings his leg in the air creating letters and we see an opening screen. two men,B,"Context:
+""A man swings his leg in the air creating letters and we see an opening screen. two men""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. are seen in large outdoors shuttlecock throwing a disc.
+B. are in two different rooms performing capoeira moves.
+C. are then in a covered area with a large crowd of people watching them and talk.
+D. hoist in stuff to a classroom.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",107
+38079.0,Rope skipping,A large group of kids sits on the floor looking at a stage. a man on the stage,C,"Context:
+""A large group of kids sits on the floor looking at a stage. a man on the stage""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. plays the drums with the hand of someone.
+B. stands up and axels the girl until she falls off the stand.
+C. talks to the kids.
+D. begins to kick his legs in the air and bounce them.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",100
+50024.0,High jump,"A teen skip on a court and then jumps high over a bar. Then, the teen jumps high again but touch the bar. this time the teen",A,"Context:
+""A teen skip on a court and then jumps high over a bar. Then, the teen jumps high again but touch the bar. this time the teen""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. jumps without touching the bar.
+B. bounce a couple of times and then stops.
+C. skip slowly while walking across the court.
+D. spins high, a parallel bar flips on the ground.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",105

@@ -1,0 +1,113 @@
+question,question_concept,_split,answer,final_prompt,len_tk_phi3_mini_4k_instruct
+What does everyone have in relation to other people?,everyone,validation-00000-of-00001,A,"Question:
+What does everyone have in relation to other people?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. feelings
+B. food
+C. unique personality
+D. different standards
+E. values
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",79
+What can long kissing lead to?,kissing,train-00000-of-00001,E,"Question:
+What can long kissing lead to?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. feeling good
+B. pleasure
+C. being happy
+D. bad breath
+E. sexual excitement
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",78
+Where can you store stamps in your home?,stamps,train-00000-of-00001,C,"Question:
+Where can you store stamps in your home?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. table
+B. suitcase
+C. drawer
+D. desk
+E. cabinet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",79
+Where would you keep a container can of corn?,container can,train-00000-of-00001,D,"Question:
+Where would you keep a container can of corn?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. garage
+B. in a packet
+C. liquid
+D. pantry
+E. cupboard
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",81
+Why might someone not get things they need?,things,train-00000-of-00001,A,"Question:
+Why might someone not get things they need?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cost money
+B. fall apart
+C. be demanding
+D. happen to
+E. go wrong
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",81
+The president is the highest office where?,president,train-00000-of-00001,D,"Question:
+The president is the highest office where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. zoo
+B. white house
+C. government
+D. country
+E. corporation
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",76
+How might a bank statement arrive at someone's house?,statement,train-00000-of-00001,E,"Question:
+How might a bank statement arrive at someone's house?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. legal document
+B. newspaper
+C. press release
+D. email
+E. mail
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",80
+Where can someone enjoy ice cream in the dark?,ice cream,train-00000-of-00001,C,"Question:
+Where can someone enjoy ice cream in the dark?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. party
+B. bedroom
+C. movie
+D. freezer
+E. disneyland
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",81

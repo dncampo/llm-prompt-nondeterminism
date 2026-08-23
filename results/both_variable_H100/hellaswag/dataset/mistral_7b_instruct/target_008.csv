@@ -1,0 +1,105 @@
+ind,activity_label,ctx,answer,final_prompt,len_tk_mistral_7b_instruct
+12314.0,Windsurfing,We see the board up close. We see a man riding and come to a stop. We see the board up close again. we,A,"Context:
+""We see the board up close. We see a man riding and come to a stop. We see the board up close again. we""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. see the man riding the board in the water again.
+B. see the title screen for the board.
+C. then see the host walking and talking on the grass.
+D. see the guy on the scoring board.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",124
+45484.0,Rope skipping,Men are in stage doing a coreographyjumping the rope. men,B,"Context:
+""Men are in stage doing a coreographyjumping the rope. men""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. in audience are boarding the ropes riding horses.
+B. are jumping in stage and stumbles on the ropes.
+C. are watching and recording on red cheeks standing on stage.
+D. are on stage doing a tango routine.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",118
+6929.0,Long jump,A bunch of girls do long jumps. the jumps,D,"Context:
+""A bunch of girls do long jumps. the jumps""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. off of their shirts at one point.
+B. in a gym are something of a sport to them.
+C. are held with many hands.
+D. are measured by men.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",102
+16126.0,Polishing shoes,The old man is talking to the camera. an old black man,B,"Context:
+""The old man is talking to the camera. an old black man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. walked to the corner of the room and lift the counter part of a pumpkin.
+B. is polishing the other man's shoes as he sits in the chair.
+C. is putting a beanie on.
+D. is welding a wooden block in a workshop.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",122
+35083.0,Running a marathon,A person is seen lying on the ground with another person running from behind. the person running,A,"Context:
+""A person is seen lying on the ground with another person running from behind. the person running""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. then falls and others around them help and drink water.
+B. and then jumps onto a table and runs away.
+C. is then seen in pieces again.
+D. down the street and hugging others.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",114
+3454.0,Using parallel bars,A man standing nearby pulls the spring board out of the way. Several judges sit at a table in front of the bleachers watching. the young man,D,"Context:
+""A man standing nearby pulls the spring board out of the way. Several judges sit at a table in front of the bleachers watching. the young man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. is alone in the football field.
+B. in red rides the spring board out of the park.
+C. lifts the spring board to his chest and prepares to pull it up across the field.
+D. completes his parallel bar routine.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",135
+21817.0,Playing ice hockey,Several players from the black and white team are playing ice hockey in the arena. one of the players from the black team,A,"Context:
+""Several players from the black and white team are playing ice hockey in the arena. one of the players from the black team""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. hits the puck away from his opponent.
+B. falls off the ice and the coach, with several other players run to deal with the onlooker.
+C. takes out a puck.
+D. hits the ball to his opponents head.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",129
+14473.0,Powerbocking,Man is running wearing stilts in a green grassy field. cars,B,"Context:
+""Man is running wearing stilts in a green grassy field. cars""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. are driving plazas behind men.
+B. are parked on side of a street in the background.
+C. are in the field playing a game of field hockey.
+D. are driving by slow litle ways and people are the only visible objects in the field.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",122

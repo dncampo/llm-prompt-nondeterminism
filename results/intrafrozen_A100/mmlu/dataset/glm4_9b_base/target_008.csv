@@ -1,0 +1,81 @@
+question,subject,split,answer,final_prompt,len_tk_glm4_9b_base
+How is IP address spoofing detected?,computer_security,test-00000-of-00001,B,"How is IP address spoofing detected?
+
+Choices:
+A. Installing and configuring a IDS that can read the IP header
+B. Comparing the TTL values of the actual and spoofed addresses
+C. Implementing a firewall to the network
+D. Identify all TCP sessions that are initiated but does not complete successfully
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",83
+A microprocessor is ALU,electrical_engineering,test-00000-of-00001,D,"A microprocessor is ALU
+
+Choices:
+A. and control unit on a single chip.
+B. and memory on a single chip.
+C. register unit and I/O device on a single chip.
+D. register unit and control unit on a single chip.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",72
+Avoiding fossil fuel usage is an example of what?,,auxiliary_train-00000-of-00001,A,"Avoiding fossil fuel usage is an example of what?
+
+Choices:
+A. keeping natural
+B. destroying
+C. eliminating
+D. burning
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",49
+ Which of the following is not an example of vice?,moral_disputes,test-00000-of-00001,B," Which of the following is not an example of vice?
+
+Choices:
+A. callousness
+B. obesity
+C. selfishness
+D. greediness
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",52
+A crowd-source worker wants to track when a certain task drops. They would,,auxiliary_train-00000-of-00001,A,"A crowd-source worker wants to track when a certain task drops. They would
+
+Choices:
+A. use a notebook
+B. randomly play tracks
+C. buy expensive sneakers
+D. run for miles
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",61
+if an organism makes food for itself then that organism needs to,,auxiliary_train-00000-of-00001,C,"if an organism makes food for itself then that organism needs to
+
+Choices:
+A. take naps
+B. swim fast
+C. synthesize itsenergy
+D. ride bicycles
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",57
+"Point out the most accurate response : According to Austin, law has the following attributes :",jurisprudence,test-00000-of-00001,C,"Point out the most accurate response : According to Austin, law has the following attributes :
+
+Choices:
+A. Command, sovereign and enforceability
+B. Command, sovereign and legal remedy
+C. Command, sovereign and sanction
+D. Command, sovereign and obedience by subject
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",74
+Which of the following correctly identifies the condition that explains inefficiency for firms in a monopolistically competitive industry?,high_school_microeconomics,validation-00000-of-00001,D,"Which of the following correctly identifies the condition that explains inefficiency for firms in a monopolistically competitive industry?
+
+Choices:
+A. Higher output than competitive industries.
+B. Lower price than competitive industries.
+C. Price equals marginal cost.
+D. Excess capacity compared to competitive industries.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",75

@@ -1,0 +1,113 @@
+question,question_concept,_split,answer,final_prompt,len_tk_qwen3_8b_instruct
+What sort of organization do employees usually work for?,employees,train-00000-of-00001,D,"Question:
+What sort of organization do employees usually work for?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. a business
+B. meeting
+C. corporation
+D. company
+E. office
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",65
+What usually causes someone to stop eating?,eating,train-00000-of-00001,C,"Question:
+What usually causes someone to stop eating?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. gaining weight
+B. gas
+C. getting full
+D. satisfaction
+E. discomfort
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",64
+Where  is a mirror usually long?,mirror,train-00000-of-00001,C,"Question:
+Where  is a mirror usually long?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. car
+B. shoe store
+C. dressing room
+D. closet
+E. bedroom
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",64
+What is required when someone is typing?,typing,train-00000-of-00001,E,"Question:
+What is required when someone is typing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. think
+B. nice keyboard
+C. digital dexterity
+D. speed
+E. pressing keys
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",66
+Finding information requires what other than research materials?,finding information,train-00000-of-00001,C,"Question:
+Finding information requires what other than research materials?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. internet
+B. ask questions
+C. time
+D. searching for
+E. logic
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",65
+What is someone likely to feel after reaching a tentative agreement?,reaching tentative agreement,train-00000-of-00001,C,"Question:
+What is someone likely to feel after reaching a tentative agreement?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. uncertainty
+B. relax
+C. satisfaction
+D. compromises
+E. finished
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",66
+Billy bought pencils and put them in his what?,pencils,train-00000-of-00001,C,"Question:
+Billy bought pencils and put them in his what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. classroom
+B. kitchen sink
+C. backpack
+D. cabinet
+E. store
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",65
+What will a contraceptive device avoid the creation of?,contraceptive device,train-00000-of-00001,A,"Question:
+What will a contraceptive device avoid the creation of?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. person
+B. drug store
+C. pharmacy
+D. drugstore
+E. children
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",66

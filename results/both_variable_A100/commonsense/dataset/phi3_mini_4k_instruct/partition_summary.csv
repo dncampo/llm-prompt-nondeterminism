@@ -1,0 +1,7 @@
+dataset_name,model_name,token_column,strategy_name,partition_name,target_len,delta_min,delta_max,delta_median,token_len_min,token_len_max,available_count_before_sampling,saved_count,was_expanded,warning_message
+CommonsenseQA,phi3_mini_4k_instruct,len_tk_phi3_mini_4k_instruct,strategy_2_progressive,target,81,-9,0,-1.5,72,81,1793,8,False,
+CommonsenseQA,phi3_mini_4k_instruct,len_tk_phi3_mini_4k_instruct,strategy_2_progressive,larger_1,81,1,1,1.0,82,82,641,310,False,
+CommonsenseQA,phi3_mini_4k_instruct,len_tk_phi3_mini_4k_instruct,strategy_2_progressive,larger_2,81,2,4,3.0,83,85,2000,310,False,
+CommonsenseQA,phi3_mini_4k_instruct,len_tk_phi3_mini_4k_instruct,strategy_2_progressive,larger_3,81,5,10,7.0,86,91,3397,310,False,
+CommonsenseQA,phi3_mini_4k_instruct,len_tk_phi3_mini_4k_instruct,strategy_2_progressive,larger_4,81,11,24,15.0,92,105,2801,310,False,
+CommonsenseQA,phi3_mini_4k_instruct,len_tk_phi3_mini_4k_instruct,strategy_2_progressive,larger_5,81,25,66,30.0,106,147,330,310,False,

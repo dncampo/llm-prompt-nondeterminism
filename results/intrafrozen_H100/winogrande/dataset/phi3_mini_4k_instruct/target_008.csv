@@ -1,0 +1,73 @@
+sentence,option1,option2,answer,final_prompt,len_tk_phi3_mini_4k_instruct
+"The system that Randy used was worse than that of Adam, because _ company was broke.",Randy,Adam,A,"Sentence:
+""The system that Randy used was worse than that of Adam, because _ company was broke.""
+
+Options:
+A. Randy
+B. Adam
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+I dipped the cookies but not the cakes in milk because the _ were drier.,cookies,cakes,A,"Sentence:
+""I dipped the cookies but not the cakes in milk because the _ were drier.""
+
+Options:
+A. cookies
+B. cakes
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The comb worked much better than the brush did because the _ was a bit newer.,comb,brush,A,"Sentence:
+""The comb worked much better than the brush did because the _ was a bit newer.""
+
+Options:
+A. comb
+B. brush
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Matthew asked Kevin and their brother for help moving the brown couch because _ was quite weak.,Matthew,Kevin,A,"Sentence:
+""Matthew asked Kevin and their brother for help moving the brown couch because _ was quite weak.""
+
+Options:
+A. Matthew
+B. Kevin
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Amy has a gastroparesis and needs professional help from Maria, because _ is a doctor.",Amy,Maria,B,"Sentence:
+""Amy has a gastroparesis and needs professional help from Maria, because _ is a doctor.""
+
+Options:
+A. Amy
+B. Maria
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+Lindsey answered the phone and took the message but not Amy because _ was the secretary.,Lindsey,Amy,A,"Sentence:
+""Lindsey answered the phone and took the message but not Amy because _ was the secretary.""
+
+Options:
+A. Lindsey
+B. Amy
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Maria admires Rachel because _ can work much faster with all her years of experience.,Maria,Rachel,B,"Sentence:
+""Maria admires Rachel because _ can work much faster with all her years of experience.""
+
+Options:
+A. Maria
+B. Rachel
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Jessica decided to send Amy a birthday card, so _ got it in the mail.",Jessica,Amy,B,"Sentence:
+""Jessica decided to send Amy a birthday card, so _ got it in the mail.""
+
+Options:
+A. Jessica
+B. Amy
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0

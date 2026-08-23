@@ -1,0 +1,113 @@
+question,question_concept,_split,answer,final_prompt,len_tk_glm4_9b_base
+What do you use petrol to power?,petrol,train-00000-of-00001,E,"Question:
+What do you use petrol to power?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. gas station
+B. power engines
+C. burn hot
+D. fuel tank
+E. car
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",68
+What is the opposite of deep?,deep,train-00000-of-00001,C,"Question:
+What is the opposite of deep?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. frivolous
+B. shallow
+C. high
+D. light
+E. funny
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",64
+Where can the children leave their bicycles?,bicycle,train-00000-of-00001,E,"Question:
+Where can the children leave their bicycles?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. street
+B. netherlands
+C. behind
+D. university
+E. schoolyard
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",66
+What would be necessary for getting in shape?,getting in shape,validation-00000-of-00001,B,"Question:
+What would be necessary for getting in shape?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. good health
+B. exercise
+C. muscle tone
+D. sweat
+E. feel better
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",68
+What is someone likely to experience when having fun?,having fun,train-00000-of-00001,A,"Question:
+What is someone likely to experience when having fun?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. enjoyment
+B. euphoria
+C. excitement
+D. crying
+E. laughter
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",67
+Contemplating a concept can lead to what?,contemplating,train-00000-of-00001,C,"Question:
+Contemplating a concept can lead to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. revelations
+B. action
+C. understanding
+D. discovery
+E. wisdom
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",66
+Where does confetti float?,confetti,train-00000-of-00001,C,"Question:
+Where does confetti float?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. streets
+B. big cities
+C. air
+D. water
+E. shredder
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",64
+What is a computer terminal?,terminal,train-00000-of-00001,A,"Question:
+What is a computer terminal?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. electrical device
+B. battery
+C. electronics
+D. transportation system
+E. initial
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",64

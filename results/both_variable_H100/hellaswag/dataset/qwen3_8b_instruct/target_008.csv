@@ -1,0 +1,105 @@
+ind,activity_label,ctx,answer,final_prompt,len_tk_qwen3_8b_instruct
+15365.0,Mowing the lawn,The man is recharging te lawnmower with fuel and turn it on. man,D,"Context:
+""The man is recharging te lawnmower with fuel and turn it on. man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. is in a snowy yard recharging the lawnmower.
+B. is walking in the street and also turns it off getting in the house.
+C. is chugging the lawnmower next to the side yard.
+D. is mowing the lawn in a backyard.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",106
+37508.0,Fixing bicycle,A person uses a bike chain pedals and a wheel to power a small generator. the camera,C,"Context:
+""A person uses a bike chain pedals and a wheel to power a small generator. the camera""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. shows an illustration of a forest.
+B. pans right and shows several cycle bikes.
+C. zooms in on the machine parts while it's moving.
+D. shows several snowy areas and mountains with clouds above.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",95
+7717.0,Sumo,The right man pats the other on the head and he stands. The two men then lunge at each other. the left man,D,"Context:
+""The right man pats the other on the head and he stands. The two men then lunge at each other. the left man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. loses his balance while on the ground and he falls to the ground.
+B. dives to the ground and the man wipes him off with a towel.
+C. walks out the door.
+D. lunges at the right.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",106
+31830.0,Tumbling,The awesomeness tv network logo animation plays. a man,B,"Context:
+""The awesomeness tv network logo animation plays. a man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. is in a lacrosse village playing a lacrosse match against three different countries.
+B. is flipping and tumbling across a mat.
+C. competes a brown, robotic arm while performing numerous successful workout moves in a gym.
+D. is eing the camera in the movie studio helping to dry a long dried beard.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",111
+15832.0,Surfing,People are surfing on large waves in the water. The person crashes and falls into the water. a wave,C,"Context:
+""People are surfing on large waves in the water. The person crashes and falls into the water. a wave""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. comes in and washes the person overboard.
+B. knocks persons off their boards and they all break their boards, pushing into the water.
+C. crashes over a person surfing.
+D. knocks the person overboard.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",100
+25483.0,Washing hands,A person is seen washing their hands and leads into children speaking to the camera. the children,C,"Context:
+""A person is seen washing their hands and leads into children speaking to the camera. the children""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. continue moving down the sidewalk while more people speak to the camera.
+B. get in a tub and begin scrubbing their hands thoroughly in the water.
+C. hold up objects while speaking and lead into them washing their hands.
+D. continue washing their hands and packaging products.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",107
+32565.0,Cricket,The crowd in the stadium cheers on. Players on the field prepare to start a game. The pitcher pitches the ball. the batter,A,"Context:
+""The crowd in the stadium cheers on. Players on the field prepare to start a game. The pitcher pitches the ball. the batter""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. tries to hit the ball but misses.
+B. runs to see the ball on the field.
+C. hits and makes a goal.
+D. changes his tactics to protect the batter from injugn ball.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",102
+48292.0,Laying tile,Flooring tools are displayed on a table. A man with a broom and dustpan is cleaning the floor. the man,A,"Context:
+""Flooring tools are displayed on a table. A man with a broom and dustpan is cleaning the floor. the man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. is then mopping the floor.
+B. opens the vacuum and vacuums the floor.
+C. stands at the back of the room.
+D. then vacuums the floor in a circular motion.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",102

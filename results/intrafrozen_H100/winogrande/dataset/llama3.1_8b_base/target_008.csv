@@ -1,0 +1,73 @@
+sentence,option1,option2,answer,final_prompt,len_tk_llama3.1_8b_base
+William was confident in teaching teenagers but not Ian because _ could relate to the teenage world.,William,Ian,A,"Sentence:
+""William was confident in teaching teenagers but not Ian because _ could relate to the teenage world.""
+
+Options:
+A. William
+B. Ian
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",50.0
+Sarah Jane's watch smashed when the book hit it since the _ was too strong.,watch,book,B,"Sentence:
+""Sarah Jane's watch smashed when the book hit it since the _ was too strong.""
+
+Options:
+A. watch
+B. book
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",49.0
+The car of Monica has more horsepower than Elena's because _ 's car has more cylinders.,Monica,Elena,A,"Sentence:
+""The car of Monica has more horsepower than Elena's because _ 's car has more cylinders.""
+
+Options:
+A. Monica
+B. Elena
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",50.0
+Christopher asked Jason to help him prepare for the test because _ always knew the material.,Christopher,Jason,B,"Sentence:
+""Christopher asked Jason to help him prepare for the test because _ always knew the material.""
+
+Options:
+A. Christopher
+B. Jason
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",49.0
+Bill replaced his entire grass lawn for his house with new rock. The _ was old.,lawn,rock,A,"Sentence:
+""Bill replaced his entire grass lawn for his house with new rock. The _ was old.""
+
+Options:
+A. lawn
+B. rock
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",50.0
+Nick loves cheesecake much more than Neil does because _ doesn't have a sweet tooth.,Nick,Neil,B,"Sentence:
+""Nick loves cheesecake much more than Neil does because _ doesn't have a sweet tooth.""
+
+Options:
+A. Nick
+B. Neil
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",50.0
+"The student preferred doing their homework with pencil rather than pen, because the _ provided less control.",pen,pencil,A,"Sentence:
+""The student preferred doing their homework with pencil rather than pen, because the _ provided less control.""
+
+Options:
+A. pen
+B. pencil
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",50.0
+The old man started taking medicine for his health but the _ was too weak.,health,medicine,B,"Sentence:
+""The old man started taking medicine for his health but the _ was too weak.""
+
+Options:
+A. health
+B. medicine
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",47.0

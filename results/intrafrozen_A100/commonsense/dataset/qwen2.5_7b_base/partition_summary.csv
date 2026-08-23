@@ -1,0 +1,7 @@
+dataset_name,model_name,token_column,strategy_name,partition_name,target_len,delta_min,delta_max,delta_median,token_len_min,token_len_max,available_count_before_sampling,saved_count,was_expanded,warning_message
+CommonsenseQA,qwen2.5_7b_base,len_tk_qwen2.5_7b_base,strategy_2_progressive,target,66,-8,0,-1.0,58,66,1778,8,False,
+CommonsenseQA,qwen2.5_7b_base,len_tk_qwen2.5_7b_base,strategy_2_progressive,larger_1,66,1,1,1.0,67,67,682,310,False,
+CommonsenseQA,qwen2.5_7b_base,len_tk_qwen2.5_7b_base,strategy_2_progressive,larger_2,66,2,4,3.0,68,70,2319,310,False,
+CommonsenseQA,qwen2.5_7b_base,len_tk_qwen2.5_7b_base,strategy_2_progressive,larger_3,66,5,9,7.0,71,75,3043,310,False,
+CommonsenseQA,qwen2.5_7b_base,len_tk_qwen2.5_7b_base,strategy_2_progressive,larger_4,66,10,22,13.0,76,88,2830,310,False,
+CommonsenseQA,qwen2.5_7b_base,len_tk_qwen2.5_7b_base,strategy_2_progressive,larger_5,66,23,63,27.0,89,129,310,310,False,

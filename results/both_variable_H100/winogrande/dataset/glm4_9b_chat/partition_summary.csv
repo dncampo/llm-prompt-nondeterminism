@@ -1,0 +1,7 @@
+dataset_name,model_name,token_column,strategy_name,partition_name,target_len,delta_min,delta_max,delta_median,token_len_min,token_len_max,available_count_before_sampling,saved_count,was_expanded,warning_message
+WinoGrande,glm4_9b_chat,len_tk_glm4_9b_chat,strategy_2_progressive,target,51,-4,0,0.0,47,51,9594,8,False,
+WinoGrande,glm4_9b_chat,len_tk_glm4_9b_chat,strategy_2_progressive,larger_1,51,1,1,1.0,52,52,4969,310,False,
+WinoGrande,glm4_9b_chat,len_tk_glm4_9b_chat,strategy_2_progressive,larger_2,51,2,3,2.0,53,54,9403,310,False,
+WinoGrande,glm4_9b_chat,len_tk_glm4_9b_chat,strategy_2_progressive,larger_3,51,4,6,5.0,55,57,9416,310,False,
+WinoGrande,glm4_9b_chat,len_tk_glm4_9b_chat,strategy_2_progressive,larger_4,51,7,14,8.0,58,65,6640,310,False,
+WinoGrande,glm4_9b_chat,len_tk_glm4_9b_chat,strategy_2_progressive,larger_5,51,15,25,16.0,66,76,372,310,False,

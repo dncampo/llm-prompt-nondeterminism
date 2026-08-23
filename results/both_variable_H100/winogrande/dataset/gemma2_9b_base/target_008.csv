@@ -1,0 +1,73 @@
+sentence,option1,option2,answer,final_prompt,len_tk_gemma2_9b_base
+"Jennifer asked Rachel what color the trousers were trimmed with, because _ wanted to know.",Jennifer,Rachel,A,"Sentence:
+""Jennifer asked Rachel what color the trousers were trimmed with, because _ wanted to know.""
+
+Options:
+A. Jennifer
+B. Rachel
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",53.0
+Patricia asked Carrie to make her a wooden shield for her Halloween costume because _ is imaginative.,Patricia,Carrie,B,"Sentence:
+""Patricia asked Carrie to make her a wooden shield for her Halloween costume because _ is imaginative.""
+
+Options:
+A. Patricia
+B. Carrie
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",54.0
+Christine had more problems with their public speaking class than Kayla because _ socialized more often.,Christine,Kayla,B,"Sentence:
+""Christine had more problems with their public speaking class than Kayla because _ socialized more often.""
+
+Options:
+A. Christine
+B. Kayla
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",54.0
+The man tried to put the boat in the pool but the _ was too large.,pool,boat,B,"Sentence:
+""The man tried to put the boat in the pool but the _ was too large.""
+
+Options:
+A. pool
+B. boat
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",53.0
+Jennifer had larger feet than Emily so _ never had a harder time finding high heeled shoes.,Jennifer,Emily,B,"Sentence:
+""Jennifer had larger feet than Emily so _ never had a harder time finding high heeled shoes.""
+
+Options:
+A. Jennifer
+B. Emily
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",54.0
+The apples in the store looked shinier than the tomatoes because the _ were much fresher.,apples,tomatoes,A,"Sentence:
+""The apples in the store looked shinier than the tomatoes because the _ were much fresher.""
+
+Options:
+A. apples
+B. tomatoes
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",54.0
+Craig told Jeffrey that he would help him form an LLC.  _ was grateful.,Craig,Jeffrey,B,"Sentence:
+""Craig told Jeffrey that he would help him form an LLC.  _ was grateful.""
+
+Options:
+A. Craig
+B. Jeffrey
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",53.0
+A cat was given to Rebecca by Mary because _ had just lost a cat.,Rebecca,Mary,A,"Sentence:
+""A cat was given to Rebecca by Mary because _ had just lost a cat.""
+
+Options:
+A. Rebecca
+B. Mary
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",52.0

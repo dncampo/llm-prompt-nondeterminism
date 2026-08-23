@@ -1,0 +1,4341 @@
+question,question_concept,_split,answer,final_prompt,len_tk_mistral_7b_base
+"Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?",rosebush,train-00000-of-00001,A,"Question:
+Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. neighbor's yard
+B. in the ground
+C. field
+D. nature
+E. botanic garden
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+"I put up a railing to make sure I don't fall at my house, but now when I sit outside it blocks my view, what am I sitting on?",railing,train-00000-of-00001,A,"Question:
+I put up a railing to make sure I don't fall at my house, but now when I sit outside it blocks my view, what am I sitting on?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. deck
+B. stairwell
+C. house
+D. lawn
+E. flight of stairs
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+Danny is having fun just dancing and singing with his friends. He wasn't concerned with things that weren't fun. For him having fun is the same as what?,having fun,validation-00000-of-00001,C,"Question:
+Danny is having fun just dancing and singing with his friends. He wasn't concerned with things that weren't fun. For him having fun is the same as what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. injuries
+B. smiling
+C. being happy
+D. glee
+E. jump
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Sam doesn't like moving his garbage can, so he just leaves it where it can be picked up.  Other people are annoyed by this because  it blocks part of what?",garbage can,train-00000-of-00001,C,"Question:
+Sam doesn't like moving his garbage can, so he just leaves it where it can be picked up.  Other people are annoyed by this because  it blocks part of what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. alley
+B. garage
+C. street
+D. prayer hall
+E. kitchen
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"John walks down an aisle that is full of over the counter medication. and another with assorted items, toys, candy, and whatnot.  If there isn't any food other than candy, what type of store is he probably in?",aisle,train-00000-of-00001,D,"Question:
+John walks down an aisle that is full of over the counter medication. and another with assorted items, toys, candy, and whatnot.  If there isn't any food other than candy, what type of store is he probably in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. department store
+B. gas station
+C. grocery store
+D. drugstore
+E. supermarket
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",122
+"Johnny wants to get money his brother.  He doesn't like to, but he sucks it up, makes the call, and finds himself doing what?",get money from,train-00000-of-00001,E,"Question:
+Johnny wants to get money his brother.  He doesn't like to, but he sucks it up, makes the call, and finds himself doing what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. employment
+B. do work
+C. threaten
+D. work for
+E. asking for money
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+Steve was surprised to find an underground map while he was shopping and carrots and paperback books.  Where might he have found it?,underground map,train-00000-of-00001,C,"Question:
+Steve was surprised to find an underground map while he was shopping and carrots and paperback books.  Where might he have found it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. subway station
+B. library
+C. super market
+D. county engineer's office
+E. a friend
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Sterotypically, people read the newspaper with their family early in the morning.  What is something else that people also do with their family when they first wake up?",reading newspaper,train-00000-of-00001,E,"Question:
+Sterotypically, people read the newspaper with their family early in the morning.  What is something else that people also do with their family when they first wake up?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. aggravation
+B. go  for a walk
+C. zip cup of tea
+D. drink coffee
+E. eat breakfast
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",113
+When james was climbing he experiences a couple of symptoms.  The most painful and long lasting was on his hands.   What  might have happened to him?,climbing,train-00000-of-00001,E,"Question:
+When james was climbing he experiences a couple of symptoms.  The most painful and long lasting was on his hands.   What  might have happened to him?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. calluses
+B. loss of oxygen
+C. vertigo
+D. ascending
+E. blisters
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?",ruin,train-00000-of-00001,E,"Question:
+James didn't know what to do.  He felt that he'd ruin his relationship with Jen if he took it further, and he didn't want to do that.  At the same time,  He fight that pushing farther might do what to something good?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. found
+B. destroy
+C. construct
+D. fix
+E. produce
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",123
+John and James wanted to eat hot dogs but weren't sure where they could by some.  They asked a costumed person for directions.  This was their first trip where?,hot dogs,train-00000-of-00001,D,"Question:
+John and James wanted to eat hot dogs but weren't sure where they could by some.  They asked a costumed person for directions.  This was their first trip where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. costume shop
+B. park
+C. bowling alley
+D. disneyland
+E. sporting event
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+James was hit on the head and suffered a concussion.  He found himself losing consciousness at annoying times.  He also suffered from something else.  What was it?,losing consciousness,train-00000-of-00001,E,"Question:
+James was hit on the head and suffered a concussion.  He found himself losing consciousness at annoying times.  He also suffered from something else.  What was it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. coma
+B. falling down
+C. pain
+D. death
+E. forgetfulness
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"Miranda wasn't sure about what she was doing, she just knew that she couldn't stop moving her smelly feet. This was a problem, because she was told to do what?",feet,train-00000-of-00001,B,"Question:
+Miranda wasn't sure about what she was doing, she just knew that she couldn't stop moving her smelly feet. This was a problem, because she was told to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. shoes
+B. stay still
+C. hands
+D. walk
+E. stink
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+Sarah was very good with a brass drum.  Her friend Jane was performing at a concert and asked Sarah to join her.  What did Jane ask Sarah to join?,bass drum,train-00000-of-00001,D,"Question:
+Sarah was very good with a brass drum.  Her friend Jane was performing at a concert and asked Sarah to join her.  What did Jane ask Sarah to join?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. manual
+B. marching band
+C. drum set
+D. rock band
+E. orchestra
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+James loved his workplace.  He was a cashier but he has a lot of leisure time which he spent browsing the new releases and bestsellers.  Where might he be working?,cashier,train-00000-of-00001,A,"Question:
+James loved his workplace.  He was a cashier but he has a lot of leisure time which he spent browsing the new releases and bestsellers.  Where might he be working?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bookstore
+B. pharmacy
+C. supermarket
+D. fast food restaurant
+E. shop
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+Bob is in a dressing room.  He's putting on waterproof trunks and goggles.  What sort of facility is he most likely visiting?,dressing room,train-00000-of-00001,A,"Question:
+Bob is in a dressing room.  He's putting on waterproof trunks and goggles.  What sort of facility is he most likely visiting?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. swimming pool
+B. actors and actresses
+C. fancy restaurant.
+D. gym
+E. theatre
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"Bobby was looking to be farmland because he wanted to get away from the city. He didn't care where, just so long as it was in what?",farmland,train-00000-of-00001,B,"Question:
+Bobby was looking to be farmland because he wanted to get away from the city. He didn't care where, just so long as it was in what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. illinois
+B. countryside
+C. south dakota
+D. michigan
+E. midwest
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"John heard loud noise coming from below him, which was perfectly normal.   It always happened this time of day.  He really hated living here.  Where did he live?",below,train-00000-of-00001,D,"Question:
+John heard loud noise coming from below him, which was perfectly normal.   It always happened this time of day.  He really hated living here.  Where did he live?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. upstream
+B. roof
+C. aloft
+D. upstairs
+E. upwards
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Dave wants to build a new ranch house, but he's worried about mudslides, fires, earthquakes,  and restrictive zoning codes.  Where might he live?",ranch house,train-00000-of-00001,C,"Question:
+Dave wants to build a new ranch house, but he's worried about mudslides, fires, earthquakes,  and restrictive zoning codes.  Where might he live?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. montana
+B. west
+C. california
+D. outback
+E. texas
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+John was traveling to a new city and took time to check out a business.  He noticed that its carpet was stained with sauces and ketchup. What type of business might that be?,carpet,validation-00000-of-00001,E,"Question:
+John was traveling to a new city and took time to check out a business.  He noticed that its carpet was stained with sauces and ketchup. What type of business might that be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bedroom
+B. chair
+C. bowling alley
+D. at hotel
+E. restaurant
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"There was a dog, it was barking loudly.  James wasn't scared of it though, because it was confined.  Where might it have been confined to?",dog,train-00000-of-00001,A,"Question:
+There was a dog, it was barking loudly.  James wasn't scared of it though, because it was confined.  Where might it have been confined to?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. backyard
+B. kitchen cupboard
+C. front door
+D. table
+E. park
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"James spent his days at his cottage trying to capture the beauty of the landscape, but he wasn't good at it. He was never good at it.  What isn't he good at?",cottage,train-00000-of-00001,E,"Question:
+James spent his days at his cottage trying to capture the beauty of the landscape, but he wasn't good at it. He was never good at it.  What isn't he good at?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. mountains
+B. dense areas
+C. village
+D. countryside
+E. painting
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your brain if you want to understand.    What do most people due sometimes?,most people,train-00000-of-00001,A,"Question:
+Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your brain if you want to understand.    What do most people due sometimes?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. lie
+B. set table
+C. think
+D. read books
+E. not speak
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",116
+"As the child keep growing it's curiosity grew, it wasn't long before it figured out the purpose of the remote control is for to do what?",curiosity,train-00000-of-00001,E,"Question:
+As the child keep growing it's curiosity grew, it wasn't long before it figured out the purpose of the remote control is for to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. play music
+B. design software
+C. examine thing
+D. see exhibits
+E. use television
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"John was working late at night in a Casino.  When he got off work, he looked for a bar but couldn't find one.  Where might he go instead?",bar,train-00000-of-00001,B,"Question:
+John was working late at night in a Casino.  When he got off work, he looked for a bar but couldn't find one.  Where might he go instead?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. restaurant
+B. nightclub
+C. las vegas
+D. atlantic city
+E. new york city
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+What can happen to you when eating hamburger from someone that you do not know that does not happen when you usually eat a hamburger?,eating hamburger,train-00000-of-00001,E,"Question:
+What can happen to you when eating hamburger from someone that you do not know that does not happen when you usually eat a hamburger?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. allergic reaction
+B. gain weight
+C. have fun
+D. heartburn
+E. food poisoning
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+Jane was a human who had to poop really bad.  But she couldn't because her ride was about to come in and she didn't want to miss it.  Where might she be?,human,train-00000-of-00001,B,"Question:
+Jane was a human who had to poop really bad.  But she couldn't because her ride was about to come in and she didn't want to miss it.  Where might she be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bed
+B. airport
+C. mall
+D. homes
+E. bathroom
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"John runs a corner shop in the American Midwest, in a place known for its Vikings. In what region is his shop most likely located?",corner shop,train-00000-of-00001,E,"Question:
+John runs a corner shop in the American Midwest, in a place known for its Vikings. In what region is his shop most likely located?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. california
+B. england
+C. street corner
+D. corner of two streets
+E. minnesota
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Bob's feet hurt from running barefoot on the hot pavement.  I lost his shoes, didn't know where they landed, and had to run from the corner store to his home.  About where did he run?",pavement,train-00000-of-00001,D,"Question:
+Bob's feet hurt from running barefoot on the hot pavement.  I lost his shoes, didn't know where they landed, and had to run from the corner store to his home.  About where did he run?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. a bed of nails
+B. town
+C. attractive consistent look
+D. city block
+E. ground
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",122
+"Danny found that the carpet did not ,match the drapes, which was disappointing, because this place was expensive.  But it was the only place in town that wasn't booked solid for the week and he needed it while he was in town, so he couldn't complain.   Where might this place be?",carpet,validation-00000-of-00001,E,"Question:
+Danny found that the carpet did not ,match the drapes, which was disappointing, because this place was expensive.  But it was the only place in town that wasn't booked solid for the week and he needed it while he was in town, so he couldn't complain.   Where might this place be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. brothel
+B. restaurant
+C. building
+D. bowling alley
+E. at hotel
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",139
+"I was in a kitchen that I didn't know, so I informally asked where the spoons were, where was I?",kitchen,train-00000-of-00001,A,"Question:
+I was in a kitchen that I didn't know, so I informally asked where the spoons were, where was I?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. friend's house
+B. fraternity house
+C. neighbor's house
+D. grandmas house
+E. restaurant
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+Sarah couldn't make the afternoon meeting and had to reschedule. She promised to .skip dinner and go to sleep earlier that night so that she could make it.  When might the meeting have been rescheduled to?,afternoon,train-00000-of-00001,C,"Question:
+Sarah couldn't make the afternoon meeting and had to reschedule. She promised to .skip dinner and go to sleep earlier that night so that she could make it.  When might the meeting have been rescheduled to?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. before noon
+B. after
+C. morning
+D. evening
+E. before lunch
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",116
+"May was watchign a film about turtles who fight crime.  It was a silly film, but exciting.  It gave her a great deal of what?",watching film,train-00000-of-00001,A,"Question:
+May was watchign a film about turtles who fight crime.  It was a silly film, but exciting.  It gave her a great deal of what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. enjoyment
+B. relaxation
+C. stupidity
+D. masturbation
+E. sadness
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"They robbers didn't just want the money the tellers had, they wanted to make sure they got the big load of money in the what?",money,train-00000-of-00001,E,"Question:
+They robbers didn't just want the money the tellers had, they wanted to make sure they got the big load of money in the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. art show
+B. manager's desk
+C. pocket
+D. water fountain
+E. bank vault
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?",peace and quiet,train-00000-of-00001,D,"Question:
+Lilly loved peace and quiet, but she couldn't find any where she lived.  She took drastic measures and went somewhere for solitude. Where did she go?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. library
+B. home
+C. top of mountain
+D. sea
+E. grocery
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+John played a stringed instrument.  Billy was the singer.  James was the drummer.  Vince played the keyboard and piano.  What might they have been?,stringed instrument,train-00000-of-00001,E,"Question:
+John played a stringed instrument.  Billy was the singer.  James was the drummer.  Vince played the keyboard and piano.  What might they have been?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. string quartet
+B. music store
+C. bored
+D. concert
+E. rock band
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"The small child liked looking at all the pictures of the animals and hearing his mom say the accompanying rhymes, but the jellyfish was his favorite animal in the whole what?",jellyfish,train-00000-of-00001,D,"Question:
+The small child liked looking at all the pictures of the animals and hearing his mom say the accompanying rhymes, but the jellyfish was his favorite animal in the whole what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. japanese restaurant
+B. lake
+C. zoo
+D. book
+E. current
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?",horse,train-00000-of-00001,C,"Question:
+If you slap a horse's butt while you're on it, it will gallop, If you do so when you're off of it, what will the horse do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. run quickly
+B. drink water
+C. go away
+D. pull cart
+E. gallup
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"John and Judy were parents.  They had two wonderful kids who weren't always well behaved.  They were light tough, though.  They felt it was a parent's job to do what?",parents,validation-00000-of-00001,B,"Question:
+John and Judy were parents.  They had two wonderful kids who weren't always well behaved.  They were light tough, though.  They felt it was a parent's job to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. control children
+B. guide children
+C. speak freely
+D. cry
+E. understand children
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",114
+"Billy likes eating breakfast in bed, but he doesn't do it often.  He likes his clean sheets too much. Why doesn't he eat breakfast in bed that often?",eating breakfast in bed,train-00000-of-00001,D,"Question:
+Billy likes eating breakfast in bed, but he doesn't do it often.  He likes his clean sheets too much. Why doesn't he eat breakfast in bed that often?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pleasure
+B. indigestion
+C. convenience
+D. spills
+E. feel guilty
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"John went to sleep on his couch and was dreaming that he was fighting a giant whale in the ocean. When he woke up he was outside in the rain, wrestling an inflatable chair.  What was John doing?",dreaming,train-00000-of-00001,D,"Question:
+John went to sleep on his couch and was dreaming that he was fighting a giant whale in the ocean. When he woke up he was outside in the rain, wrestling an inflatable chair.  What was John doing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. might awaken
+B. fantasy
+C. watching movie
+D. sleepwalking
+E. fear
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+"A shark isn't something you have to worry about at the lake in the woods, but there are plenty of dangers in the what?",shark,train-00000-of-00001,B,"Question:
+A shark isn't something you have to worry about at the lake in the woods, but there are plenty of dangers in the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. great oceans
+B. great outdoors
+C. tropical waters
+D. pacific ocean
+E. gulf of mexico
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+"James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?",ticket office,train-00000-of-00001,B,"Question:
+James couldn't get into the event, because the ticket office was sold out.  He was sad, but not that sad.  He didn't like football, anyway.  Where might James have been?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. auditorium
+B. stadium
+C. arena
+D. city
+E. area
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",113
+Jane is a pilot.  She recently got a medal and a promotion for her quick thinking when her plane did this.  What might her plane have done?,airplanes,train-00000-of-00001,C,"Question:
+Jane is a pilot.  She recently got a medal and a promotion for her quick thinking when her plane did this.  What might her plane have done?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. danger
+B. slow down
+C. catch on fire
+D. arrive late
+E. carry freight
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"James spent a lot of time walking long distances.   He walked not because he liked it, it made his feet sore, nut because it was his only means of what?",walking,train-00000-of-00001,D,"Question:
+James spent a lot of time walking long distances.   He walked not because he liked it, it made his feet sore, nut because it was his only means of what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. lose weight
+B. moving forward
+C. blisters
+D. locomotion
+E. meditation
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+Sarah didn't even know that she was fertile. He doctor told her that procreating was impossible for her.  So she was extremely surprised when she learned that she was having what?,procreating,train-00000-of-00001,C,"Question:
+Sarah didn't even know that she was fertile. He doctor told her that procreating was impossible for her.  So she was extremely surprised when she learned that she was having what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. animals
+B. children born
+C. twins
+D. population increase
+E. venereal disease
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",114
+"james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?",settle,validation-00000-of-00001,D,"Question:
+james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. wander
+B. migrate
+C. scare
+D. disturb
+E. agitate
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+"There was a long cottage somewhere.  People thought it was haunted.  It was overgrown, there was nothing near it.  It's was far into the what?",cottage,validation-00000-of-00001,B,"Question:
+There was a long cottage somewhere.  People thought it was haunted.  It was overgrown, there was nothing near it.  It's was far into the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. mountains
+B. countryside
+C. train
+D. painting
+E. village
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Sam didn't want to join a union, but he had no choice.  He was employed at a union shop. If he didn't want to join, he's have to leave what?",union,train-00000-of-00001,B,"Question:
+Sam didn't want to join a union, but he had no choice.  He was employed at a union shop. If he didn't want to join, he's have to leave what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. province
+B. workplace
+C. construction business
+D. law
+E. club
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"If you want to find a star you'd have to look in space, but if you wanted to find one from the screen you should travel to where?",star,train-00000-of-00001,E,"Question:
+If you want to find a star you'd have to look in space, but if you wanted to find one from the screen you should travel to where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. outer space
+B. uganda
+C. constellation
+D. solar system
+E. hollywood
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"Simon asked his father to read him a story.  His father couldn't find Simon's book, so looked everywhere for it. Where might it be?",story,train-00000-of-00001,E,"Question:
+Simon asked his father to read him a story.  His father couldn't find Simon's book, so looked everywhere for it. Where might it be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. eat cake
+B. end badly
+C. communicating moral
+D. near end
+E. floor
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Bob wants to talk, but he's surrounded by gnats and he thinks they're gross.   No one can hear him because refuses to do what?",talk,train-00000-of-00001,B,"Question:
+Bob wants to talk, but he's surrounded by gnats and he thinks they're gross.   No one can hear him because refuses to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. will listen
+B. open mouth
+C. speak up
+D. express opinions
+E. make sound
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"John's took his appointment book with him to a checkup but couldn't find it anywhere. He looked and he looked but he didn't know where it was.  It wasn't until he bought a new one, went home, took a shower that he found it.  Where was it?",appointment book,train-00000-of-00001,E,"Question:
+John's took his appointment book with him to a checkup but couldn't find it anywhere. He looked and he looked but he didn't know where it was.  It wasn't until he bought a new one, went home, took a shower that he found it.  Where was it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. office supply store
+B. wallet
+C. doctor's office
+D. handbag
+E. pocket
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",136
+"Danny was meeting his friend James, but James didn't show up. James was always punctual.  As time wore on and it became clear that his friend wasn't coming, Danny began to do what?",meeting friend,train-00000-of-00001,B,"Question:
+Danny was meeting his friend James, but James didn't show up. James was always punctual.  As time wore on and it became clear that his friend wasn't coming, Danny began to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cheer
+B. panic
+C. anger
+D. relaxation
+E. joy
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"If I want the very best japanese restaurant, I might look in a place with a japanese district, what sort of area is likely to have such a place?",japanese restaurant,train-00000-of-00001,E,"Question:
+If I want the very best japanese restaurant, I might look in a place with a japanese district, what sort of area is likely to have such a place?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. large town
+B. big city
+C. major city
+D. downtown
+E. larger city
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+Jim chose clear paint.  He could have chosen another type but it would have covered up the natural beauty of the wood.  What sort of paint could he have chosen instead?,clear,train-00000-of-00001,A,"Question:
+Jim chose clear paint.  He could have chosen another type but it would have covered up the natural beauty of the wood.  What sort of paint could he have chosen instead?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. opaque
+B. opal
+C. obscured
+D. obscure
+E. thick
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"George didn't have a car, but he still had his two feet.   His socks were smelly and his soles were blistered, but that didn't matter.  He could still do what?",feet,validation-00000-of-00001,B,"Question:
+George didn't have a car, but he still had his two feet.   His socks were smelly and his soles were blistered, but that didn't matter.  He could still do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. michigan
+B. walk
+C. stay still
+D. stink
+E. hands
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",116
+Sam felt that you needed to improve yourself.  She said that you should take the time to collect your thoughts and clear your mind.  Why does she want you to improve yourself?,improve yourself,train-00000-of-00001,D,"Question:
+Sam felt that you needed to improve yourself.  She said that you should take the time to collect your thoughts and clear your mind.  Why does she want you to improve yourself?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. learn new
+B. do yoga
+C. meditate
+D. feel better about yourself
+E. celebrate
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+James  didn't like getting in line when he was told to be the teacher.  He wasn't someone who appreciated authority figures.  He didn't like what?,getting in line,train-00000-of-00001,A,"Question:
+James  didn't like getting in line when he was told to be the teacher.  He wasn't someone who appreciated authority figures.  He didn't like what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. being ordered
+B. less confusion
+C. getting advice
+D. longer lines
+E. standing in line
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"This city in Northern Norway is filled within things to do like Polar Nights half marathons and located in the middle of the Northern lights oval, which city is it?",northern norway,train-00000-of-00001,C,"Question:
+This city in Northern Norway is filled within things to do like Polar Nights half marathons and located in the middle of the Northern lights oval, which city is it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. northern
+B. nome
+C. tromsø
+D. finnmark
+E. vadsø
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"There was only one room in the place where Bill slept.  It had a bed, a fridge, a stove, a couch, and a television.  Where might he be?",room,train-00000-of-00001,D,"Question:
+There was only one room in the place where Bill slept.  It had a bed, a fridge, a stove, a couch, and a television.  Where might he be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. motel
+B. school
+C. hotel
+D. apartment
+E. friend's house
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+"Debbie doesn't want a plain dress, she wants something unusual and attention-getting.  What would be a good adjective to describe the sort of dress she wants?",plain,train-00000-of-00001,A,"Question:
+Debbie doesn't want a plain dress, she wants something unusual and attention-getting.  What would be a good adjective to describe the sort of dress she wants?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. exotic
+B. decorative
+C. bells and whistles
+D. silly
+E. extravagant
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",113
+Two basketball teams were on the court playing ball. The first team had over 100 points while the second team trailed by more than 50. It was almost certain that the second team would do what to the game?,playing ball,train-00000-of-00001,B,"Question:
+Two basketball teams were on the court playing ball. The first team had over 100 points while the second team trailed by more than 50. It was almost certain that the second team would do what to the game?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. competition
+B. lose
+C. throwing
+D. having fun
+E. running
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",115
+Bob pulled a rock out of the ground.  He wanted to examine the thing because he was into geology.   He was also into waterskiing.   He had many what?,examine thing,train-00000-of-00001,E,"Question:
+Bob pulled a rock out of the ground.  He wanted to examine the thing because he was into geology.   He was also into waterskiing.   He had many what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. talents
+B. complex
+C. interesting
+D. learn more about
+E. interests
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"Joe found that shopping  was dangerous for him.  Even though he had a great job, or maybe because of it, he found himself doing this a great deal. There were always funds left over, but not enough for his taste.  What was he doing when he was shopping?",shopping,train-00000-of-00001,A,"Question:
+Joe found that shopping  was dangerous for him.  Even though he had a great job, or maybe because of it, he found himself doing this a great deal. There were always funds left over, but not enough for his taste.  What was he doing when he was shopping?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. overspending
+B. loss of money
+C. run out of money
+D. spending money
+E. deficit
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",133
+"James thought that he was original, but really his story was exactly like many others.   Sarah didn't want to hurt his feelings so she didn't say anything.  What might she have done while listening?",original,train-00000-of-00001,C,"Question:
+James thought that he was original, but really his story was exactly like many others.   Sarah didn't want to hurt his feelings so she didn't say anything.  What might she have done while listening?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. remake
+B. copy
+C. simile
+D. derivative
+E. reproduction
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",114
+"Joe was a weasel, but he wasn't the sort who you kept was a pet.  He was the sort that used complex words that carried multiple different meanings.  Where might you find Joe",weasel,train-00000-of-00001,B,"Question:
+Joe was a weasel, but he wasn't the sort who you kept was a pet.  He was the sort that used complex words that carried multiple different meanings.  Where might you find Joe
+
+Which of the following is the best response to the question?
+
+Choices:
+A. chicken coop
+B. law firm
+C. classroom
+D. terrarium
+E. museum
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",114
+"James wasn't much of a leader, because he had nothing to lead.  And a leader without something to lead, no matter how skilled, is useless.  What did James need?",leader,train-00000-of-00001,B,"Question:
+James wasn't much of a leader, because he had nothing to lead.  And a leader without something to lead, no matter how skilled, is useless.  What did James need?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. battle
+B. army
+C. company
+D. organization
+E. school
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"John was playing football when he suffered a concussion.  He was really worried about the possible consequences of his sport, but the concussion was less scary than what?",playing football,train-00000-of-00001,D,"Question:
+John was playing football when he suffered a concussion.  He was really worried about the possible consequences of his sport, but the concussion was less scary than what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. head injuries
+B. having fun
+C. being sick
+D. death
+E. getting hurt
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"Lilly was still getting warm.  She ran her hands over John's body, he kissed her.  She couldn't think straight anymore.  Every nerve was tingling.  Nothing ever felt so right. She was experiencing what?",getting warm,train-00000-of-00001,E,"Question:
+Lilly was still getting warm.  She ran her hands over John's body, he kissed her.  She couldn't think straight anymore.  Every nerve was tingling.  Nothing ever felt so right. She was experiencing what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. stroke
+B. pleasure
+C. increase of temperature
+D. get hot
+E. euphoria
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",123
+"Suzie waited in a room covered with posters of celeberties and robots.  She liked this place, but she wished it was better decorated.  Where might she be?",room,train-00000-of-00001,C,"Question:
+Suzie waited in a room covered with posters of celeberties and robots.  She liked this place, but she wished it was better decorated.  Where might she be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. white house
+B. school
+C. friend's house
+D. museum
+E. apartment
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"John was stuck in his house.  He couldn't get out the door.  He was very frightened when the smoke detectors went off, but luckily it was a false alarm.  Why might he be stuck?",house,train-00000-of-00001,C,"Question:
+John was stuck in his house.  He couldn't get out the door.  He was very frightened when the smoke detectors went off, but luckily it was a false alarm.  Why might he be stuck?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fire
+B. belong to
+C. winter storm
+D. face south
+E. burn down
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",116
+"James noticed that people who communicate well have fewer problems.  Some people communicate easily with strangers, others need to talk with members of their own groups.  A religion is a type of group.  What do members of a religion have in common?",people,train-00000-of-00001,A,"Question:
+James noticed that people who communicate well have fewer problems.  Some people communicate easily with strangers, others need to talk with members of their own groups.  A religion is a type of group.  What do members of a religion have in common?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. believe in god
+B. talk to each other
+C. pay bills
+D. learn from each other
+E. believe in ghosts
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",129
+The faucet on the wall sprayed water high into the air.  It caught the light from the window and made a rainbow.  It was very annoying and gross to people who came into this what?,faucet,train-00000-of-00001,A,"Question:
+The faucet on the wall sprayed water high into the air.  It caught the light from the window and made a rainbow.  It was very annoying and gross to people who came into this what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. restroom
+B. rainstorm
+C. water fountain
+D. sink
+E. directing flow of water
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",119
+John watches the well dressed people from a catwalk above the stage.  He listens to them speak rehearsed lines while the audience listens.  Where is he/,catwalk,train-00000-of-00001,A,"Question:
+John watches the well dressed people from a catwalk above the stage.  He listens to them speak rehearsed lines while the audience listens.  Where is he/
+
+Which of the following is the best response to the question?
+
+Choices:
+A. theatre
+B. new york city
+C. fashion show
+D. construction site
+E. school play
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?,committing perjury,train-00000-of-00001,B,"Question:
+James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. indictment
+B. embarrassment
+C. penalty
+D. go to jail
+E. jail time
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+"A person met me in the lobby of the office.  We didn't have much in common, but we did something before going up to the meeting.  What did we do?",person,train-00000-of-00001,D,"Question:
+A person met me in the lobby of the office.  We didn't have much in common, but we did something before going up to the meeting.  What did we do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cross street
+B. say love
+C. shake hands
+D. converse
+E. sit up
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"John loves animals and he hates animal abuse.  Because of this, john is very careful about the places he goes.  Where might he avoid going?",animal,train-00000-of-00001,A,"Question:
+John loves animals and he hates animal abuse.  Because of this, john is very careful about the places he goes.  Where might he avoid going?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pet store
+B. parking lot
+C. woodland
+D. north america
+E. park
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Billy's oven was broken so he couldn't cook.  His microwave was also not working, so he couldn't use it, either.  Billy needed money so that he could do what?",money,train-00000-of-00001,C,"Question:
+Billy's oven was broken so he couldn't cook.  His microwave was also not working, so he couldn't use it, either.  Billy needed money so that he could do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. go on a date
+B. pay bills
+C. get things
+D. control people
+E. buy food
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+Joe likes horses.  He likes how they move.  Unfortunately he can't keep them because he can't provide for them.  What is one thing that horses need to do to live?,horses,train-00000-of-00001,B,"Question:
+Joe likes horses.  He likes how they move.  Unfortunately he can't keep them because he can't provide for them.  What is one thing that horses need to do to live?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. need space
+B. drink water
+C. canter
+D. trot
+E. carry riders
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",114
+Billy  found that his toilet was overflowing.  Water was splashing onto  the floor and making a huge mess.  He got a mop and tried to clean it up.  Where might the toilet be located?,toilet,train-00000-of-00001,E,"Question:
+Billy  found that his toilet was overflowing.  Water was splashing onto  the floor and making a huge mess.  He got a mop and tried to clean it up.  Where might the toilet be located?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. apartment
+B. house
+C. bedroom
+D. motel room
+E. bathroom
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",115
+"Josh is someone who usually stays up late. He's very much a night person.   Now he's applying to for a nine to five job, but he's worried that he might get what?",applying for job,train-00000-of-00001,C,"Question:
+Josh is someone who usually stays up late. He's very much a night person.   Now he's applying to for a nine to five job, but he's worried that he might get what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. employment
+B. laid offf
+C. less sleep
+D. rejection
+E. income
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",114
+"Bob found a bunch of ball bearings behind a wall when he was renovating.  He didn't want them to scatter around, so he picked them up in put them in a what?",ball bearing,train-00000-of-00001,C,"Question:
+Bob found a bunch of ball bearings behind a wall when he was renovating.  He didn't want them to scatter around, so he picked them up in put them in a what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. machines
+B. pool
+C. can
+D. church
+E. high quality motor
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"Laura likes blue anemones, and John wants to give her something special for her birthday.  Where might John go to get an anemone for Laura?",anemone,train-00000-of-00001,C,"Question:
+Laura likes blue anemones, and John wants to give her something special for her birthday.  Where might John go to get an anemone for Laura?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. flower pot
+B. joe mama's tea room
+C. flower shop
+D. tide pool
+E. seafood restaurant
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"Sam needed to rest after a long day of work, but he didn't have time to sleep.   So instead he just went to the couch.  What might he do on the couch?",rest,train-00000-of-00001,B,"Question:
+Sam needed to rest after a long day of work, but he didn't have time to sleep.   So instead he just went to the couch.  What might he do on the couch?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pig out
+B. lay down
+C. go to bed
+D. slow pace
+E. relax
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"John was living in a big city.  It had many roads and a lot of traffic.  He liked it, but didn't appreciate the smell.  He thought that there was too much what?",living,train-00000-of-00001,B,"Question:
+John was living in a big city.  It had many roads and a lot of traffic.  He liked it, but didn't appreciate the smell.  He thought that there was too much what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. have experiences
+B. pollution
+C. happiness
+D. garbage
+E. death
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+James was traveling abroad for a few weeks and he had trouble finding his double edged razor. He eventually found it together with some cream and a small comb.  What did he find it in?,double edged razor,train-00000-of-00001,C,"Question:
+James was traveling abroad for a few weeks and he had trouble finding his double edged razor. He eventually found it together with some cream and a small comb.  What did he find it in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. medicine cabinet
+B. shower
+C. shaving kit
+D. first aid kit
+E. the breadbox
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",115
+"The jar was plastic, just like most of the stuff in the kitchen.  John preferred glass, and wished he was somewhere else.  Where does he want to be?",plastic,train-00000-of-00001,D,"Question:
+The jar was plastic, just like most of the stuff in the kitchen.  John preferred glass, and wished he was somewhere else.  Where does he want to be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cupboard
+B. anywhere else
+C. everything
+D. own home
+E. garbage dump
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Steve breathed in deeply, using his diaphragm.   The diaphragm is a muscle.  Name something that has muscles?",diaphragm,train-00000-of-00001,A,"Question:
+Steve breathed in deeply, using his diaphragm.   The diaphragm is a muscle.  Name something that has muscles?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. human
+B. woman's body
+C. valve
+D. pay debts
+E. drugstore
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"The architect thought that a mezzanine would look good, but the planning committee rejected it.  They told the architect that they felt it was a potential hazard given the ages of the people who would be using it.  What might they be designing?",mezzanine,validation-00000-of-00001,E,"Question:
+The architect thought that a mezzanine would look good, but the planning committee rejected it.  They told the architect that they felt it was a potential hazard given the ages of the people who would be using it.  What might they be designing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. actors
+B. theater
+C. concert hall
+D. floors
+E. school
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",120
+"Billy often eat hamburgers, but he did not always have then with cheese.  Billy are cheeseburgers more often than some people, but less often than others.  You could say that it was something he did only when?",often,train-00000-of-00001,A,"Question:
+Billy often eat hamburgers, but he did not always have then with cheese.  Billy are cheeseburgers more often than some people, but less often than others.  You could say that it was something he did only when?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. occasionally
+B. seldom
+C. hardly ever
+D. infrequently
+E. never
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",122
+Joe is a philosopher who spends his day listening to music. He finds that it evokes a mental state that opens his thoughts and brings him closer to obtaining what?,listening to music,train-00000-of-00001,D,"Question:
+Joe is a philosopher who spends his day listening to music. He finds that it evokes a mental state that opens his thoughts and brings him closer to obtaining what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. ardor
+B. relaxation
+C. ability to play guitar
+D. enlightenment
+E. feeling better
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"John wanted to keep his food fresh, she he bought something that would let him suck the air it, leaving empty space inside.   This would keep food fresh.  This item was a type of what?",space,train-00000-of-00001,B,"Question:
+John wanted to keep his food fresh, she he bought something that would let him suck the air it, leaving empty space inside.   This would keep food fresh.  This item was a type of what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. front
+B. jar
+C. baggie
+D. box
+E. universe
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"If playing the saxophone wasn't enough, she also had to learn the choreographed moves on the field to perform with the what?",saxophone,train-00000-of-00001,D,"Question:
+If playing the saxophone wasn't enough, she also had to learn the choreographed moves on the field to perform with the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. music store
+B. actors
+C. store sells instruments
+D. marching band
+E. orchestra
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Ben was usually an eloquent speaker, but this time he had difficulty reading the words on the teleprompter, so he did much what?",eloquent,train-00000-of-00001,A,"Question:
+Ben was usually an eloquent speaker, but this time he had difficulty reading the words on the teleprompter, so he did much what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. stammering
+B. maundering
+C. speechless
+D. talking
+E. tongueless
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"He went to visit his brother going to a Bulldog school in the south, the humidity was intense but seemed plain and ordinary by now to his brother where?",plain,train-00000-of-00001,C,"Question:
+He went to visit his brother going to a Bulldog school in the south, the humidity was intense but seemed plain and ordinary by now to his brother where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. air
+B. atlanta
+C. georgia
+D. countryside
+E. landscape
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+John didn't think he and Steve should be competing against each other.  It wasn't good for their relationship.  The losers always felt jealousy and what?,competing against,train-00000-of-00001,C,"Question:
+John didn't think he and Steve should be competing against each other.  It wasn't good for their relationship.  The losers always felt jealousy and what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. winning or losing
+B. envy
+C. resentment
+D. injury
+E. pride
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"Mary looked though the chest that her grandfather brought with him.  She could no longer return to his birthplace, because it was not gone.  Now it's called what?",chest,train-00000-of-00001,B,"Question:
+Mary looked though the chest that her grandfather brought with him.  She could no longer return to his birthplace, because it was not gone.  Now it's called what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bedroom
+B. istanbul
+C. body
+D. human being
+E. treasure
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"Suzan is fiddling while Johnny, Jerry, and the rest are having some wild fun with not particular rhyme or pattern.  What might they be doing?",fiddling,train-00000-of-00001,B,"Question:
+Suzan is fiddling while Johnny, Jerry, and the rest are having some wild fun with not particular rhyme or pattern.  What might they be doing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. shuffle
+B. dancing about
+C. troubles
+D. square dancing
+E. discovery
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"John suffered from mental illness, but he was in good hands.  He would have to be on drugs for the rest of his life, but they allowed it to be what?",mental illness,train-00000-of-00001,D,"Question:
+John suffered from mental illness, but he was in good hands.  He would have to be on drugs for the rest of his life, but they allowed it to be what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. free
+B. cause hallucination
+C. recur
+D. effectively treated
+E. managed
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"John heard a language that he could not understand. He thought that the door was shut, but he eventually realized that there was no door, and that the light source that was blinding his eyes was very familiar.  He was on his back looking at what?",light source,train-00000-of-00001,A,"Question:
+John heard a language that he could not understand. He thought that the door was shut, but he eventually realized that there was no door, and that the light source that was blinding his eyes was very familiar.  He was on his back looking at what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. sky
+B. lamp
+C. hallway
+D. dard
+E. closed room
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",121
+"Sally loves learning.  It's difficult, arduous, and long process, but in the end, it gives her something special.  What does learning do for someone?",learning,train-00000-of-00001,D,"Question:
+Sally loves learning.  It's difficult, arduous, and long process, but in the end, it gives her something special.  What does learning do for someone?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. take long time
+B. read a book
+C. require time
+D. increase knowledge
+E. take time
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"Bobby sat on the examination table.  Happy that this was a simple procedure, and he could do it here instead of staying overnight some place else.  Where might he be?",examination table,train-00000-of-00001,D,"Question:
+Bobby sat on the examination table.  Happy that this was a simple procedure, and he could do it here instead of staying overnight some place else.  Where might he be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hospital
+B. school
+C. obituary
+D. doctor's office
+E. vets office
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"James is apply for a job that he really wants. He knows that it will be a good fit and he has experience, but he doesn't have all the qualifications that they're asking for, so he's worried about what?",applying for job,train-00000-of-00001,B,"Question:
+James is apply for a job that he really wants. He knows that it will be a good fit and he has experience, but he doesn't have all the qualifications that they're asking for, so he's worried about what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. acceptance
+B. rejection
+C. hope
+D. less sleep
+E. employment
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",119
+"James was a politician, but he loved the finer things in life and had few scruples. He took things that he shouldn't have.  What might those things have been?",politician,train-00000-of-00001,C,"Question:
+James was a politician, but he loved the finer things in life and had few scruples. He took things that he shouldn't have.  What might those things have been?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. win elections
+B. re elected
+C. bribe
+D. power
+E. the majority vote
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"James wanted to add space for an extra guest, so he bought a hide bed sofa.  With that he'd be able to have two people stay over, one in the guest room, and one on the sofa.  Where might he have been?",hide bed sofa,train-00000-of-00001,E,"Question:
+James wanted to add space for an extra guest, so he bought a hide bed sofa.  With that he'd be able to have two people stay over, one in the guest room, and one on the sofa.  Where might he have been?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hotel
+B. guest room
+C. office
+D. apartment
+E. house
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",120
+"Sally was looking for a saltshaker.  She looked where she ate, and it wasn't there. She looked in storage, and it wasn't there.   She searched every corner, eventually she found it wedged beside a counter.   Where did she find the saltshaker?",saltshaker,train-00000-of-00001,A,"Question:
+Sally was looking for a saltshaker.  She looked where she ate, and it wasn't there. She looked in storage, and it wasn't there.   She searched every corner, eventually she found it wedged beside a counter.   Where did she find the saltshaker?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. own kitchen
+B. denny's restaurant
+C. dinner table
+D. kitchen cupboard
+E. cabinet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",136
+"On a rainy day, Bill likes to do creative things.  He loves to taste things.  He tries his hand on a rainy day. What might he do?",rainy day,train-00000-of-00001,B,"Question:
+On a rainy day, Bill likes to do creative things.  He loves to taste things.  He tries his hand on a rainy day. What might he do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. enjoy film
+B. make bread
+C. go to the gym
+D. stay in bed
+E. write
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"The man set the cup on the table.  It didn't matter.   He didn't heave anything to put it on, and he lacked the what to balance it?",setting cup on table,train-00000-of-00001,D,"Question:
+The man set the cup on the table.  It didn't matter.   He didn't heave anything to put it on, and he lacked the what to balance it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. tenacity
+B. hands
+C. coaster
+D. skill
+E. breaking
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"John lives in a farhouse well away from anyone. He doesn't farm himself, the farm shut down long ago.  How would you describe the area where he lives?",farmhouse,train-00000-of-00001,B,"Question:
+John lives in a farhouse well away from anyone. He doesn't farm himself, the farm shut down long ago.  How would you describe the area where he lives?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. farming community
+B. rural area
+C. cow's shed
+D. michigan
+E. housing farmer and family
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"The crab was known to use camouflage to wait for a fish to get within reach, when it was hungry it would set up shop where?",shop,train-00000-of-00001,B,"Question:
+The crab was known to use camouflage to wait for a fish to get within reach, when it was hungry it would set up shop where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. ocean's eleven
+B. ocean floor
+C. downtown area
+D. high school
+E. container
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+James was returning to work after a period of sickness.  He was happy to be working because he had suffered from something during his illness.  What did he suffer from?,returning to work,train-00000-of-00001,C,"Question:
+James was returning to work after a period of sickness.  He was happy to be working because he had suffered from something during his illness.  What did he suffer from?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. angst
+B. sobering
+C. boredom
+D. painless
+E. malaise
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"Some people don't have insurance, they can expect a long wait in the waiting room when they go to the walk in what?",waiting room,train-00000-of-00001,E,"Question:
+Some people don't have insurance, they can expect a long wait in the waiting room when they go to the walk in what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. maternity ward
+B. dentist's office
+C. doctor's office
+D. private doctor
+E. clinic
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+James and Jenny are good friends.  They spend a lot of time together and usually get home late.   Jenny is very smart and James likes to hear her doing something. What might James like to hear Jenny do?,friends,train-00000-of-00001,A,"Question:
+James and Jenny are good friends.  They spend a lot of time together and usually get home late.   Jenny is very smart and James likes to hear her doing something. What might James like to hear Jenny do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. tell story
+B. sing
+C. clean room
+D. going out at night
+E. jump rope
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",117
+Sally wanted to keep her saltshaker some place where she could find it but where it would be out of the way.  Where might she have put it?,saltshaker,train-00000-of-00001,E,"Question:
+Sally wanted to keep her saltshaker some place where she could find it but where it would be out of the way.  Where might she have put it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dinner table
+B. table setting
+C. own kitchen
+D. kitchen counter
+E. cabinet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+Joe wanted to know the truth because he was an academic and south to learn as much as possible.  He would do anything in pursuit of what?,truth,train-00000-of-00001,C,"Question:
+Joe wanted to know the truth because he was an academic and south to learn as much as possible.  He would do anything in pursuit of what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. work to advantage
+B. matter to
+C. further knowledge
+D. free mind
+E. finding the way
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+James was a senior. He was looking forward to talking a year off once he was finished.  Where might James be?,senior,train-00000-of-00001,B,"Question:
+James was a senior. He was looking forward to talking a year off once he was finished.  Where might James be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. highschool or college
+B. high school or college
+C. ball stopped
+D. republican party
+E. old people's home
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Sally loved shopping and she hated it.  She loved getting what she wanted, and she never bought to much, but it was still painful for her to buy, because she hated any what?",shopping,train-00000-of-00001,C,"Question:
+Sally loved shopping and she hated it.  She loved getting what she wanted, and she never bought to much, but it was still painful for her to buy, because she hated any what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. overspending
+B. standing in line
+C. loss of money
+D. run out of money
+E. new shoes
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",115
+"Joe and Jane have begun reaching a tentative agreement about the merger of their two companies.  Their negotiations have become less than professional,  and have begun doing something that is very unprofessional and compromises their objectivity.  What might they be doing?",reaching tentative agreement,train-00000-of-00001,D,"Question:
+Joe and Jane have begun reaching a tentative agreement about the merger of their two companies.  Their negotiations have become less than professional,  and have begun doing something that is very unprofessional and compromises their objectivity.  What might they be doing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. compromises
+B. eloping
+C. calmness
+D. fucking
+E. handshake
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",126
+James imported ugly cabinets because they were cheap.  They wouldn't be seen so it didn't matter what they looked like.  Where might they be installed?,cabinets,train-00000-of-00001,E,"Question:
+James imported ugly cabinets because they were cheap.  They wouldn't be seen so it didn't matter what they looked like.  Where might they be installed?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. kitchen
+B. planes
+C. mexico
+D. bathroom
+E. pantry
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"The monkey was frightened because the zoo looked nothing like his home.  The plants were the same, the trees were the same, but it still wasn't right  Where did the monkey come from?",monkey,train-00000-of-00001,E,"Question:
+The monkey was frightened because the zoo looked nothing like his home.  The plants were the same, the trees were the same, but it still wasn't right  Where did the monkey come from?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. rain forest
+B. treetops
+C. tundra
+D. playful mood
+E. brazil
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",119
+Sam was moving out to college.  His parents packed up all of his old toys are placed them in long term storage.  Where might they put the boxes of toys?,toys,train-00000-of-00001,C,"Question:
+Sam was moving out to college.  His parents packed up all of his old toys are placed them in long term storage.  Where might they put the boxes of toys?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. these twos are incorrect answers
+B. bed
+C. basement
+D. floor
+E. store
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"Sarah expected to a fortune on her new business.  However, she ended up going broke because no one could get money to buy.  What might her business have been?",fortune,train-00000-of-00001,B,"Question:
+Sarah expected to a fortune on her new business.  However, she ended up going broke because no one could get money to buy.  What might her business have been?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bunkrupt
+B. real estate
+C. stock market
+D. bank
+E. treasure chest
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+Lilly owns the only kosher deli in the area.  She isn't in a heavily populated area.  Where might she live?,kosher deli,train-00000-of-00001,E,"Question:
+Lilly owns the only kosher deli in the area.  She isn't in a heavily populated area.  Where might she live?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. food court
+B. jerusalem
+C. new york city
+D. jewish community
+E. town
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"John went to see the massive ball of yarn that was supposedly the largest in the world, but he didn't enjoy it.  In hindsight, he found it to be what?",massive,train-00000-of-00001,D,"Question:
+John went to see the massive ball of yarn that was supposedly the largest in the world, but he didn't enjoy it.  In hindsight, he found it to be what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bad
+B. insubstantial
+C. inconsequential
+D. lame
+E. dwarf
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",114
+"Dan was a farmer with just one heifer.  But that was okay, he only kept her for milk, and he didn't think he'd find good farmland in a place as cold as where?",heifer,validation-00000-of-00001,C,"Question:
+Dan was a farmer with just one heifer.  But that was okay, he only kept her for milk, and he didn't think he'd find good farmland in a place as cold as where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. arizona
+B. farm yard
+C. michigan
+D. german field
+E. dairy farm
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+"John bought a small butane stove.  He knew that he couldn't use it inside because of the fumes, but he could use it outside.  What structure would John most likely use the stove outside of?",stove,train-00000-of-00001,E,"Question:
+John bought a small butane stove.  He knew that he couldn't use it inside because of the fumes, but he could use it outside.  What structure would John most likely use the stove outside of?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. community kitchen
+B. the post office
+C. apartment
+D. friend's house
+E. tent
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",117
+James was a weasel.  He lived in a warm place where he was surrounded by children.  Glass separated him from the  outside world.  He rested comfortably in his what?,weasel,train-00000-of-00001,E,"Question:
+James was a weasel.  He lived in a warm place where he was surrounded by children.  Glass separated him from the  outside world.  He rested comfortably in his what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. law firm
+B. zoo
+C. classroom
+D. forrest
+E. terrarium
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"Bob's only light source was a small bulb.  There were four walls, if there was a door he couldn't see it.  What was Bob in?",light source,validation-00000-of-00001,A,"Question:
+Bob's only light source was a small bulb.  There were four walls, if there was a door he couldn't see it.  What was Bob in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. closed room
+B. sky
+C. dard
+D. his grave
+E. house
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+Billy saw a dog running from him and did his best to get away from it.  The leaped up to where the dog couldn't reach and was stuck.  Where might he have been trapped?,dog,validation-00000-of-00001,B,"Question:
+Billy saw a dog running from him and did his best to get away from it.  The leaped up to where the dog couldn't reach and was stuck.  Where might he have been trapped?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. kennel
+B. table
+C. porch
+D. backyard
+E. park
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"A small dog envied his friends, who were attached to sleds and pulled people though the thick snowy wilderness.  Where might he live?",small dog,train-00000-of-00001,C,"Question:
+A small dog envied his friends, who were attached to sleds and pulled people though the thick snowy wilderness.  Where might he live?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. person's house
+B. basket
+C. canada
+D. illinois
+E. mexico
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Laura and Bob are a married couple who have begun reaching tentative agreement regarding their  sexual incompatibility.  They love each other and want to remain together, but have decided that they can see other people to fulfill their needs as long as they are honest about it.  Then entire negotiation is being done with a surprising amount of what given the subject matter?",reaching tentative agreement,train-00000-of-00001,A,"Question:
+Laura and Bob are a married couple who have begun reaching tentative agreement regarding their  sexual incompatibility.  They love each other and want to remain together, but have decided that they can see other people to fulfill their needs as long as they are honest about it.  Then entire negotiation is being done with a surprising amount of what given the subject matter?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. calmness
+B. compromises
+C. fucking
+D. anger
+E. satisfaction
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",144
+"Jenny had trouble using the phone because she had to dial 9 to get an outside line.  And the manager wasn't very attentive to her needs, either.   Where might she be?",telephone,train-00000-of-00001,D,"Question:
+Jenny had trouble using the phone because she had to dial 9 to get an outside line.  And the manager wasn't very attentive to her needs, either.   Where might she be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. office
+B. hospital
+C. friend's house
+D. hotel
+E. every u.s
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",116
+"Denny couldn't find his hairbrush.  He looked everywhere for it.  Under and over, up and down, it was not where he thought it would be.  So he closed the door behind him and continued his systematic search.  Where might Denny have looked first?",hairbrush,train-00000-of-00001,E,"Question:
+Denny couldn't find his hairbrush.  He looked everywhere for it.  Under and over, up and down, it was not where he thought it would be.  So he closed the door behind him and continued his systematic search.  Where might Denny have looked first?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. house
+B. kitchen
+C. car
+D. drugstore
+E. bedroom
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",127
+"The hipsters tried to take a disingenuous kooky approach to their cafe, they were soon out of business to the competitor who took what kind of approach?",kooky,train-00000-of-00001,D,"Question:
+The hipsters tried to take a disingenuous kooky approach to their cafe, they were soon out of business to the competitor who took what kind of approach?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. mainstream
+B. straight
+C. right
+D. conventional
+E. uneccentric
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"John goes to the booking office and books a flight to a place that is notoriously foggy, where they like tea, and that is ruled by a Queen.  Where is John going?",booking office,train-00000-of-00001,C,"Question:
+John goes to the booking office and books a flight to a place that is notoriously foggy, where they like tea, and that is ruled by a Queen.  Where is John going?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. airport
+B. travel agency
+C. england
+D. mall
+E. toilet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"Sean was an honest person, but his married June, who wasn't honest at all. In fact, who was very what?",honest,train-00000-of-00001,E,"Question:
+Sean was an honest person, but his married June, who wasn't honest at all. In fact, who was very what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. untruthful
+B. liar
+C. untrustworthy
+D. disloyal
+E. deceitful
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"John moved away from his family.  He was a bit upset that he had to do it, but he needed the job.  Still, he would have preferred it if the job were what?",away,train-00000-of-00001,C,"Question:
+John moved away from his family.  He was a bit upset that he had to do it, but he needed the job.  Still, he would have preferred it if the job were what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. present
+B. stay here
+C. closer
+D. available
+E. come here
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+"The sloth of a man was convicted of the crime caused by his apathy, he would spend at least a hundred hours finally doing a what?",sloth,train-00000-of-00001,C,"Question:
+The sloth of a man was convicted of the crime caused by his apathy, he would spend at least a hundred hours finally doing a what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. commercial
+B. three toed
+C. civil service
+D. paraguay
+E. costa rica
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+Billy Bob sat on a bar stool and ordered a steak.  He ordered a steak because despite the style this place didn't serve alcohol.  What sort of place was this?,bar stool,train-00000-of-00001,E,"Question:
+Billy Bob sat on a bar stool and ordered a steak.  He ordered a steak because despite the style this place didn't serve alcohol.  What sort of place was this?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dining hall
+B. drunker
+C. tavern
+D. kitchen
+E. restaurant
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"The special interest group spent millions convincing young people they were changing society, but really they were just keeping people in two party lines and were just after their what?",changing society,train-00000-of-00001,E,"Question:
+The special interest group spent millions convincing young people they were changing society, but really they were just keeping people in two party lines and were just after their what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. social activism
+B. social disruption
+C. change yourself
+D. riots
+E. vote
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Violence is present in many human endeavors, including sports.  But Danny doesn't play sports.  He does violence only during what?",violence,train-00000-of-00001,B,"Question:
+Violence is present in many human endeavors, including sports.  But Danny doesn't play sports.  He does violence only during what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. warfare
+B. war
+C. drive to drinkin
+D. hockey game
+E. being done against
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Stood below the balloons and studied them closely.  As he looked to the sky, he didn't see anything holding them up.  He wondered what the balloons where?",below,train-00000-of-00001,A,"Question:
+Stood below the balloons and studied them closely.  As he looked to the sky, he didn't see anything holding them up.  He wondered what the balloons where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. aloft
+B. overhead
+C. upwards
+D. upstairs
+E. above
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+You've got all the hiking gear but your car wont start so you might have to head to the main road to do this for a ride?,hiking,train-00000-of-00001,A,"Question:
+You've got all the hiking gear but your car wont start so you might have to head to the main road to do this for a ride?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. waving thumb in air
+B. hitting the next vehicle
+C. plan
+D. special boots
+E. adventure
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"John didn't like skating much, but he liked it more than his other options.  The doctor said that he needed to take better care of himself, and skating was an activity that did what to him?",skating,train-00000-of-00001,D,"Question:
+John didn't like skating much, but he liked it more than his other options.  The doctor said that he needed to take better care of himself, and skating was an activity that did what to him?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. move fast
+B. might fall
+C. injuries
+D. increased heart rate
+E. hurt him
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",116
+"Polly didn't know her way around, so she navigated by landmark.  She used statues, stores, and distinctive building.  Where might she be?",landmark,train-00000-of-00001,E,"Question:
+Polly didn't know her way around, so she navigated by landmark.  She used statues, stores, and distinctive building.  Where might she be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. countryside
+B. national park
+C. map
+D. neighbourhood
+E. city
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"I was apprehensive to buy the expensive equipment to play a game with so much walking and swinging around in grass, but now I understand why people what?",people,validation-00000-of-00001,B,"Question:
+I was apprehensive to buy the expensive equipment to play a game with so much walking and swinging around in grass, but now I understand why people what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. care less
+B. play golf
+C. shake hands
+D. believe in god
+E. trip over
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+Billy is stumbling about because he has little light.  There's a rolled up map of stars in the corner.  The floor creaks with every step.  His flashlight is fading.  Where might she be?,light,train-00000-of-00001,B,"Question:
+Billy is stumbling about because he has little light.  There's a rolled up map of stars in the corner.  The floor creaks with every step.  His flashlight is fading.  Where might she be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. restaurant
+B. attic
+C. fridge
+D. ocean
+E. universe
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+"The electricity went out and everyone was shrouded in darkness.  They all remained in their seats, because it would have been dangerous to try to find there way out.  Where mihgt they have been?",electricity,validation-00000-of-00001,A,"Question:
+The electricity went out and everyone was shrouded in darkness.  They all remained in their seats, because it would have been dangerous to try to find there way out.  Where mihgt they have been?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. opera
+B. concert
+C. basement
+D. bedroom
+E. grand canyon
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",113
+"James wanted a hot tub just like the one at the spa he visited, but he didn't want anyone to know about it.  He was afraid that if the neighbors knew, they'd all want to use it, and it would turn his house into what?",spa,train-00000-of-00001,A,"Question:
+James wanted a hot tub just like the one at the spa he visited, but he didn't want anyone to know about it.  He was afraid that if the neighbors knew, they'd all want to use it, and it would turn his house into what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. country club
+B. health centre
+C. hospital
+D. backyard
+E. resort
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",126
+James worked at a Kosher Deli in a Jewish  neighborhood in the same city where his grandparents came over from Europe in the 40s. He could see the big green torch from his bedroom.  Where might he live?,kosher deli,train-00000-of-00001,E,"Question:
+James worked at a Kosher Deli in a Jewish  neighborhood in the same city where his grandparents came over from Europe in the 40s. He could see the big green torch from his bedroom.  Where might he live?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. jerusalem
+B. miami
+C. food court
+D. town
+E. new york city
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",122
+"Billy hated using other people's toilets. He was only comfortable on his own.  So whenever he needed to poop, he would go back to his what?",toilet,validation-00000-of-00001,D,"Question:
+Billy hated using other people's toilets. He was only comfortable on his own.  So whenever he needed to poop, he would go back to his what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bathroom
+B. motel room
+C. nearest public restroom
+D. house
+E. apartment
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+John knows what environment he can find marmosets in but doesn't know how to find that environment.    What areas of the Americas has the environment he's looking for?,marmoset,train-00000-of-00001,C,"Question:
+John knows what environment he can find marmosets in but doesn't know how to find that environment.    What areas of the Americas has the environment he's looking for?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. texas
+B. grassy field
+C. south and central america
+D. american tropics
+E. wilderness
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",115
+The children loved their pet weasel.  The teacher came every weekend to make sure it was fed and watered and exercised.  Children from all over the school came to visit the weasel.  Where did they come?,weasel,train-00000-of-00001,A,"Question:
+The children loved their pet weasel.  The teacher came every weekend to make sure it was fed and watered and exercised.  Children from all over the school came to visit the weasel.  Where did they come?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. classroom
+B. law firm
+C. pet store
+D. terrarium
+E. chicken coop
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",120
+Brian was a soldier.  he just got word that he was called back to active service.  He'd have to do what soon?,soldier,train-00000-of-00001,A,"Question:
+Brian was a soldier.  he just got word that he was called back to active service.  He'd have to do what soon?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. report for duty
+B. wait for orders
+C. fight for freedom
+D. obay
+E. receive orders
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"John is surrounded by water.  There is no land in sight.  He was going from Britain to America, when his vessel went down. Where might he be?",water,train-00000-of-00001,D,"Question:
+John is surrounded by water.  There is no land in sight.  He was going from Britain to America, when his vessel went down. Where might he be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. surface of earth
+B. sink
+C. medium
+D. ocean
+E. puddle
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+North america has winter to start the year because it is where?,north america,train-00000-of-00001,C,"Question:
+North america has winter to start the year because it is where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. america
+B. western hemisphere
+C. northern hemisphere
+D. occident
+E. north america is the world’s third-largest continent – 24
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"John couldn't find a place to stay, and he didn't want to waste money.  He picked a place that was inexpensive and offered few luxuries.  Where might he be staying?",place to stay,train-00000-of-00001,E,"Question:
+John couldn't find a place to stay, and he didn't want to waste money.  He picked a place that was inexpensive and offered few luxuries.  Where might he be staying?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. farm
+B. town
+C. city
+D. hotel
+E. motel
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"James used an axe and a saw to chop wood, shape it, and make a shelter.  He kept adding wood to it, building it bigger and bigger, until it became a what?",shelter,train-00000-of-00001,C,"Question:
+James used an axe and a saw to chop wood, shape it, and make a shelter.  He kept adding wood to it, building it bigger and bigger, until it became a what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. shelterbelt
+B. tree
+C. house
+D. home
+E. bus stop
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"The tickets were supposed to arrive by 1AM, but Sally had been standing in queue for the concert since midnight and it was now 2AM and the line hadn't moved.  Why was this?",standing in queue,train-00000-of-00001,A,"Question:
+The tickets were supposed to arrive by 1AM, but Sally had been standing in queue for the concert since midnight and it was now 2AM and the line hadn't moved.  Why was this?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. delays
+B. frustration
+C. sprinting
+D. moving forward
+E. being annoyed
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",114
+"John prepared a written sex contract.  It wouldn't hold up in court, but it gave him piece of mind, and he had it signed before he allowed his newest BDSM partner to perform what on him?",written,train-00000-of-00001,C,"Question:
+John prepared a written sex contract.  It wouldn't hold up in court, but it gave him piece of mind, and he had it signed before he allowed his newest BDSM partner to perform what on him?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. torture
+B. verbal
+C. oral
+D. unwritten
+E. aforewritten
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",115
+"Jerry was too old for this shit.  He was too square, too.  He never did drugs, never drank, but he was in his what?",square,train-00000-of-00001,A,"Question:
+Jerry was too old for this shit.  He was too square, too.  He never did drugs, never drank, but he was in his what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fifties
+B. geometry
+C. polygon
+D. four sides
+E. town center
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"John can't find any legal alternatives to what he's looking for.  It's very illegal, exacerbated by the fact that he's too young to travel out of the country to get it.  Where will he have to get it from?",legal,train-00000-of-00001,E,"Question:
+John can't find any legal alternatives to what he's looking for.  It's very illegal, exacerbated by the fact that he's too young to travel out of the country to get it.  Where will he have to get it from?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. rules
+B. white market
+C. banned
+D. underage
+E. black market
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",125
+Sam was a student at Elmhurst elementary .  She was late when the bell rang so she ran in the hall trying to do what?,student,train-00000-of-00001,D,"Question:
+Sam was a student at Elmhurst elementary .  She was late when the bell rang so she ran in the hall trying to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. go to high school
+B. answer question
+C. charming
+D. go to class
+E. try to get
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"John didn't mind getting in line.  It was what game after that he hated.  The time, the sore feet. He did not like doing what?",getting in line,validation-00000-of-00001,B,"Question:
+John didn't mind getting in line.  It was what game after that he hated.  The time, the sore feet. He did not like doing what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. have to wait for
+B. standing in line
+C. eat cake
+D. less confusion
+E. being ordered
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+The aboriginal people ended up being displaced by settlers who justified themselves with the fact that the displaced people didn't have a formal system to do what?,people,train-00000-of-00001,E,"Question:
+The aboriginal people ended up being displaced by settlers who justified themselves with the fact that the displaced people didn't have a formal system to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fight back
+B. spend time
+C. own home
+D. talk to each other
+E. own land
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"David hurt all over. He was tired, he was shaking, and he was in pain.  He hadn't gotten what he needed in a long time.  He was suffering from what?",watching television,train-00000-of-00001,A,"Question:
+David hurt all over. He was tired, he was shaking, and he was in pain.  He hadn't gotten what he needed in a long time.  He was suffering from what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. addiction
+B. fatigue
+C. relaxation
+D. headaches
+E. over eating
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+Bob raised the curtain and people descended upon him like a hoard.  He regretted his job on this of all days. Where does Bob work?,curtain,train-00000-of-00001,E,"Question:
+Bob raised the curtain and people descended upon him like a hoard.  He regretted his job on this of all days. Where does Bob work?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. theater
+B. show
+C. house
+D. a stage hand
+E. department store
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+James need to use a toilet but there were no public ones in sight.  Eventually he broke down and did something very expensive so that he could get a toilet.  Where might he have gone?,toilet,validation-00000-of-00001,A,"Question:
+James need to use a toilet but there were no public ones in sight.  Eventually he broke down and did something very expensive so that he could get a toilet.  Where might he have gone?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. motel room
+B. apartment
+C. bathroom
+D. games
+E. house
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"John found that being in love made him higher.  He wanted to share his love with everyone, to express it.  He wanted to do what all the time.",being in love,train-00000-of-00001,B,"Question:
+John found that being in love made him higher.  He wanted to share his love with everyone, to express it.  He wanted to do what all the time.
+
+Which of the following is the best response to the question?
+
+Choices:
+A. share naughty photos of himself
+B. sing
+C. live life
+D. propose to woman
+E. kiss
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"Billy emptied his trash can into the big dumpster.  Housekeeping was supposed to do it, but it was easy for him, and this place was cheap.  Where is Billy?",trash can,train-00000-of-00001,C,"Question:
+Billy emptied his trash can into the big dumpster.  Housekeeping was supposed to do it, but it was easy for him, and this place was cheap.  Where is Billy?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dump
+B. office
+C. motel
+D. park
+E. corner
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+James wanted a plastic saucer to put some cat food on  He certainly wasn't going to use a good saucer.  Where might he look for one?,saucer,train-00000-of-00001,B,"Question:
+James wanted a plastic saucer to put some cat food on  He certainly wasn't going to use a good saucer.  Where might he look for one?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. drawer
+B. kitchen cabinet
+C. china cabinet
+D. tea room
+E. tea cabinet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"James wanted to build a new strip mall, but he wanted a lot of traffic.  He decided to build it in a high density residential area.  Where might he build it?",strip mall,train-00000-of-00001,B,"Question:
+James wanted to build a new strip mall, but he wanted a lot of traffic.  He decided to build it in a high density residential area.  Where might he build it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. suburbs
+B. city
+C. the desert
+D. vacant stores
+E. suburban town
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+James didn't know what drugs he did.  They were being passed around and he just took one.  It was the last time he would go to such a wild what?,drugs,train-00000-of-00001,C,"Question:
+James didn't know what drugs he did.  They were being passed around and he just took one.  It was the last time he would go to such a wild what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. school
+B. doctor
+C. concert
+D. university
+E. show
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"John loved his snake.  It was the only ting he loved. He hated everyone else and was abrasive to most people, but he loved his snake.   How might you describe the snake?",snake,validation-00000-of-00001,C,"Question:
+John loved his snake.  It was the only ting he loved. He hated everyone else and was abrasive to most people, but he loved his snake.   How might you describe the snake?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. sun itself
+B. tropical forest
+C. pet
+D. rude
+E. sharp
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+Joe and John and sylvia were all running errands. They split up their tasks into blocks that were near each other and then each person took one block of tasks.  They did this because it gave them more what?,running errands,train-00000-of-00001,C,"Question:
+Joe and John and sylvia were all running errands. They split up their tasks into blocks that were near each other and then each person took one block of tasks.  They did this because it gave them more what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. stress
+B. aggravation
+C. efficiency
+D. freed up time
+E. net gain
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+"Jenny answered the phone because this was what she did for a living.   She took a message and passed it on.  It was important, about a big project.  Where might Jenny be?",telephone,train-00000-of-00001,E,"Question:
+Jenny answered the phone because this was what she did for a living.   She took a message and passed it on.  It was important, about a big project.  Where might Jenny be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. friend's house
+B. hotel
+C. school
+D. party
+E. office
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"James didn't understand what was going on, but he knew that he had to choose.   He decided that he wasn't going to accept temptation, and did what to it?",choose,train-00000-of-00001,E,"Question:
+James didn't understand what was going on, but he knew that he had to choose.   He decided that he wasn't going to accept temptation, and did what to it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. predetermination
+B. undecided
+C. force
+D. concluded
+E. reject
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+Saul is writting a program and has been told that another team has been working on added functionality.  He's not sure hot the other team's work will impact his. What does his bosses want him to do with the new code?,writing program,train-00000-of-00001,C,"Question:
+Saul is writting a program and has been told that another team has been working on added functionality.  He's not sure hot the other team's work will impact his. What does his bosses want him to do with the new code?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. detail
+B. loop
+C. need to integrate
+D. unexpected results
+E. satisfaction
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",121
+"Johnny build a house somewhere on the planet.  He wanted to do so away from the city, but still close enough.  But he gave up that dream and settled for building it inside the city limits.  Where might he have built it?",house,train-00000-of-00001,C,"Question:
+Johnny build a house somewhere on the planet.  He wanted to do so away from the city, but still close enough.  But he gave up that dream and settled for building it inside the city limits.  Where might he have built it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. suburbs
+B. in the pond
+C. residential area
+D. newspaper
+E. surface of earth
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",124
+John wanted scatter his wife's remains in a lake in the wilderness.  He had to delay before of where he lived.  Where did he live?,lake,validation-00000-of-00001,E,"Question:
+John wanted scatter his wife's remains in a lake in the wilderness.  He had to delay before of where he lived.  Where did he live?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. mountains
+B. dead body
+C. pay debts
+D. state park
+E. new york
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Sam drove to the city square and noticed that the lines weren't quite right.  It was a few degrees off, most like a trapezoid.   What might Sam be interested in?",square,train-00000-of-00001,B,"Question:
+Sam drove to the city square and noticed that the lines weren't quite right.  It was a few degrees off, most like a trapezoid.   What might Sam be interested in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. architecture
+B. geometry
+C. fifties
+D. town center
+E. four corners
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+John wrote a religions tract and decided to give them away.  He felt that he should go somewhere where he could reach a large and diverse group from many places.  Where is he likely to distribute his tracts?,religious tract,train-00000-of-00001,B,"Question:
+John wrote a religions tract and decided to give them away.  He felt that he should go somewhere where he could reach a large and diverse group from many places.  Where is he likely to distribute his tracts?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. public place
+B. airport
+C. subway car
+D. shopping mall
+E. laundromat
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+"Billy didn't know what to do.  He had just bought a huge ficus, but he has no where to put it.  It was just too gid for his house.  Right now, the ficus waited outside in something. What is the ficus in?",ficus,train-00000-of-00001,B,"Question:
+Billy didn't know what to do.  He had just bought a huge ficus, but he has no where to put it.  It was just too gid for his house.  Right now, the ficus waited outside in something. What is the ficus in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. park
+B. large pot
+C. maze
+D. green house
+E. tropical forest
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",129
+"He knew of prairie dogs back home but wasn't sure if what he saw was a marmot, but the outback tour guide explained it was during his tour of where?",marmot,train-00000-of-00001,B,"Question:
+He knew of prairie dogs back home but wasn't sure if what he saw was a marmot, but the outback tour guide explained it was during his tour of where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. north america
+B. australia
+C. desert
+D. wilderness
+E. switzerland
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+Sarah thought that buying beer with a fake idea was a good idea.  She just wanted to enjoy herself. But it turned to be anything but. What did it turn out to be?,buying beer,train-00000-of-00001,D,"Question:
+Sarah thought that buying beer with a fake idea was a good idea.  She just wanted to enjoy herself. But it turned to be anything but. What did it turn out to be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. a smart decision
+B. spend money
+C. get arrested
+D. stupidity
+E. have fun
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"Bob and Boris were standing in a queue at the grocery store.  They were standing in place.  The line was fast, but the children in front of them were loud.   They were what?",standing in queue,train-00000-of-00001,B,"Question:
+Bob and Boris were standing in a queue at the grocery store.  They were standing in place.  The line was fast, but the children in front of them were loud.   They were what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. frustration
+B. being annoyed
+C. delays
+D. irritation
+E. out of order
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",115
+Joe lived skating.  It was very Zen to him.  He was calm and steady.   He could feel the wind.  He loved to do what?,skating,train-00000-of-00001,E,"Question:
+Joe lived skating.  It was very Zen to him.  He was calm and steady.   He could feel the wind.  He loved to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. increased heart rate
+B. injury
+C. might fall
+D. run
+E. move fast
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Yesterday there was heavy rain and there's water standing everywhere, but it's coming down hard again, and this time it's cold, what sort of storm is it now?",water,train-00000-of-00001,A,"Question:
+Yesterday there was heavy rain and there's water standing everywhere, but it's coming down hard again, and this time it's cold, what sort of storm is it now?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. blizzard
+B. hurricane
+C. cactus
+D. ocean
+E. drowning
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"Billy was a human, and he had human bodily functions.  He needed to catch his flight but ended up missing it, because he had too much mexican and was stuck where?",human,train-00000-of-00001,C,"Question:
+Billy was a human, and he had human bodily functions.  He needed to catch his flight but ended up missing it, because he had too much mexican and was stuck where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bed
+B. couch
+C. bathroom
+D. school
+E. airport
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+Billy is grooming himself in his bedroom because he wanted to be handsome for the dance.  He can't find his comb. He rushes to the store to do what with a comb?,grooming,train-00000-of-00001,D,"Question:
+Billy is grooming himself in his bedroom because he wanted to be handsome for the dance.  He can't find his comb. He rushes to the store to do what with a comb?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. beauty
+B. prepare
+C. positive
+D. get
+E. looking pretty
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+"Sam lives in a ranch house, which is a bit of a sterotype where he lives.  Everyone from out of state thinks he's a cowboy.  Where might he live?",ranch house,train-00000-of-00001,D,"Question:
+Sam lives in a ranch house, which is a bit of a sterotype where he lives.  Everyone from out of state thinks he's a cowboy.  Where might he live?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. west
+B. california
+C. hawaii
+D. texas
+E. montana
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"There was a show on television about a ranger who loved flowers, but the next day it was about a gardener who also loved flowers.  It was a what?",flowers,train-00000-of-00001,B,"Question:
+There was a show on television about a ranger who loved flowers, but the next day it was about a gardener who also loved flowers.  It was a what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. countryside
+B. anthology
+C. dull read
+D. state park
+E. surface of earth
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"Danny was visiting a museum.  He spent all day looking at exhibits.  He studied them all careful.  In the end, he went home.  Why might he have gone home?",visiting museum,train-00000-of-00001,A,"Question:
+Danny was visiting a museum.  He spent all day looking at exhibits.  He studied them all careful.  In the end, he went home.  Why might he have gone home?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. tired feet
+B. pondering
+C. gaining knowledge
+D. exhilaration
+E. wonder
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",113
+Bob was tossed from his boat in the pacific ocean near the United States.  He sees a shore to the east and swims toward it. Where is he most likely swimming to?,shore,train-00000-of-00001,E,"Question:
+Bob was tossed from his boat in the pacific ocean near the United States.  He sees a shore to the east and swims toward it. Where is he most likely swimming to?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. seaside town
+B. florida
+C. ocean
+D. picture of sea side
+E. california
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",113
+John plays brass instruments in a band that has a lot of diverse people in it and many different instruments.   They mostly play at clubs.  What sort of band might he be in.,brass instrument,train-00000-of-00001,E,"Question:
+John plays brass instruments in a band that has a lot of diverse people in it and many different instruments.   They mostly play at clubs.  What sort of band might he be in.
+
+Which of the following is the best response to the question?
+
+Choices:
+A. rubber band
+B. annoy mom
+C. brass band
+D. marching band
+E. jazz band
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"After coming home from his trip to the west coat, John hung the fox on his wall.  He could do this because the fox was what?",fox,train-00000-of-00001,B,"Question:
+After coming home from his trip to the west coat, John hung the fox on his wall.  He could do this because the fox was what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hen house
+B. painting
+C. california
+D. virginia
+E. blowing the house down
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Lilly was getting warm and John's hands ran down her hips and rubbed her butt.  She wasn't quite there yet, but she was beginning to experience what?",getting warm,train-00000-of-00001,E,"Question:
+Lilly was getting warm and John's hands ran down her hips and rubbed her butt.  She wasn't quite there yet, but she was beginning to experience what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. get hot
+B. hyperthermia
+C. feeling comfortable
+D. euphoria
+E. pleasure
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"Billy and June were in the process of procreating.  It was very fun, but they knew that it would lead to what uncomfortable end?",procreating,train-00000-of-00001,E,"Question:
+Billy and June were in the process of procreating.  It was very fun, but they knew that it would lead to what uncomfortable end?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. lack of sleep
+B. twins
+C. venereal disease
+D. overpopulation
+E. children born
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"Billy thought that there wasn't any point to hunting foxes. Besides, it was too dry to find many.  Where might he have been?",fox,train-00000-of-00001,E,"Question:
+Billy thought that there wasn't any point to hunting foxes. Besides, it was too dry to find many.  Where might he have been?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hen house
+B. florida
+C. new hampshire
+D. north dakota
+E. arkansas
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?",divine,train-00000-of-00001,D,"Question:
+Danny thought that the show was divine.   Lila disagreed.  She didn't think it was bad, but she thought it was what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. godless
+B. horrible
+C. undivine
+D. humdrum
+E. mortal
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Sally bought tickets to the event and headed out.  She was a fan, though some people found it boring and loud.  She liked watching them go around.  Where is Sally going?",tickets,train-00000-of-00001,E,"Question:
+Sally bought tickets to the event and headed out.  She was a fan, though some people found it boring and loud.  She liked watching them go around.  Where is Sally going?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. train station
+B. opera
+C. show
+D. dance
+E. race track
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+"Wrestling is a contest where two people try to pin each other to the ground.  If you are about to be pinned, what should you try to do?",wrestling,train-00000-of-00001,A,"Question:
+Wrestling is a contest where two people try to pin each other to the ground.  If you are about to be pinned, what should you try to do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. get free
+B. bruises
+C. complain about your leprosy
+D. erections
+E. competition
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"Learning languages is difficult.  Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?,",learning language,train-00000-of-00001,C,"Question:
+Learning languages is difficult.  Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?,
+
+Which of the following is the best response to the question?
+
+Choices:
+A. better communication
+B. overthinking
+C. frustration
+D. misunderstandings
+E. headaches
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"The shark kept bumping into piers and couldn't seem to get out into open water, where was it stuck?",shark,train-00000-of-00001,C,"Question:
+The shark kept bumping into piers and couldn't seem to get out into open water, where was it stuck?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. television show
+B. pacific ocean
+C. san francisco bay
+D. new england
+E. gulf of mexico
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"A person woke up in bed.  Their spouse was sleeping beside them.  They rolled over, did something, and stood.  What did they do before standing?",person,train-00000-of-00001,B,"Question:
+A person woke up in bed.  Their spouse was sleeping beside them.  They rolled over, did something, and stood.  What did they do before standing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. put on shoes
+B. sit up
+C. thank god
+D. say love
+E. converse
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+John had his appointment book with him when he got a medical checkup but he lost it somewhere. Where is the first place that he'd look for it?,appointment book,train-00000-of-00001,E,"Question:
+John had his appointment book with him when he got a medical checkup but he lost it somewhere. Where is the first place that he'd look for it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. handbag
+B. office supply store
+C. wallet
+D. pocket
+E. doctor's office
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+Billy was a very creative person but he wasn't very social. He wanted to meet new people. What would he have to do to accomplish that?,people,train-00000-of-00001,B,"Question:
+Billy was a very creative person but he wasn't very social. He wanted to meet new people. What would he have to do to accomplish that?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. talk to each other
+B. go out
+C. sing
+D. make art
+E. come home
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+James saw a kite flying in the sky.  He traced the string back to its origin and found it.  Where did the string begin?,kite,validation-00000-of-00001,E,"Question:
+James saw a kite flying in the sky.  He traced the string back to its origin and found it.  Where did the string begin?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. end of line
+B. hobby shop
+C. his hand
+D. toy store
+E. child's hand
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"He explained that the concept was corporeal and the student should be able to grasp it, but the student found the ideas what?",corporeal,train-00000-of-00001,A,"Question:
+He explained that the concept was corporeal and the student should be able to grasp it, but the student found the ideas what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. intangible
+B. intangible
+C. spiritual
+D. insubstantial
+E. incorporeal
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"John had a massive debt to 50 million dollars.  Compared to that, Leo's 2000 dollar debt seemed what?",massive,validation-00000-of-00001,C,"Question:
+John had a massive debt to 50 million dollars.  Compared to that, Leo's 2000 dollar debt seemed what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dwarf
+B. inconsequential
+C. insubstantial
+D. lame
+E. tiny
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Sally liked hair, and wanted to rub some every single day. However, she has no skill at cutting hair at all, and no interest in doing so.  What might she get to let her rub hair?",hair,train-00000-of-00001,D,"Question:
+Sally liked hair, and wanted to rub some every single day. However, she has no skill at cutting hair at all, and no interest in doing so.  What might she get to let her rub hair?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. sink
+B. moustache
+C. oils
+D. mammals
+E. barber shop
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",116
+"Jenny answered the telephone because she couldn't stand the ringing. She shouldn't have though, because it wasn't here place.  She was just visiting. Where might she be?",telephone,train-00000-of-00001,C,"Question:
+Jenny answered the telephone because she couldn't stand the ringing. She shouldn't have though, because it wasn't here place.  She was just visiting. Where might she be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. party
+B. hotel
+C. friend's house
+D. office
+E. bedroom
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+Lilly wanted to go about procreating but what no desire to have sex with a man.  So she went to a clinic and bought something.  What did she buy?,procreating,train-00000-of-00001,D,"Question:
+Lilly wanted to go about procreating but what no desire to have sex with a man.  So she went to a clinic and bought something.  What did she buy?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. partner
+B. in bed
+C. orgasm
+D. cum
+E. naked
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+James needed to reset after a long day at work.   He turned on the television and found a good show.  What might that help him do?,rest,train-00000-of-00001,A,"Question:
+James needed to reset after a long day at work.   He turned on the television and found a good show.  What might that help him do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. relax
+B. go to sleep
+C. lay down
+D. go to bed
+E. sleep easily
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"He spent all summer in his room playing video games, because of this it wasn't surprising for Mother to find a stack of dirty dishes in her what?",dirty dishes,train-00000-of-00001,A,"Question:
+He spent all summer in his room playing video games, because of this it wasn't surprising for Mother to find a stack of dirty dishes in her what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. son's room
+B. party
+C. dishwasher
+D. restaurant kitchen
+E. shoes
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Joe was there to meet a large number of people.  As he filed though the entrance hall, he saw many strangers who came from far away.  What sort of building is he probably in?",entrance hall,validation-00000-of-00001,C,"Question:
+Joe was there to meet a large number of people.  As he filed though the entrance hall, he saw many strangers who came from far away.  What sort of building is he probably in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. person
+B. box
+C. convention center
+D. public building
+E. large building
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+Dave worked hard because he wanted to know what his wife was thinking and feeling.  He put effort into listening to her  and this lead to him understanding her better.  Both of them found something in this. What did they obtain?,understanding better,train-00000-of-00001,B,"Question:
+Dave worked hard because he wanted to know what his wife was thinking and feeling.  He put effort into listening to her  and this lead to him understanding her better.  Both of them found something in this. What did they obtain?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. increased knowledge
+B. satisfaction
+C. friendships
+D. compassion
+E. increase knowledge
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+"Curiosity caused a cat to jump on john's table, and knock over his lunch.  It was ruined.  He needed to get more, by doing what?",curiosity,train-00000-of-00001,C,"Question:
+Curiosity caused a cat to jump on john's table, and knock over his lunch.  It was ruined.  He needed to get more, by doing what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. find truth
+B. examine thing
+C. go to market
+D. attend school
+E. cooking
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+Miss Grady took a stick from Bob because he was playing with it during class.  She wanted to make sure that he couldn't get to it so she put it where?,glue stick,validation-00000-of-00001,A,"Question:
+Miss Grady took a stick from Bob because he was playing with it during class.  She wanted to make sure that he couldn't get to it so she put it where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. desk drawer
+B. kitchen drawer
+C. classroom
+D. pocket
+E. office
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Billy cared about his opponent, in spite of their disagreements.  Because of that, when he lost the primary, Billy began to do what for him?",opponent,train-00000-of-00001,D,"Question:
+Billy cared about his opponent, in spite of their disagreements.  Because of that, when he lost the primary, Billy began to do what for him?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. proponent
+B. supporter
+C. falling down
+D. advocate
+E. dig up skeletons
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"John had his appointment book with him when he got a medical checkup but he lost it somewhere.  He doesn't want to bother looking for it, so where would he go to get a new one?",appointment book,train-00000-of-00001,C,"Question:
+John had his appointment book with him when he got a medical checkup but he lost it somewhere.  He doesn't want to bother looking for it, so where would he go to get a new one?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. his house
+B. pocket
+C. office supply store
+D. doctor's office
+E. handbag
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",116
+"Dan was living on his own in a big city.   He was okay with his situation, and enjoyed all the fun things to do, but he was still searching for something. What was he searching for?",living,train-00000-of-00001,B,"Question:
+Dan was living on his own in a big city.   He was okay with his situation, and enjoyed all the fun things to do, but he was still searching for something. What was he searching for?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. the mafia
+B. happiness
+C. death
+D. pollution
+E. have experiences
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"James bought two cats for emma during her chemo.  They cheared her up.  But the chemo wasn't working as well as it was supposed to, and Emma felt that they had come to something.  What did she feel they had come to?",cats,train-00000-of-00001,D,"Question:
+James bought two cats for emma during her chemo.  They cheared her up.  But the chemo wasn't working as well as it was supposed to, and Emma felt that they had come to something.  What did she feel they had come to?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. find a friend
+B. excrete
+C. have cancer
+D. cross roads
+E. drink water
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",129
+"The lizard startled the vacationer, he then joked it was one thing that hadn't disappeared in the mysterious triangle where?",lizard,train-00000-of-00001,D,"Question:
+The lizard startled the vacationer, he then joked it was one thing that hadn't disappeared in the mysterious triangle where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. south america
+B. south carolina
+C. utah
+D. bermuda
+E. new mexico
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Choosing a cruise for traveling can have many benefits, socially you're in close proximity strangers and get to experience what more quickly?",traveling,train-00000-of-00001,C,"Question:
+Choosing a cruise for traveling can have many benefits, socially you're in close proximity strangers and get to experience what more quickly?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. getting somewhere
+B. motion sickness
+C. meeting new people
+D. disorientation
+E. bad food
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+People do many things to alleviate boredom.  If you can't get out of the house you might decide to do what?,boredom,validation-00000-of-00001,D,"Question:
+People do many things to alleviate boredom.  If you can't get out of the house you might decide to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. play cards
+B. skateboard
+C. meet interesting people
+D. listen to music
+E. go to a concert
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"John only gave a perfunctory examination of the corpse, though he did everything required of him.  He missed the real cause of death.  He wouldn't have if he had been more what?",perfunctory,train-00000-of-00001,D,"Question:
+John only gave a perfunctory examination of the corpse, though he did everything required of him.  He missed the real cause of death.  He wouldn't have if he had been more what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. careful
+B. thoughtful
+C. complete
+D. thorough
+E. intricate
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"The morbidly obese man with unkempt facial hair got his dream job, he was eating hamburger for a show every week which brought him total what?",eating hamburger,train-00000-of-00001,D,"Question:
+The morbidly obese man with unkempt facial hair got his dream job, he was eating hamburger for a show every week which brought him total what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. french fries
+B. enjoy
+C. nausea
+D. satisfaction
+E. gas
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"Sarah was watching a film, but she missed the middle.   She closed her eyes in the beginning and when she opened them the credits were rolling.  What did she do?",watching film,train-00000-of-00001,D,"Question:
+Sarah was watching a film, but she missed the middle.   She closed her eyes in the beginning and when she opened them the credits were rolling.  What did she do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. entertainment
+B. die
+C. crying
+D. falling asleep
+E. masturbate
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"Shane was supposed to speak at his fathers funeral.  He was a clown, and acted very ridiculous.  This cheerfulness turned off people who expected the funeral to be what?",ridiculous,train-00000-of-00001,D,"Question:
+Shane was supposed to speak at his fathers funeral.  He was a clown, and acted very ridiculous.  This cheerfulness turned off people who expected the funeral to be what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. solemn
+B. compete
+C. serious
+D. somber
+E. straightforward
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+"An astronout in space needed to know what side of the planet the English Channel was on, where did he aim his spacecraft?",english channel,train-00000-of-00001,A,"Question:
+An astronout in space needed to know what side of the planet the English Channel was on, where did he aim his spacecraft?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. northern hemisphere
+B. atlantic ocean
+C. go boating
+D. england
+E. canada
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"""There are 10 apples on an apple tree.  Three fall off.  Now there are X apples.""  What is this an example of?",apple tree,train-00000-of-00001,D,"Question:
+""There are 10 apples on an apple tree.  Three fall off.  Now there are X apples.""  What is this an example of?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. park
+B. coloring book
+C. garden center
+D. math problem
+E. gravity
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Joan was a baby, so there were many things she couldn't do, which caused problems for her parents.  Name one thing that makes raising a baby difficult.",baby,validation-00000-of-00001,E,"Question:
+Joan was a baby, so there were many things she couldn't do, which caused problems for her parents.  Name one thing that makes raising a baby difficult.
+
+Which of the following is the best response to the question?
+
+Choices:
+A. arrive early
+B. learn to walk
+C. boy or girl
+D. bring joy
+E. talk nonsense
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+Sarah didn't own a computer or a monitor.  Instead she just used something connected to her TV.  How would she describe the thing connected to her TV?,monitor,train-00000-of-00001,A,"Question:
+Sarah didn't own a computer or a monitor.  Instead she just used something connected to her TV.  How would she describe the thing connected to her TV?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. box
+B. internet cafe
+C. view bluescreen
+D. desktop
+E. display images
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"Dan was ditting quietly on the couch with a book in his hand.  Laurie thought that he was just focused on what he was doing, but he actually did what?",sitting quietly,validation-00000-of-00001,E,"Question:
+Dan was ditting quietly on the couch with a book in his hand.  Laurie thought that he was just focused on what he was doing, but he actually did what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. eat
+B. think
+C. reading
+D. meditate
+E. fall asleep
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"James complained that Alexa's electric guitar was too loud and he couldn't get any work done at home,  so she decided that she should get an acoustic guitar.  Where might she look for one?",acoustic guitar,train-00000-of-00001,B,"Question:
+James complained that Alexa's electric guitar was too loud and he couldn't get any work done at home,  so she decided that she should get an acoustic guitar.  Where might she look for one?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. house
+B. music shop
+C. studio
+D. storage
+E. closet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",113
+"The war was followed by a tentative peace.  People didn't think it would last because despite a desire to move forward, there rebuilding was difficult and there was a lot of what?",peace,train-00000-of-00001,E,"Question:
+The war was followed by a tentative peace.  People didn't think it would last because despite a desire to move forward, there rebuilding was difficult and there was a lot of what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. love and understanding
+B. fighting
+C. hostility
+D. destruction
+E. turmoil
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+John and George are camping together.  They're sitting around a pile of sticks and john is lighting a match.  Why is john lighting a match?,lighting match,train-00000-of-00001,C,"Question:
+John and George are camping together.  They're sitting around a pile of sticks and john is lighting a match.  Why is john lighting a match?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. illumination
+B. set on fire
+C. make fire
+D. making flame
+E. frustration
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+Simon bought a cow because he wanted to put it to work.   He didn't want any meat for it.  Where might Simon be taking the cow?,cow,train-00000-of-00001,C,"Question:
+Simon bought a cow because he wanted to put it to work.   He didn't want any meat for it.  Where might Simon be taking the cow?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. countryside
+B. city
+C. dairy farm
+D. butcher shop
+E. canada
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+When John flew to a new state he didn't know where any of the bars where.  He eventually found something that wasn't a bar but still served drinks. What might he have found?,bar,train-00000-of-00001,D,"Question:
+When John flew to a new state he didn't know where any of the bars where.  He eventually found something that wasn't a bar but still served drinks. What might he have found?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. airport
+B. restaurant
+C. michigan
+D. public house
+E. las vegas
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"Sarah wanted to by a new rug.  Ink spilled onto her old one.  Really, she didn't know what that thing had an inkwell in the first place.  What piece of furniture might have been on her run?",rug,train-00000-of-00001,C,"Question:
+Sarah wanted to by a new rug.  Ink spilled onto her old one.  Really, she didn't know what that thing had an inkwell in the first place.  What piece of furniture might have been on her run?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. front of door
+B. bedroom
+C. desk
+D. table
+E. living room
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",121
+"James goes to church regularly.  He needs to move, but wants to move to a place with a church.  Where, in America, might one expect to find a church?",church,train-00000-of-00001,D,"Question:
+James goes to church regularly.  He needs to move, but wants to move to a place with a church.  Where, in America, might one expect to find a church?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. christian community
+B. city
+C. wedding
+D. every town
+E. preast
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad.  He would be unable to hold his tools if he injured what?,punching,train-00000-of-00001,E,"Question:
+John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad.  He would be unable to hold his tools if he injured what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hostility
+B. anger
+C. nose
+D. fists
+E. hands
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"James and Judy are preparing to copulate.  In order to ensure that things go smoothly, they engage in foreplay.  What might they start by doing?",copulate,train-00000-of-00001,A,"Question:
+James and Judy are preparing to copulate.  In order to ensure that things go smoothly, they engage in foreplay.  What might they start by doing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. kiss
+B. lubricate
+C. sleep
+D. procreation
+E. sexual release
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"James got a teabag and boiled some tea, he then poured it into a container, put it away, and went back to his computer.  Where did he put the tea?",tea,train-00000-of-00001,E,"Question:
+James got a teabag and boiled some tea, he then poured it into a container, put it away, and went back to his computer.  Where did he put the tea?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cup
+B. internet cafe
+C. cupboard
+D. teapot
+E. refrigerator
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"While on the fan boat he thought he'd see swamps and gators, but he was surprised to spot a bald eagle in what nature area?",bald eagle,validation-00000-of-00001,A,"Question:
+While on the fan boat he thought he'd see swamps and gators, but he was surprised to spot a bald eagle in what nature area?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. everglades
+B. high places
+C. natural habitat
+D. new york
+E. colorado
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"The bathroom was dirty and messy.  It was cleaned every day, but it was always full of water and pee by morning.  Where is the bathroom located?",bathroom,train-00000-of-00001,A,"Question:
+The bathroom was dirty and messy.  It was cleaned every day, but it was always full of water and pee by morning.  Where is the bathroom located?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. school
+B. at hotel
+C. neighbor's house
+D. college
+E. flat
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"Randy was not doing housework.   His wife was raising two children, and this only increased her workload. It put her under a lot of stress.  What might this lead to?",doing housework,train-00000-of-00001,E,"Question:
+Randy was not doing housework.   His wife was raising two children, and this only increased her workload. It put her under a lot of stress.  What might this lead to?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. asthma
+B. more
+C. boredom
+D. headache
+E. arguments
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"Billy loved choose, but he didn't put it on his meal because he was watching his weight. He even used a low fat what?",cheese,train-00000-of-00001,B,"Question:
+Billy loved choose, but he didn't put it on his meal because he was watching his weight. He even used a low fat what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. lot of fat
+B. salad dressing
+C. strong odor
+D. age to get better
+E. age well
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"The person went to the ticket booth to buy a trip, they now had to wait for the rails to signal the arrival or their ride at the what?",ticket booth,train-00000-of-00001,D,"Question:
+The person went to the ticket booth to buy a trip, they now had to wait for the rails to signal the arrival or their ride at the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. auditorium
+B. fairgrounds
+C. airport
+D. metro station
+E. amusement park
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"John couldn't smile. He wasn't sad,  he didn't have the muscles for it anymore.   But he made the kids happy by standing on his head when he did what?",smile,train-00000-of-00001,B,"Question:
+John couldn't smile. He wasn't sad,  he didn't have the muscles for it anymore.   But he made the kids happy by standing on his head when he did what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. make jokes
+B. frown
+C. make others happy too
+D. cry
+E. rainbow
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",113
+James finishes playing with his ball and left it on the floor.  His mother found it and put it somewhere that he could find it easily.  Where might she put it?,ball,train-00000-of-00001,D,"Question:
+James finishes playing with his ball and left it on the floor.  His mother found it and put it somewhere that he could find it easily.  Where might she put it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. playroom
+B. brush
+C. closet
+D. toy box
+E. pool table
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"John noticed that there was a lot of water on his map. Water covered more than half of his map, in fact.   What might his map have been of?",water,train-00000-of-00001,E,"Question:
+John noticed that there was a lot of water on his map. Water covered more than half of his map, in fact.   What might his map have been of?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. car
+B. puddle
+C. ocean
+D. sink
+E. surface of earth
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Susan was attending a meeting of the KKK, even though she did not believe in their cause.  Why might she have been doing so?",attending meeting,train-00000-of-00001,D,"Question:
+Susan was attending a meeting of the KKK, even though she did not believe in their cause.  Why might she have been doing so?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. sharing ideas
+B. sell hotdogs
+C. fall asleep
+D. getting information
+E. sharing information
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Billy is an animal, but he is alergic to trees. He hates them very much.  Still, he wants to have a picnic and can't stand the idea of buying food from a restaurant.  Where would he have his picnic?",animal,train-00000-of-00001,D,"Question:
+Billy is an animal, but he is alergic to trees. He hates them very much.  Still, he wants to have a picnic and can't stand the idea of buying food from a restaurant.  Where would he have his picnic?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. addidas
+B. north america
+C. cafe
+D. outside
+E. woodland
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",126
+"Sally didn't know what she planned to do.  She was going to remodel her front garden, but she couldn't because of zoning rules.  Such was the perils of living where?",front garden,train-00000-of-00001,B,"Question:
+Sally didn't know what she planned to do.  She was going to remodel her front garden, but she couldn't because of zoning rules.  Such was the perils of living where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. outside of house
+B. urban area
+C. town hall
+D. front yard
+E. michigan
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+"John enjoyed his time visiting the museum.  He wanted to spend more time there, so that he could study the exhibits more.   He was a very academic person and loved doing what?",visiting museum,train-00000-of-00001,B,"Question:
+John enjoyed his time visiting the museum.  He wanted to spend more time there, so that he could study the exhibits more.   He was a very academic person and loved doing what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. tired feet
+B. gaining knowledge
+C. back pain
+D. being bored
+E. pondering
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",111
+"Billy loved having food, but he didn't like the consequences of overeating.   What is the long-term consequence of having too much food?",having food,train-00000-of-00001,C,"Question:
+Billy loved having food, but he didn't like the consequences of overeating.   What is the long-term consequence of having too much food?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. digesting
+B. constipation
+C. weight gain
+D. not hungry
+E. gas
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"The man  tried to break the glass in order to make his escape in time, but he could not.  The person in the cat, trying to kill him, did what?",break,validation-00000-of-00001,A,"Question:
+The man  tried to break the glass in order to make his escape in time, but he could not.  The person in the cat, trying to kill him, did what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. accelerate
+B. putting together
+C. working
+D. construct
+E. train
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"He was staying at a resort near Nevada and California, he left on his boat from the dock in the north and at the opposite end spotted a bald eagle, where was he?",bald eagle,train-00000-of-00001,D,"Question:
+He was staying at a resort near Nevada and California, he left on his boat from the dock in the north and at the opposite end spotted a bald eagle, where was he?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. central idaho
+B. hells canyon
+C. canada
+D. south lake tahoe
+E. park
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",114
+"Billy and Marge were a couple.  They weren't serious and they didn't get frisky, but they always enjoyed going and doing what?",couple,train-00000-of-00001,A,"Question:
+Billy and Marge were a couple.  They weren't serious and they didn't get frisky, but they always enjoyed going and doing what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dance
+B. marry each other
+C. french kissing
+D. make sex
+E. plan to marry
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+"The lady was getting worked up about the article explaining the uptick in accidents in their area, but her husband was dismissive of it stating that accidents what?",accidents,train-00000-of-00001,E,"Question:
+The lady was getting worked up about the article explaining the uptick in accidents in their area, but her husband was dismissive of it stating that accidents what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. happen to people
+B. hurt people
+C. happen anytime
+D. happen often
+E. happen anywhere
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+Dan is very creative. He likes to read and wants to make something like that.   On a rainy day he tries his hand.  What might he do?,rainy day,train-00000-of-00001,A,"Question:
+Dan is very creative. He likes to read and wants to make something like that.   On a rainy day he tries his hand.  What might he do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. write
+B. go to movie
+C. stay in bed
+D. enjoy film
+E. make bread
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"After jumping up and down on the floor, the child's mother yelled after she was told she was distracting her downstairs neighbors because of making what?",jumping up and down,train-00000-of-00001,C,"Question:
+After jumping up and down on the floor, the child's mother yelled after she was told she was distracting her downstairs neighbors because of making what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. exercise
+B. tantrums
+C. lot of noise
+D. hiccups
+E. getting warm
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"John is sitting in a toilet stall in a bathroom, outside he can hear cars going around in circles.  What is the function of the place he is most likely at?",bathroom,validation-00000-of-00001,C,"Question:
+John is sitting in a toilet stall in a bathroom, outside he can hear cars going around in circles.  What is the function of the place he is most likely at?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. eating food
+B. public place
+C. race track
+D. at hotel
+E. public building
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+"The king gave a speech about it being an auspicious day, but he was assassinated in the middle of it making it actually what?",auspicious,train-00000-of-00001,E,"Question:
+The king gave a speech about it being an auspicious day, but he was assassinated in the middle of it making it actually what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. ominous
+B. coincidental
+C. ruinous
+D. inauspicious
+E. disastrous
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+Mom said that Sarah should stay in bed until she was able to go to school again..  What did mom say to Sarah when she tried to get up?,stay in bed,train-00000-of-00001,A,"Question:
+Mom said that Sarah should stay in bed until she was able to go to school again..  What did mom say to Sarah when she tried to get up?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. you're sick
+B. were sick
+C. more rest
+D. rest more
+E. get back under the covers
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"There are many cottages where James lives. He likes drawing pictures of those cottages and the people who live in them. When he's finished with one, he shows it to the others. This type of place is called what?",cottage,train-00000-of-00001,B,"Question:
+There are many cottages where James lives. He likes drawing pictures of those cottages and the people who live in them. When he's finished with one, he shows it to the others. This type of place is called what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. countryside
+B. village
+C. fairy story
+D. painting
+E. neighborhood
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+"John bought a ferret at a pet shop.  He couldn't take it on the bus, so he called something else.  What might he have called?",ferret,train-00000-of-00001,B,"Question:
+John bought a ferret at a pet shop.  He couldn't take it on the bus, so he called something else.  What might he have called?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cousin's house
+B. taxi cab
+C. own home
+D. friend
+E. wood pile
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+Bob didn't know that the secret passageway was there when he bought the place. It led to a bomb shelter in the back yard.  Where might the passage way have been?,passageway,train-00000-of-00001,E,"Question:
+Bob didn't know that the secret passageway was there when he bought the place. It led to a bomb shelter in the back yard.  Where might the passage way have been?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. airport
+B. building
+C. hotel
+D. shopping mall
+E. house
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+Violence is inescapable.  In both the conflict between nations and the conflict between men.   Donny enjoyed the violence.  He likes going up against other people.  That's why he played what?,violence,train-00000-of-00001,D,"Question:
+Violence is inescapable.  In both the conflict between nations and the conflict between men.   Donny enjoyed the violence.  He likes going up against other people.  That's why he played what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. result in getting killed
+B. protest
+C. being done against
+D. hockey game
+E. war
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",118
+"A koala was far from home, across the ocean from Australia, in a country that also spoke English. Where might it have been?",koala,train-00000-of-00001,E,"Question:
+A koala was far from home, across the ocean from Australia, in a country that also spoke English. Where might it have been?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. gum tree
+B. england
+C. great outdoors
+D. jungle
+E. san diego zoo
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"She tried to show her grandma she could look up the restaurant's information on her smartphone, but the old lady wanted to just use the what?",restaurant,train-00000-of-00001,A,"Question:
+She tried to show her grandma she could look up the restaurant's information on her smartphone, but the old lady wanted to just use the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. yellow pages
+B. new york
+C. business sector
+D. canada
+E. big city
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+John carred for Lucy but had trouble expressing it.  Lucy was disturbed by John's inability to express affection and felt that he was what?,care,train-00000-of-00001,E,"Question:
+John carred for Lucy but had trouble expressing it.  Lucy was disturbed by John's inability to express affection and felt that he was what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. being mean
+B. negligence
+C. disinterest
+D. misunderstood
+E. unfeeling
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"The teacher was trying to describe what an island was to the young children, she explained it was a piece of land surrounded by what?",island,train-00000-of-00001,B,"Question:
+The teacher was trying to describe what an island was to the young children, she explained it was a piece of land surrounded by what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hawaii
+B. body of water
+C. niagra falls
+D. mississippi river
+E. pacific ocean
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"When they got out of the car in the mountains he felt like he was breathing fresh air for the first time, he began to do what to enjoy it more?",breathing fresh air,train-00000-of-00001,E,"Question:
+When they got out of the car in the mountains he felt like he was breathing fresh air for the first time, he began to do what to enjoy it more?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. living
+B. feeling good
+C. hyperventilate
+D. look around
+E. breathe deeply
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+Jamie started fiddling when she was 13. It was an exciting thing for her.  She'd never played an instrument before and was thrilled.  What might have been thrilling for her?,fiddling,train-00000-of-00001,E,"Question:
+Jamie started fiddling when she was 13. It was an exciting thing for her.  She'd never played an instrument before and was thrilled.  What might have been thrilling for her?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dancing about
+B. being happy
+C. snapped fiddle string.
+D. square dancing
+E. discovery
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",119
+"David was lost but he couldn't remember where he put the map.  He knew that he had it the last time he stopped.  He remembered getting out his toothbrush and brushing, then putting everything up. Where might the map be?",map,train-00000-of-00001,E,"Question:
+David was lost but he couldn't remember where he put the map.  He knew that he had it the last time he stopped.  He remembered getting out his toothbrush and brushing, then putting everything up. Where might the map be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. atlas
+B. rest area
+C. posession
+D. heaven
+E. suitcase
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",122
+"Sally lost her kite because she wasn't careful.  She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?.",kite,train-00000-of-00001,D,"Question:
+Sally lost her kite because she wasn't careful.  She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?.
+
+Which of the following is the best response to the question?
+
+Choices:
+A. child's hand
+B. the last straw
+C. hobby shop
+D. end of line
+E. toy store
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",115
+"Sam couldn't turn off his computer and it was stuck.  He didn't know why, but he called tech support because he was sure of what?",computer,train-00000-of-00001,B,"Question:
+Sam couldn't turn off his computer and it was stuck.  He didn't know why, but he called tech support because he was sure of what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. make decisions
+B. reason exists
+C. control model
+D. power down
+E. believe in satan
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"Sarah was contemplating her fate.  She didn't  know what Dane had planned for her, but she knew that when something happened she couldn't do what?",contemplating,train-00000-of-00001,B,"Question:
+Sarah was contemplating her fate.  She didn't  know what Dane had planned for her, but she knew that when something happened she couldn't do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. new insights
+B. hesitation
+C. action
+D. enlightenment
+E. speak
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"At reception desk John asked  to see a person who was helping him make a sale.  Lilly came out immediately and took him back to her space, and talked to him about his needs.  He said that he was willing to lower the price to 80,000 if it would sale faster.  Where might John be?",reception desk,train-00000-of-00001,D,"Question:
+At reception desk John asked  to see a person who was helping him make a sale.  Lilly came out immediately and took him back to her space, and talked to him about his needs.  He said that he was willing to lower the price to 80,000 if it would sale faster.  Where might John be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. large office
+B. at hotel
+C. building
+D. real estate office
+E. store room
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",142
+Alexa wants to eat lunch  but she left her lunchbox and wallet at home.  John gives her a twenty so that she can go out and do what?,eat lunch,train-00000-of-00001,D,"Question:
+Alexa wants to eat lunch  but she left her lunchbox and wallet at home.  John gives her a twenty so that she can go out and do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. borrow food
+B. have food
+C. prepare food
+D. buy food
+E. get food
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"She got a snack and drink and laid back in her chaise lounge, the day was finally over and she could just read book and what?",read book,train-00000-of-00001,C,"Question:
+She got a snack and drink and laid back in her chaise lounge, the day was finally over and she could just read book and what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. choose one
+B. open up
+C. get comfortable
+D. plot world domination
+E. learn to read
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"During the seated interview the hiring agent hired the man on the spot, he got a contract and pen out of the what right on the spot?",pen,train-00000-of-00001,C,"Question:
+During the seated interview the hiring agent hired the man on the spot, he got a contract and pen out of the what right on the spot?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. other mans pocket
+B. friend's house
+C. desk drawer
+D. office supply store
+E. briefcase
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+Sally was a real estate agent but she was a bad one.  She didn't do well because people knew that she would oversell some features of the homes she sold. They assumed that she was always doing what?,real estate agent,train-00000-of-00001,D,"Question:
+Sally was a real estate agent but she was a bad one.  She didn't do well because people knew that she would oversell some features of the homes she sold. They assumed that she was always doing what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cover up
+B. lie
+C. manipulate
+D. exaggerate
+E. incompetent
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",117
+"The show was live,  and there was no tape delay.  The station decided that they weren't going to have any censorship, and would remain what regarding the issues?",live,train-00000-of-00001,A,"Question:
+The show was live,  and there was no tape delay.  The station decided that they weren't going to have any censorship, and would remain what regarding the issues?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. neutral
+B. animated
+C. broadcast
+D. biased
+E. recorded
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Mary was a high school student student.She hang out in a quiet place where she could study.  Then the bell rang, telling her she needed to go.  Where  did she need to go?",student,train-00000-of-00001,B,"Question:
+Mary was a high school student student.She hang out in a quiet place where she could study.  Then the bell rang, telling her she needed to go.  Where  did she need to go?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. university
+B. classroom
+C. dinner
+D. library
+E. every aspect of life
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+Susan was playing games with her five year old son Tim.  She played them because they were designed to help him with something.  What might they help a child with?,playing games,train-00000-of-00001,A,"Question:
+Susan was playing games with her five year old son Tim.  She played them because they were designed to help him with something.  What might they help a child with?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. learning
+B. competitiveness
+C. losing
+D. winning
+E. relaxation
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"The coach explained respect to the players before the game against the worst team in the league, he didn't want his players to what to the opponents?",respect,train-00000-of-00001,A,"Question:
+The coach explained respect to the players before the game against the worst team in the league, he didn't want his players to what to the opponents?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. belittle
+B. contemn
+C. diss
+D. castrate
+E. disregard
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",104
+"Bill was on a diet, but that didn't matter.  He cared most about his audio quality.  He had to turn up the gain because the high-impedance equipment he used cause what to volume?",gain,train-00000-of-00001,C,"Question:
+Bill was on a diet, but that didn't matter.  He cared most about his audio quality.  He had to turn up the gain because the high-impedance equipment he used cause what to volume?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. lost
+B. lose weight
+C. loss
+D. waste
+E. reduce
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"Joe found that he was stabbing a man to death.  He didn't expect to be doing that, he was just angry. He was scared of the consequences  Thecollapsed covered with what?",stabbing to death,train-00000-of-00001,A,"Question:
+Joe found that he was stabbing a man to death.  He didn't expect to be doing that, he was just angry. He was scared of the consequences  Thecollapsed covered with what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. knife wounds
+B. knives
+C. bleeding
+D. law suit
+E. jail time
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",113
+The referee wasn't specialized in one thing. He refereed many games.  He was offered a job but wasn't sure what it would be.  What did he know it would be?,referee,train-00000-of-00001,E,"Question:
+The referee wasn't specialized in one thing. He refereed many games.  He was offered a job but wasn't sure what it would be.  What did he know it would be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. side with opponent
+B. football
+C. hockey game
+D. part two boxers
+E. sporting event
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",117
+Joe was thrown from his boat into the water.  The water was cold because it was the middle of winter and he cried out to his crew for help.  They couldn't hear him over the sound of the what?,water,validation-00000-of-00001,D,"Question:
+Joe was thrown from his boat into the water.  The water was cold because it was the middle of winter and he cried out to his crew for help.  They couldn't hear him over the sound of the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. surface of earth
+B. teardrops
+C. snowflake
+D. typhoon
+E. motor
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",122
+John walked up to the reception desk and rang a bell.  He waited for five minutes and told the reception person that he had a reservation. Where might he be?,reception desk,train-00000-of-00001,C,"Question:
+John walked up to the reception desk and rang a bell.  He waited for five minutes and told the reception person that he had a reservation. Where might he be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. lobby
+B. office park
+C. at hotel
+D. large office
+E. real estate office
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"The monkey didn't touch the ground.  He jumped around, laughed, threw things, and had all sorts of fun, but he never left something. What did he never leave?",monkey,train-00000-of-00001,E,"Question:
+The monkey didn't touch the ground.  He jumped around, laughed, threw things, and had all sorts of fun, but he never left something. What did he never leave?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. branches
+B. brazil
+C. playful mood
+D. rain forest
+E. treetops
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",112
+"He just needed to pick up one more thing off his list and fill his cart, he grabbed some coffee on his way to checking out of where?",coffee,train-00000-of-00001,D,"Question:
+He just needed to pick up one more thing off his list and fill his cart, he grabbed some coffee on his way to checking out of where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. curch
+B. fast food restaurant
+C. friend's house
+D. grocery store
+E. internet cafe
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"The horse had given so many rides that day, that they didn't know where to find him except where his favorite toy was next to his dinner and bed?",horse,train-00000-of-00001,A,"Question:
+The horse had given so many rides that day, that they didn't know where to find him except where his favorite toy was next to his dinner and bed?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. found in stall
+B. farmhouse
+C. doing farm work
+D. ridden
+E. found on ranch
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+Sam spent most of his time standing up.  His job was hectic and he never got any rest. But he was the best cashier at his workplace.    Where might he work?,cashier,train-00000-of-00001,C,"Question:
+Sam spent most of his time standing up.  His job was hectic and he never got any rest. But he was the best cashier at his workplace.    Where might he work?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bookstore
+B. count till
+C. supermarket
+D. shop
+E. preschool
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",110
+"The student wanted to impress with his essay and looked up a synonym for standard, he found a word that had a slant rhyme with ""proverbial"" and was quite proud, what did he find?",standard,train-00000-of-00001,E,"Question:
+The student wanted to impress with his essay and looked up a synonym for standard, he found a word that had a slant rhyme with ""proverbial"" and was quite proud, what did he find?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. informal
+B. stanine
+C. basic
+D. nonstandard
+E. colloquial
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",116
+"Sarah went to school to be a nurse.  She loved giving assistance to people in need. To better help people, she had to constantly do something.  What might she do to better help people?",giving assistance,train-00000-of-00001,B,"Question:
+Sarah went to school to be a nurse.  She loved giving assistance to people in need. To better help people, she had to constantly do something.  What might she do to better help people?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. people helped
+B. learning new skills
+C. better circumstances
+D. practice
+E. happiness
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",113
+"The building could accommodate many people.  The entrance hall alone was impressive, being wide enough to admit a hundred shoulder to shoulder.  But the building was owned by a billionaire and used only for his personal entertainment.  How would you describe this place?",entrance hall,train-00000-of-00001,C,"Question:
+The building could accommodate many people.  The entrance hall alone was impressive, being wide enough to admit a hundred shoulder to shoulder.  But the building was owned by a billionaire and used only for his personal entertainment.  How would you describe this place?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. convention center
+B. public building
+C. large building
+D. school
+E. town hall
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",122
+"She had learned how to make bread that was quite good, she had finished a new loaf and now all there was left to do was to what?",make bread,train-00000-of-00001,C,"Question:
+She had learned how to make bread that was quite good, she had finished a new loaf and now all there was left to do was to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fresher
+B. tastes better than storebought
+C. eat bread
+D. i'm hungry
+E. throw it away
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"John couldn't find an affordable place to stay so he decided to splurge.  He picked a place that was fancy and upscale, expensive.  Where might he be staying?",place to stay,train-00000-of-00001,E,"Question:
+John couldn't find an affordable place to stay so he decided to splurge.  He picked a place that was fancy and upscale, expensive.  Where might he be staying?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. city
+B. mexico
+C. motel
+D. restaraunt
+E. hotel
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",109
+"James didn't have any teabags at home, nor did he have any cold tea.  He wanted tea, though, he rushed out and went where?",tea,train-00000-of-00001,A,"Question:
+James didn't have any teabags at home, nor did he have any cold tea.  He wanted tea, though, he rushed out and went where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. internet cafe
+B. refrigerator
+C. teapot
+D. cupboard
+E. coffee shop
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",108
+Billy couldn't get the hang of riding a horse.  He didn't like going fast because it made him feel something.  What did it make him feel?,riding horse,train-00000-of-00001,C,"Question:
+Billy couldn't get the hang of riding a horse.  He didn't like going fast because it made him feel something.  What did it make him feel?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. stiffness
+B. jolting
+C. fear
+D. movement
+E. blisters
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",107
+Billy was opening a new Deli. He wanted to open it in a place that gets a lot of traffic.  Where might he open it?,deli,train-00000-of-00001,C,"Question:
+Billy was opening a new Deli. He wanted to open it in a place that gets a lot of traffic.  Where might he open it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. new york city
+B. strip mall
+C. shopping center
+D. hamburg
+E. office building
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",106
+"James is very interested in other planets.  He loved the idea of going to mars, and reads books about it all the time.   He dreams of being on what?",human,train-00000-of-00001,D,"Question:
+James is very interested in other planets.  He loved the idea of going to mars, and reads books about it all the time.   He dreams of being on what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. love
+B. zoo
+C. school
+D. space shuttle
+E. library
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",105
+"The peaceful nation was scared of their neighbor amassing troops at the border, what behavior did they fear?",peaceful,train-00000-of-00001,D,"Question:
+The peaceful nation was scared of their neighbor amassing troops at the border, what behavior did they fear?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. violent
+B. warring
+C. eferendum because their country’s constitution mandates that the people go to a referendum after the icj has made a ruling in the case and not before
+D. belligerent
+E. nonpeaceful
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",128

@@ -1,0 +1,105 @@
+ind,activity_label,ctx,answer,final_prompt,len_tk_gemma2_9b_it
+12552.0,Doing motocross,"He is shown on a bmx dirt bike, performing a plethora of stunts, wheelies, and spins for a crowd. women",C,"Context:
+""He is shown on a bmx dirt bike, performing a plethora of stunts, wheelies, and spins for a crowd. women""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. touch each other's hands, watch and clap for the happy little guy.
+B. hug each other in the close.
+C. are shown close up, dancing.
+D. in orange selfies him from several angles.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",114
+10100.0,Playing pool,The man then takes another shot. The man takes his third shot. The man makes his fourth shot. the man,C,"Context:
+""The man then takes another shot. The man takes his third shot. The man makes his fourth shot. the man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. makes his sixth shot while a man behind him cheers.
+B. makes another shot and takes his fourth shot.
+C. makes his final shot.
+D. makes his fourth shot.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",104
+39244.0,Spread mulch,We see a tree in mulch. We see a man hug a tree. We see a man with a tablet and a contraption. a man,D,"Context:
+""We see a tree in mulch. We see a man hug a tree. We see a man with a tablet and a contraption. a man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. walks by in the rain.
+B. walks around leaf blower blowing leaves into a pile.
+C. is in a plaza holding his tablet and a machine.
+D. shovels mulch and moves it with his hand.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",116
+27532.0,Mowing the lawn,A man is seen pushing a piece of machinery over large grass. a 3d animation,B,"Context:
+""A man is seen pushing a piece of machinery over large grass. a 3d animation""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. is in progress of a man pushing a piece of machinery over a big thing.
+B. is shown how the tool works.
+C. is shown with the man using the tool gradually.
+D. is followed that shows him pushing the piece of machinery back and fourth.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",116
+27228.0,Doing motocross,A crowd of people are cheering. A person on a motor bike is doing tricks off of a jump. three people,A,"Context:
+""A crowd of people are cheering. A person on a motor bike is doing tricks off of a jump. three people""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. are holding signs above their heads.
+B. are riding a motorcyclist on a dirt track.
+C. are then seen celebrating and riding on the bike.
+D. are jumping off of a high jump.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",109
+37504.0,Hula hoop,. a girl in jeans and a black shirt,B,"Context:
+"". a girl in jeans and a black shirt""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. is standing in a carpeted driveway with a red pumpkin and its glove in her hand.
+B. is holding a sparkly silver hula hoop.
+C. is giving instructions on creating a pet parlor designed to show an illustration of a closet.
+D. smooths a rifle see and goes through some scratches.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",113
+48034.0,Washing hands,Baby farm animals are touched by children. the kids,A,"Context:
+""Baby farm animals are touched by children. the kids""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. wash their hands before they leave and are really happy.
+B. are holding swords in their hands and they blade slam little hairy animals in the hay.
+C. put a clamp onto the neck of a baby animal.
+D. load animals to put in a van.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",108
+29845.0,Making a cake,A woman is sitting in a chair talking. A cake is shown on a table. A woman puts diapers into a metal pan. she,D,"Context:
+""A woman is sitting in a chair talking. A cake is shown on a table. A woman puts diapers into a metal pan. she""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. puts the top on the cake.
+B. removes the diapers from the cake.
+C. irons and burns them.
+D. stacks them on top of each other.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",105

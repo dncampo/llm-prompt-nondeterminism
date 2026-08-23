@@ -1,0 +1,2791 @@
+sentence,option1,option2,answer,final_prompt,len_tk_glm4_9b_chat
+"The glue Monica used for her project didn't work well, so Erin bought her rubber cement. _ was able to deliver it in time.",Monica,Erin,B,"Sentence:
+""The glue Monica used for her project didn't work well, so Erin bought her rubber cement. _ was able to deliver it in time.""
+
+Options:
+A. Monica
+B. Erin
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"The man chose a blue color for the bike and a pink color for the scooter, because he wanted the _ to look feminine.",bike,scooter,B,"Sentence:
+""The man chose a blue color for the bike and a pink color for the scooter, because he wanted the _ to look feminine.""
+
+Options:
+A. bike
+B. scooter
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Carrie could not handle the R movie, while Cynthia was fine with it, because _ was insufficiently mature for it.",Carrie,Cynthia,A,"Sentence:
+""Carrie could not handle the R movie, while Cynthia was fine with it, because _ was insufficiently mature for it.""
+
+Options:
+A. Carrie
+B. Cynthia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+We had a tornado warning and we didn’t take shelter in the bedroom but took shelter in the bathroom instead. The experts say the _ provides less protection.,bedroom,bathroom,A,"Sentence:
+""We had a tornado warning and we didn’t take shelter in the bedroom but took shelter in the bathroom instead. The experts say the _ provides less protection.""
+
+Options:
+A. bedroom
+B. bathroom
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+Jane tried to lower the volume of the radio so as to hear the conversation from the other room. The _ is very quiet.,radio,conversation,B,"Sentence:
+""Jane tried to lower the volume of the radio so as to hear the conversation from the other room. The _ is very quiet.""
+
+Options:
+A. radio
+B. conversation
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"To create the doll house, the woodworker used the hand saw instead of the table saw for precision work as the _ was huge.",hand saw,table saw,B,"Sentence:
+""To create the doll house, the woodworker used the hand saw instead of the table saw for precision work as the _ was huge.""
+
+Options:
+A. hand saw
+B. table saw
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Worried about getting the court on time, the woman decided to take a taxi instead of the train because the _ would get there sooner.",taxi,train,A,"Sentence:
+""Worried about getting the court on time, the woman decided to take a taxi instead of the train because the _ would get there sooner.""
+
+Options:
+A. taxi
+B. train
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Rachel had fun at the slumber party but Erin had a bad time, _ was talkative and kept everyone up all night.",Rachel,Erin,A,"Sentence:
+""Rachel had fun at the slumber party but Erin had a bad time, _ was talkative and kept everyone up all night.""
+
+Options:
+A. Rachel
+B. Erin
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Benjamin is allowed to work from home, but Logan's boss won't allow that. _ has a more stressful job.",Benjamin,Logan,B,"Sentence:
+""Benjamin is allowed to work from home, but Logan's boss won't allow that. _ has a more stressful job.""
+
+Options:
+A. Benjamin
+B. Logan
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"He had learned how to make art, but didn't know if it was his passion or a job. The _ seemed like a worse outcome.",passion,job,B,"Sentence:
+""He had learned how to make art, but didn't know if it was his passion or a job. The _ seemed like a worse outcome.""
+
+Options:
+A. passion
+B. job
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Mohammad picked out a pair of snow boots that had velcro straps rather than laces, because he thought the _ looked tacky.",laces,straps,A,"Sentence:
+""Mohammad picked out a pair of snow boots that had velcro straps rather than laces, because he thought the _ looked tacky.""
+
+Options:
+A. laces
+B. straps
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+He had the choice of getting paid by cash or check. Ben chose to get paid by the _ because he hated the bank.,cash,check,A,"Sentence:
+""He had the choice of getting paid by cash or check. Ben chose to get paid by the _ because he hated the bank.""
+
+Options:
+A. cash
+B. check
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Kate wants to join the music club, while she has no interest in the chess club. She must be fascinated with the _ .",music club,chess club,A,"Sentence:
+""Kate wants to join the music club, while she has no interest in the chess club. She must be fascinated with the _ .""
+
+Options:
+A. music club
+B. chess club
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"When I have a health concern I go to the doctor's office, not to an unlicensed medical website, because the _ can be frightening.",website,doctor's office,A,"Sentence:
+""When I have a health concern I go to the doctor's office, not to an unlicensed medical website, because the _ can be frightening.""
+
+Options:
+A. website
+B. doctor's office
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+Bad posture causes the shoulders to round and the hips to arch. The _ do this because the lumbar spine is curved forward.,shoulders,hips,A,"Sentence:
+""Bad posture causes the shoulders to round and the hips to arch. The _ do this because the lumbar spine is curved forward.""
+
+Options:
+A. shoulders
+B. hips
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Steven was known to be quite obnoxious to their coworkers however Christopher was quite accommodating with their office mates. _ was never invited to drinks after work.,Steven,Christopher,A,"Sentence:
+""Steven was known to be quite obnoxious to their coworkers however Christopher was quite accommodating with their office mates. _ was never invited to drinks after work.""
+
+Options:
+A. Steven
+B. Christopher
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+He liked the calm of cleaning with a broom more than the bustle of the vacuum so the _ was underused.,broom,vacuum,B,"Sentence:
+""He liked the calm of cleaning with a broom more than the bustle of the vacuum so the _ was underused.""
+
+Options:
+A. broom
+B. vacuum
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+When the hostess served a chicken dish Christine was happy but Patricia could not eat it. it so happened that _ is a vegan.,Christine,Patricia,B,"Sentence:
+""When the hostess served a chicken dish Christine was happy but Patricia could not eat it. it so happened that _ is a vegan.""
+
+Options:
+A. Christine
+B. Patricia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The whistle was blown over and over again but the man in the lake could only hear the splatter of the water because the _ is closer.,splatter,whistle,A,"Sentence:
+""The whistle was blown over and over again but the man in the lake could only hear the splatter of the water because the _ is closer.""
+
+Options:
+A. splatter
+B. whistle
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+We had a lightning warning and we didn't take shelter under the tree but took shelter in the shed instead. The experts say the _ provides more protection.,tree,shed,B,"Sentence:
+""We had a lightning warning and we didn't take shelter under the tree but took shelter in the shed instead. The experts say the _ provides more protection.""
+
+Options:
+A. tree
+B. shed
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"The floor could not withstand the cat's scratches, but the wall was unscathed, since the _ was vulnerable to them.",floor,wall,A,"Sentence:
+""The floor could not withstand the cat's scratches, but the wall was unscathed, since the _ was vulnerable to them.""
+
+Options:
+A. floor
+B. wall
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Logan was into cars, but Derrick couldn't care less. This was due to _ using public transportation around the city.",Logan,Derrick,B,"Sentence:
+""Logan was into cars, but Derrick couldn't care less. This was due to _ using public transportation around the city.""
+
+Options:
+A. Logan
+B. Derrick
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Joel's legs have started to getting hairy and he asks for Joseph's advice, because _ wants to shave his legs.",Joel,Joseph,A,"Sentence:
+""Joel's legs have started to getting hairy and he asks for Joseph's advice, because _ wants to shave his legs.""
+
+Options:
+A. Joel
+B. Joseph
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Lawrence was trying to spray Hunter with the hose while they were washing the car but _ was the one who got in trouble by their parents.,Lawrence,Hunter,B,"Sentence:
+""Lawrence was trying to spray Hunter with the hose while they were washing the car but _ was the one who got in trouble by their parents.""
+
+Options:
+A. Lawrence
+B. Hunter
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+Nick thinks that a guinea pig is a good pet but Hunter doesn't. _ went to the pet store and bought a potbelly pig.,Nick,Hunter,B,"Sentence:
+""Nick thinks that a guinea pig is a good pet but Hunter doesn't. _ went to the pet store and bought a potbelly pig.""
+
+Options:
+A. Nick
+B. Hunter
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+I tried to write a letter but switched from the blue pen to the black pen since the _ pen's ink well was full.,blue,black,B,"Sentence:
+""I tried to write a letter but switched from the blue pen to the black pen since the _ pen's ink well was full.""
+
+Options:
+A. blue
+B. black
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Kenneth excelled at writing listicles on deadline but Ryan preferred the long-form journalism, as _ wrote for the NYT.",Kenneth,Ryan,B,"Sentence:
+""Kenneth excelled at writing listicles on deadline but Ryan preferred the long-form journalism, as _ wrote for the NYT.""
+
+Options:
+A. Kenneth
+B. Ryan
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Mark wanted to buy himself a new golf ball but ended up buying a tennis ball for his son, because the _ is more important for his family.",golf ball,tennis ball,B,"Sentence:
+""Mark wanted to buy himself a new golf ball but ended up buying a tennis ball for his son, because the _ is more important for his family.""
+
+Options:
+A. golf ball
+B. tennis ball
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+"While Elena stood on the cloud by the pearly gates with wings on, Kayla sat on a throne all knowing. the deity was _ .",Elena,Kayla,B,"Sentence:
+""While Elena stood on the cloud by the pearly gates with wings on, Kayla sat on a throne all knowing. the deity was _ .""
+
+Options:
+A. Elena
+B. Kayla
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"After looking through the attic for a project, Mary threw away the chair but saved the desk to be painted, because the _ was able to be repaired.",chair,desk,B,"Sentence:
+""After looking through the attic for a project, Mary threw away the chair but saved the desk to be painted, because the _ was able to be repaired.""
+
+Options:
+A. chair
+B. desk
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"Monica studied hard in college unlike Kayla, who partied a lot, so _ 's medical school application was accepted.",Monica,Kayla,A,"Sentence:
+""Monica studied hard in college unlike Kayla, who partied a lot, so _ 's medical school application was accepted.""
+
+Options:
+A. Monica
+B. Kayla
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+The group out in the woods had to get a steel cage for the animal but not an iron one because the _ was durable.,steel,iron,A,"Sentence:
+""The group out in the woods had to get a steel cage for the animal but not an iron one because the _ was durable.""
+
+Options:
+A. steel
+B. iron
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"The wrinkles were getting bad on the comforter, so it was thrown in the dryer and not ironed with the iron as the _ was efficient.",dryer,iron,A,"Sentence:
+""The wrinkles were getting bad on the comforter, so it was thrown in the dryer and not ironed with the iron as the _ was efficient.""
+
+Options:
+A. dryer
+B. iron
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"Daphne got herself a cloak and a bodysuit for her Raven costume, and she thought the _ made her look mysterious.",cloak,bodysuit,A,"Sentence:
+""Daphne got herself a cloak and a bodysuit for her Raven costume, and she thought the _ made her look mysterious.""
+
+Options:
+A. cloak
+B. bodysuit
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Since her chocolate pudding did not turn out as well as she expected, Kayla asked Jessica if _ would try to make it instead.",Kayla,Jessica,B,"Sentence:
+""Since her chocolate pudding did not turn out as well as she expected, Kayla asked Jessica if _ would try to make it instead.""
+
+Options:
+A. Kayla
+B. Jessica
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+Emily decided to mope about the stuff going on while Lindsey decided to make the best of it. _ was a much more positive person.,Emily,Lindsey,B,"Sentence:
+""Emily decided to mope about the stuff going on while Lindsey decided to make the best of it. _ was a much more positive person.""
+
+Options:
+A. Emily
+B. Lindsey
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Joel celebrated Yom Kippur as part of their religion but Joseph did not know what it was, so _ asked what it was.",Joel,Joseph,B,"Sentence:
+""Joel celebrated Yom Kippur as part of their religion but Joseph did not know what it was, so _ asked what it was.""
+
+Options:
+A. Joel
+B. Joseph
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"Ryan only performed exercises once every other week while Jeffrey exercised three times a week, and therefore _ was in peak physical shape.",Ryan,Jeffrey,B,"Sentence:
+""Ryan only performed exercises once every other week while Jeffrey exercised three times a week, and therefore _ was in peak physical shape.""
+
+Options:
+A. Ryan
+B. Jeffrey
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Joseph wanted a metal roof, but Brett wanted shingles because _ liked to hear the rain hit the metal during storms. .",Joseph,Brett,A,"Sentence:
+""Joseph wanted a metal roof, but Brett wanted shingles because _ liked to hear the rain hit the metal during storms. .""
+
+Options:
+A. Joseph
+B. Brett
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"In order to call his mom, he bought a landline and cell phone. The _ was more beneficial because it was mobile.",cell phone,landline,A,"Sentence:
+""In order to call his mom, he bought a landline and cell phone. The _ was more beneficial because it was mobile.""
+
+Options:
+A. cell phone
+B. landline
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"After deciding to paint the room, Amy asked Samantha for their thoughts on the color, even though _ didn’t really want to state an opinion.",Amy,Samantha,B,"Sentence:
+""After deciding to paint the room, Amy asked Samantha for their thoughts on the color, even though _ didn’t really want to state an opinion.""
+
+Options:
+A. Amy
+B. Samantha
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"After buying the animals food, the medicine treat for the dog was better than the syringe since the _ was full of medicine.",treat,syringe,A,"Sentence:
+""After buying the animals food, the medicine treat for the dog was better than the syringe since the _ was full of medicine.""
+
+Options:
+A. treat
+B. syringe
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Josh wanted to get rid of his wrinkles and dark circles under his eyes, and he felt the _ could be helped by getting more sleep.",dark circles,wrinkles,A,"Sentence:
+""Josh wanted to get rid of his wrinkles and dark circles under his eyes, and he felt the _ could be helped by getting more sleep.""
+
+Options:
+A. dark circles
+B. wrinkles
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"Kathy's dog was having a seizure, so she put a pillow between his head and the floor, and the _ helped his head not hit the floor.",pillow,floor,A,"Sentence:
+""Kathy's dog was having a seizure, so she put a pillow between his head and the floor, and the _ helped his head not hit the floor.""
+
+Options:
+A. pillow
+B. floor
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+The car with the electrical motor was able to travel further than the car with the gas motor because the _ motor car got better mileage.,electrical,gas,A,"Sentence:
+""The car with the electrical motor was able to travel further than the car with the gas motor because the _ motor car got better mileage.""
+
+Options:
+A. electrical
+B. gas
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Marie went on a diet to lose weight by relying on the low calorie food pack and running on the treadmill, but the _ had broken down.",pack,treadmill,B,"Sentence:
+""Marie went on a diet to lose weight by relying on the low calorie food pack and running on the treadmill, but the _ had broken down.""
+
+Options:
+A. pack
+B. treadmill
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"Phil went to the neighborhood store for an ordinary battery and an unusual plug for his electronic device, and he found the _ because it is standard.",plug,battery,B,"Sentence:
+""Phil went to the neighborhood store for an ordinary battery and an unusual plug for his electronic device, and he found the _ because it is standard.""
+
+Options:
+A. plug
+B. battery
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+Billy wanted to sign up for the SAS so we waited in line to take his height and weight but the _ was was too long.,height,line,B,"Sentence:
+""Billy wanted to sign up for the SAS so we waited in line to take his height and weight but the _ was was too long.""
+
+Options:
+A. height
+B. line
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+Mary wanted to either grill or bake the fish in the oven. She decided to use the _  because it was raining outside.,grill,oven,B,"Sentence:
+""Mary wanted to either grill or bake the fish in the oven. She decided to use the _  because it was raining outside.""
+
+Options:
+A. grill
+B. oven
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"James decided to grow kale and chard in his vegetable garden that year, since the _ was suited to the climate.",chard,garden,A,"Sentence:
+""James decided to grow kale and chard in his vegetable garden that year, since the _ was suited to the climate.""
+
+Options:
+A. chard
+B. garden
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Jeffrey bought a guinea pig and Brett didn't help care for it. Their mother scolded _ for their lack of work.,Jeffrey,Brett,B,"Sentence:
+""Jeffrey bought a guinea pig and Brett didn't help care for it. Their mother scolded _ for their lack of work.""
+
+Options:
+A. Jeffrey
+B. Brett
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"When he wanted to transition a firefighter, they told him he was too short and weak. The _ issue was easier to resolve.",short,weak,B,"Sentence:
+""When he wanted to transition a firefighter, they told him he was too short and weak. The _ issue was easier to resolve.""
+
+Options:
+A. short
+B. weak
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"it will take them the whole of tomorrow to sort the short sticks, the long ones lasted a few hours only, the _ ones are imperceptible .",long,short,B,"Sentence:
+""it will take them the whole of tomorrow to sort the short sticks, the long ones lasted a few hours only, the _ ones are imperceptible .""
+
+Options:
+A. long
+B. short
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+"After asking her friends their opinions and getting a mix of blunt and tactful remarks, Grace found the _ remarks to be hurtful.",blunt,tactful,A,"Sentence:
+""After asking her friends their opinions and getting a mix of blunt and tactful remarks, Grace found the _ remarks to be hurtful.""
+
+Options:
+A. blunt
+B. tactful
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"The tastes of Ian make him like dark chocolate more than Brett who likes milk chocolate, so _ is more likely to be an adult.",Ian,Brett,A,"Sentence:
+""The tastes of Ian make him like dark chocolate more than Brett who likes milk chocolate, so _ is more likely to be an adult.""
+
+Options:
+A. Ian
+B. Brett
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Natalie must begin a strict diet and exercise regimen while Laura gets to slack off a bit because _ isn't the slightest bit overweight.,Natalie,Laura,B,"Sentence:
+""Natalie must begin a strict diet and exercise regimen while Laura gets to slack off a bit because _ isn't the slightest bit overweight.""
+
+Options:
+A. Natalie
+B. Laura
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Joseph lost a great deal of money gambling in Las Vegas, but Christopher only lost a few dollars, because _ took fewer risks with their money.",Joseph,Christopher,B,"Sentence:
+""Joseph lost a great deal of money gambling in Las Vegas, but Christopher only lost a few dollars, because _ took fewer risks with their money.""
+
+Options:
+A. Joseph
+B. Christopher
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+I'm glad I decided to buy an older car instead of a new car as the insurance on the _ is higher.,older car,new car,B,"Sentence:
+""I'm glad I decided to buy an older car instead of a new car as the insurance on the _ is higher.""
+
+Options:
+A. older car
+B. new car
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"We didn't add the mushrooms to the soup but saved them for the stew, as they were a perfect match for the _ 's flavor.",soup,stew,B,"Sentence:
+""We didn't add the mushrooms to the soup but saved them for the stew, as they were a perfect match for the _ 's flavor.""
+
+Options:
+A. soup
+B. stew
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"The scene at the school was a zoo while the library was a more civil affair, the crowd at the _ just was placid.",school,library,B,"Sentence:
+""The scene at the school was a zoo while the library was a more civil affair, the crowd at the _ just was placid.""
+
+Options:
+A. school
+B. library
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The friendly contractor took all of the ugly carpet out of his neighbor's home and replaced it with wood floors. The _ was old.,carpet,wood,A,"Sentence:
+""The friendly contractor took all of the ugly carpet out of his neighbor's home and replaced it with wood floors. The _ was old.""
+
+Options:
+A. carpet
+B. wood
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Ramos tried to send the file from his personal computer to his USB on Tuesday afternoon, but the _ broke down during transfer.",computer,USB,A,"Sentence:
+""Ramos tried to send the file from his personal computer to his USB on Tuesday afternoon, but the _ broke down during transfer.""
+
+Options:
+A. computer
+B. USB
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The film was only playing during the weekday or over the weekend. We went on the _ even though everyone was off work and it was more crowded.,weekday,weekend,B,"Sentence:
+""The film was only playing during the weekday or over the weekend. We went on the _ even though everyone was off work and it was more crowded.""
+
+Options:
+A. weekday
+B. weekend
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+Mark couldn't decide to replace the mittens with a pair of gloves on his trip. The _ were worn out.,mittens,gloves,A,"Sentence:
+""Mark couldn't decide to replace the mittens with a pair of gloves on his trip. The _ were worn out.""
+
+Options:
+A. mittens
+B. gloves
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Joel advised Adam to add more honey later if homemade wine doesn't come out as sweet as he likes as _ is an experienced wine maker..,Joel,Adam,A,"Sentence:
+""Joel advised Adam to add more honey later if homemade wine doesn't come out as sweet as he likes as _ is an experienced wine maker..""
+
+Options:
+A. Joel
+B. Adam
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"Some complain that because of their poor income status that the cost of college education is out of reach, since the _ is too high.",cost,income,A,"Sentence:
+""Some complain that because of their poor income status that the cost of college education is out of reach, since the _ is too high.""
+
+Options:
+A. cost
+B. income
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Bailey took a pregnancy test and then went to a doctor's office, and the _ confirmed more accurately that she was pregnant.",pregnancy test,doctor's office,B,"Sentence:
+""Bailey took a pregnancy test and then went to a doctor's office, and the _ confirmed more accurately that she was pregnant.""
+
+Options:
+A. pregnancy test
+B. doctor's office
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"Emily asked her sister Sarah if she needed any tampons or pads from the store, even though _ didn't because she had switched to using menstrual cups.",Emily,Sarah,A,"Sentence:
+""Emily asked her sister Sarah if she needed any tampons or pads from the store, even though _ didn't because she had switched to using menstrual cups.""
+
+Options:
+A. Emily
+B. Sarah
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",64.0
+It's obvious that Una's location in a technological city is present day and not from the past like a hunter gatherer village because the _ is modern.,city,village,A,"Sentence:
+""It's obvious that Una's location in a technological city is present day and not from the past like a hunter gatherer village because the _ is modern.""
+
+Options:
+A. city
+B. village
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"Lindsey wanted a pet hamster and Elena does not want theirs anymore, so _ went to the store to buy one.",Lindsey,Elena,A,"Sentence:
+""Lindsey wanted a pet hamster and Elena does not want theirs anymore, so _ went to the store to buy one.""
+
+Options:
+A. Lindsey
+B. Elena
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"The surgeon was trying to perform a episiotomy by using a needle incision, but was unable to begin as the _ was too small.",needle,incision,B,"Sentence:
+""The surgeon was trying to perform a episiotomy by using a needle incision, but was unable to begin as the _ was too small.""
+
+Options:
+A. needle
+B. incision
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+Kelly auditioned for a role in the play as the lead or the understudy.  She expected to be the _ because she was a great actress.,lead,understudy,A,"Sentence:
+""Kelly auditioned for a role in the play as the lead or the understudy.  She expected to be the _ because she was a great actress.""
+
+Options:
+A. lead
+B. understudy
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+She put the plush rug rather than the rattan rug in her living room because the _ was meant for outdoors.,plush rug,rattan rug,B,"Sentence:
+""She put the plush rug rather than the rattan rug in her living room because the _ was meant for outdoors.""
+
+Options:
+A. plush rug
+B. rattan rug
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+The educator chose to teach at the elementary school rather than the high school because the students were older at the _ .,elementary school,high school,B,"Sentence:
+""The educator chose to teach at the elementary school rather than the high school because the students were older at the _ .""
+
+Options:
+A. elementary school
+B. high school
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Angela tested her water for mercury, and recommended Jessica do the same. _ wished she bought the test when to find out if her water was mercury free.",Angela,Jessica,B,"Sentence:
+""Angela tested her water for mercury, and recommended Jessica do the same. _ wished she bought the test when to find out if her water was mercury free.""
+
+Options:
+A. Angela
+B. Jessica
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+The store clerk tried to dress the mannequin in the new shirt but it wouldn't fit; the _ was too big.,mannequin,shirt,A,"Sentence:
+""The store clerk tried to dress the mannequin in the new shirt but it wouldn't fit; the _ was too big.""
+
+Options:
+A. mannequin
+B. shirt
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+Erin wanted to keep her journal in her purse for easy access but it didn't fit. The _ was too thin.,journal,purse,B,"Sentence:
+""Erin wanted to keep her journal in her purse for easy access but it didn't fit. The _ was too thin.""
+
+Options:
+A. journal
+B. purse
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"I wanted to learn to operate a bulldozer this summer at the mine, so I asked my uncle to show me how to operate the _ .",bulldozer,mine,A,"Sentence:
+""I wanted to learn to operate a bulldozer this summer at the mine, so I asked my uncle to show me how to operate the _ .""
+
+Options:
+A. bulldozer
+B. mine
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+"She wanted to learn to play the bongos when she was at the beach hut, but nobody nearby knew how in the _ .",bongos,beach hut,B,"Sentence:
+""She wanted to learn to play the bongos when she was at the beach hut, but nobody nearby knew how in the _ .""
+
+Options:
+A. bongos
+B. beach hut
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+Ian learned CPR in their college health class but Jason never learnt the procedure. _ was shaky and scared helping the heart attack victim.,Ian,Jason,B,"Sentence:
+""Ian learned CPR in their college health class but Jason never learnt the procedure. _ was shaky and scared helping the heart attack victim.""
+
+Options:
+A. Ian
+B. Jason
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+I prefer wearing my hair in a braid to a ponytail because the _ is worse at keeping my hair out of the way.,braid,ponytail,B,"Sentence:
+""I prefer wearing my hair in a braid to a ponytail because the _ is worse at keeping my hair out of the way.""
+
+Options:
+A. braid
+B. ponytail
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"He did a great job cleaning the car, but a bad job cleaning the house, because while cleaning the _ he was very energetic.",house,car,B,"Sentence:
+""He did a great job cleaning the car, but a bad job cleaning the house, because while cleaning the _ he was very energetic.""
+
+Options:
+A. house
+B. car
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"With the glasses you could not see to the horizon, but the lenses allowed you too, since the _ were optically strong.",glasses,lenses,B,"Sentence:
+""With the glasses you could not see to the horizon, but the lenses allowed you too, since the _ were optically strong.""
+
+Options:
+A. glasses
+B. lenses
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Supplements were helping with Mike's depression where regular pills had failed. This is due to the _ being a fake drug.,supplements,pills,B,"Sentence:
+""Supplements were helping with Mike's depression where regular pills had failed. This is due to the _ being a fake drug.""
+
+Options:
+A. supplements
+B. pills
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"The hikers liked walking with a backpack more than with a duffel bag, because the _ was made of weak material.",duffel bag,backpack,A,"Sentence:
+""The hikers liked walking with a backpack more than with a duffel bag, because the _ was made of weak material.""
+
+Options:
+A. duffel bag
+B. backpack
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"When Christine suspected that Felicia was lying, she tried to set a trap. Then _ got angry when it didn't work.",Christine,Felicia,A,"Sentence:
+""When Christine suspected that Felicia was lying, she tried to set a trap. Then _ got angry when it didn't work.""
+
+Options:
+A. Christine
+B. Felicia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Cynthia handed a nine iron to Jessica as _  worked as a caddy on the tenth green of the pristine golf course.,Cynthia,Jessica,A,"Sentence:
+""Cynthia handed a nine iron to Jessica as _  worked as a caddy on the tenth green of the pristine golf course.""
+
+Options:
+A. Cynthia
+B. Jessica
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+The volume of fire went up when james put some log into it but it was not so with the pot. The _ is inflammable.,log,pot,B,"Sentence:
+""The volume of fire went up when james put some log into it but it was not so with the pot. The _ is inflammable.""
+
+Options:
+A. log
+B. pot
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"To take care of her lips, Cindi likes using lipstick more than chap stick. She thinks the _ is more appropriate.",lipstick,chap stick,A,"Sentence:
+""To take care of her lips, Cindi likes using lipstick more than chap stick. She thinks the _ is more appropriate.""
+
+Options:
+A. lipstick
+B. chap stick
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"In Roger's backyard, he is putting in a pool, but not a basketball court. He finds the _ to be less needed.",pool,basketball court,B,"Sentence:
+""In Roger's backyard, he is putting in a pool, but not a basketball court. He finds the _ to be less needed.""
+
+Options:
+A. pool
+B. basketball court
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Steven owns a trailer, while Leslie does not have one, so it is more likely that _ likes to vacation in hotels.",Steven,Leslie,B,"Sentence:
+""Steven owns a trailer, while Leslie does not have one, so it is more likely that _ likes to vacation in hotels.""
+
+Options:
+A. Steven
+B. Leslie
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Ryan only performed exercises once every other week while Jeffrey exercised three times a week, and therefore _ was in terrible physical shape.",Ryan,Jeffrey,A,"Sentence:
+""Ryan only performed exercises once every other week while Jeffrey exercised three times a week, and therefore _ was in terrible physical shape.""
+
+Options:
+A. Ryan
+B. Jeffrey
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Tanya got passed by for the job at the power plant in favor of Elena , since _ was adept with anything electric.",Tanya,Elena,B,"Sentence:
+""Tanya got passed by for the job at the power plant in favor of Elena , since _ was adept with anything electric.""
+
+Options:
+A. Tanya
+B. Elena
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Carlos wanted to update his computer accessories and decided to get headphones first instead of a microphone because the _ would be used more often.,headphones,microphone,A,"Sentence:
+""Carlos wanted to update his computer accessories and decided to get headphones first instead of a microphone because the _ would be used more often.""
+
+Options:
+A. headphones
+B. microphone
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Neil was still depressed years after his mother's death, even though his brother, Aaron, had gotten over it. _ had coped poorly.",Neil,Aaron,A,"Sentence:
+""Neil was still depressed years after his mother's death, even though his brother, Aaron, had gotten over it. _ had coped poorly.""
+
+Options:
+A. Neil
+B. Aaron
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"During his divorce, Max wanted the car, but let his wife have the house. He truly didn't care about the _ .",car,house,B,"Sentence:
+""During his divorce, Max wanted the car, but let his wife have the house. He truly didn't care about the _ .""
+
+Options:
+A. car
+B. house
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Kayla's cat has a name that is masculine, while Patricia has one that is feminine because _ has a boy cat.",Kayla,Patricia,A,"Sentence:
+""Kayla's cat has a name that is masculine, while Patricia has one that is feminine because _ has a boy cat.""
+
+Options:
+A. Kayla
+B. Patricia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Adam was having a lot of problems during their pregnancy while Brian was getting on well. _ had a lot of issues with nausea.,Adam,Brian,A,"Sentence:
+""Adam was having a lot of problems during their pregnancy while Brian was getting on well. _ had a lot of issues with nausea.""
+
+Options:
+A. Adam
+B. Brian
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"At the company picnic, Leslie stayed at the shallow end of the pond and Craig stayed at the deep end, because _ was proficient at swimming.",Leslie,Craig,B,"Sentence:
+""At the company picnic, Leslie stayed at the shallow end of the pond and Craig stayed at the deep end, because _ was proficient at swimming.""
+
+Options:
+A. Leslie
+B. Craig
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"In Japan, a superhighway was scheduled to be built over the span of ten years, but the budget ran out. The _ was never realized.",superhighway,budget,A,"Sentence:
+""In Japan, a superhighway was scheduled to be built over the span of ten years, but the budget ran out. The _ was never realized.""
+
+Options:
+A. superhighway
+B. budget
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+"Instead of buying the a video game for her son for his birthday like he wanted, Angela bought him a bicycle because the _ was on sale.",bicycle,video game,A,"Sentence:
+""Instead of buying the a video game for her son for his birthday like he wanted, Angela bought him a bicycle because the _ was on sale.""
+
+Options:
+A. bicycle
+B. video game
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"William was searching for job and ask if they needed a person for work Brian heard them and said they were hiring, _ is looking for employment.",William,Brian,A,"Sentence:
+""William was searching for job and ask if they needed a person for work Brian heard them and said they were hiring, _ is looking for employment.""
+
+Options:
+A. William
+B. Brian
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+Emily wanted to pretend to be rich so he went to Sarah 's house and borrowed his wardrobe because _ dressed rich typically.,Emily,Sarah,B,"Sentence:
+""Emily wanted to pretend to be rich so he went to Sarah 's house and borrowed his wardrobe because _ dressed rich typically.""
+
+Options:
+A. Emily
+B. Sarah
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+It was important to prepare for the Chemistry exam as it was tough but the Biology was easy so Paul only prepared for the _ exam.,tough,easy,A,"Sentence:
+""It was important to prepare for the Chemistry exam as it was tough but the Biology was easy so Paul only prepared for the _ exam.""
+
+Options:
+A. tough
+B. easy
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Jen wrote her screenplay on a notebook and then moved it to her computer, but the _ felt more organic to her.",notebook,computer,A,"Sentence:
+""Jen wrote her screenplay on a notebook and then moved it to her computer, but the _ felt more organic to her.""
+
+Options:
+A. notebook
+B. computer
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"The cliff face was intimidating for the bikers to climb, so they biked the road instead, as the _ was so easy.",cliff,road,B,"Sentence:
+""The cliff face was intimidating for the bikers to climb, so they biked the road instead, as the _ was so easy.""
+
+Options:
+A. cliff
+B. road
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Leslie took out a book from the bookshelf and began to read a story to Ian because _ didn't want to sleep.,Leslie,Ian,B,"Sentence:
+""Leslie took out a book from the bookshelf and began to read a story to Ian because _ didn't want to sleep.""
+
+Options:
+A. Leslie
+B. Ian
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Their relationship soured in the country, but rejuvenated in the city, since the _ was such an invigorating atmosphere for them.",country,city,B,"Sentence:
+""Their relationship soured in the country, but rejuvenated in the city, since the _ was such an invigorating atmosphere for them.""
+
+Options:
+A. country
+B. city
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Mike redid his home, and the patio looks nicer than the garage turned out. He spent a shorter amount of time on the _ .",patio,garage,B,"Sentence:
+""Mike redid his home, and the patio looks nicer than the garage turned out. He spent a shorter amount of time on the _ .""
+
+Options:
+A. patio
+B. garage
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"After deciding to paint the room, Amy asked Samantha for their thoughts on the color, even though _ didn’t really want the opinion.",Amy,Samantha,A,"Sentence:
+""After deciding to paint the room, Amy asked Samantha for their thoughts on the color, even though _ didn’t really want the opinion.""
+
+Options:
+A. Amy
+B. Samantha
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The masquerade party was a lot of fun for Randy but not Neil because _ hated to get dressed up in fancy costumes.,Randy,Neil,B,"Sentence:
+""The masquerade party was a lot of fun for Randy but not Neil because _ hated to get dressed up in fancy costumes.""
+
+Options:
+A. Randy
+B. Neil
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Knowing she would be very thirsty on the hike, the woman chose to take the flask instead of the bottle because the _ held less water.",flask,bottle,B,"Sentence:
+""Knowing she would be very thirsty on the hike, the woman chose to take the flask instead of the bottle because the _ held less water.""
+
+Options:
+A. flask
+B. bottle
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Despite attending school together, Mary did not want to be friends with Elena. _ thought that they were generally nice and kind to other people.",Mary,Elena,B,"Sentence:
+""Despite attending school together, Mary did not want to be friends with Elena. _ thought that they were generally nice and kind to other people.""
+
+Options:
+A. Mary
+B. Elena
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Ben needed to change the baby's diaper and bottle. However, the baby started to cry because it was hungry so he got the _ .",bottle,diaper,A,"Sentence:
+""Ben needed to change the baby's diaper and bottle. However, the baby started to cry because it was hungry so he got the _ .""
+
+Options:
+A. bottle
+B. diaper
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+Robert has to stock up on diapers and wipes even though Ian doesn't because _ didn't just add a baby to their household.,Robert,Ian,B,"Sentence:
+""Robert has to stock up on diapers and wipes even though Ian doesn't because _ didn't just add a baby to their household.""
+
+Options:
+A. Robert
+B. Ian
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+There's a video going around of a man wearing a tiara and cape. The _ looks like something a Princess would wear.,cape,tiara,B,"Sentence:
+""There's a video going around of a man wearing a tiara and cape. The _ looks like something a Princess would wear.""
+
+Options:
+A. cape
+B. tiara
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Jim turned on his iPad and was thinking of either playing a game or playing a video. He chose the _ because it was more interactive.,game,video,A,"Sentence:
+""Jim turned on his iPad and was thinking of either playing a game or playing a video. He chose the _ because it was more interactive.""
+
+Options:
+A. game
+B. video
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Cloudy days are lucky for me and sunny days are unlucky, so I play the lottery on the _ days to better my chances.",sunny,cloudy,B,"Sentence:
+""Cloudy days are lucky for me and sunny days are unlucky, so I play the lottery on the _ days to better my chances.""
+
+Options:
+A. sunny
+B. cloudy
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Erin wanted to go to a bar to celebrate the team's victory, but Christine wanted to go home, because _ was feeling exhausted.",Erin,Christine,B,"Sentence:
+""Erin wanted to go to a bar to celebrate the team's victory, but Christine wanted to go home, because _ was feeling exhausted.""
+
+Options:
+A. Erin
+B. Christine
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+During the mission the spy was able to receive the information on the paper but not the note because the _ was in Chinese.,paper,note,B,"Sentence:
+""During the mission the spy was able to receive the information on the paper but not the note because the _ was in Chinese.""
+
+Options:
+A. paper
+B. note
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+The ambulance that Matthew called for Joel finally arrived because he was in so much pain from kidney stones. _ accompanied him in the ambulance to the hospital.,Matthew,Joel,A,"Sentence:
+""The ambulance that Matthew called for Joel finally arrived because he was in so much pain from kidney stones. _ accompanied him in the ambulance to the hospital.""
+
+Options:
+A. Matthew
+B. Joel
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"To properly install the frame, we threw out the screwdriver and used the drill, as the _ had little utility for this task.",screwdriver,drill,A,"Sentence:
+""To properly install the frame, we threw out the screwdriver and used the drill, as the _ had little utility for this task.""
+
+Options:
+A. screwdriver
+B. drill
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+John can smell the scent of the food in the kitchen and it totally overrode the odor of the flower. The _ odor is stronger.,flower,food,B,"Sentence:
+""John can smell the scent of the food in the kitchen and it totally overrode the odor of the flower. The _ odor is stronger.""
+
+Options:
+A. flower
+B. food
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+Benjamin did not want to do his homework so he went out to play with Christopher. _ told him to do his homework.,Benjamin,Christopher,B,"Sentence:
+""Benjamin did not want to do his homework so he went out to play with Christopher. _ told him to do his homework.""
+
+Options:
+A. Benjamin
+B. Christopher
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Monica was much more authoritative in the office than Tanya, because _ was an employee and not in charge of any employees.",Monica,Tanya,B,"Sentence:
+""Monica was much more authoritative in the office than Tanya, because _ was an employee and not in charge of any employees.""
+
+Options:
+A. Monica
+B. Tanya
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+Ryan has no problem eating rabbit stew but Aaron wouldn't touch it as it is know that  _ is an omnivorous.,Ryan,Aaron,A,"Sentence:
+""Ryan has no problem eating rabbit stew but Aaron wouldn't touch it as it is know that  _ is an omnivorous.""
+
+Options:
+A. Ryan
+B. Aaron
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Carl lost his polo shirt and decided to get another shirt. He got a sweatshirt because the _ is lost.,polo shirt,sweatshirt,A,"Sentence:
+""Carl lost his polo shirt and decided to get another shirt. He got a sweatshirt because the _ is lost.""
+
+Options:
+A. polo shirt
+B. sweatshirt
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+We chose to go to a french restaurant rather than a burger restaurant on our date as the _ is considered not classy.,french restaurant,burger restaurant,B,"Sentence:
+""We chose to go to a french restaurant rather than a burger restaurant on our date as the _ is considered not classy.""
+
+Options:
+A. french restaurant
+B. burger restaurant
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Matthew lived in a cardboard home but Steven lived in a brick home. _ had their home undamaged in the thunderstorm.,Matthew,Steven,B,"Sentence:
+""Matthew lived in a cardboard home but Steven lived in a brick home. _ had their home undamaged in the thunderstorm.""
+
+Options:
+A. Matthew
+B. Steven
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Jason brought comfortable sandals and a pair of very tight boots to the hotel. He wore the _ and walked around relaxedly.,boots,sandals,B,"Sentence:
+""Jason brought comfortable sandals and a pair of very tight boots to the hotel. He wore the _ and walked around relaxedly.""
+
+Options:
+A. boots
+B. sandals
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"The old refrigerators in the shop were still working compared to the freezers, because the _ were made by a bad brand.",refrigerators,freezers,B,"Sentence:
+""The old refrigerators in the shop were still working compared to the freezers, because the _ were made by a bad brand.""
+
+Options:
+A. refrigerators
+B. freezers
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+I was building a treehouse in my backyard but had to start over because the door was higher than the walls. I guess I made the _ too tall.,door,walls,A,"Sentence:
+""I was building a treehouse in my backyard but had to start over because the door was higher than the walls. I guess I made the _ too tall.""
+
+Options:
+A. door
+B. walls
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",64.0
+"The academy was not ideal to groom a child for manhood, compared to the school.  The _ was deficient in education.",academy,school,A,"Sentence:
+""The academy was not ideal to groom a child for manhood, compared to the school.  The _ was deficient in education.""
+
+Options:
+A. academy
+B. school
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"The apples didn't freeze well in the old refrigerator's freezer, so they made an icebox and finished the job. The _ was warmer.",icebox,freezer,B,"Sentence:
+""The apples didn't freeze well in the old refrigerator's freezer, so they made an icebox and finished the job. The _ was warmer.""
+
+Options:
+A. icebox
+B. freezer
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"Instead of going to the party, Tanya decided to stay home and rub the body of Jennifer. _  was giving a massage.",Tanya,Jennifer,A,"Sentence:
+""Instead of going to the party, Tanya decided to stay home and rub the body of Jennifer. _  was giving a massage.""
+
+Options:
+A. Tanya
+B. Jennifer
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Christopher spent an hour perfecting their makeup before going out to the dance while Joseph waited, because _ saw no point in making up.",Christopher,Joseph,B,"Sentence:
+""Christopher spent an hour perfecting their makeup before going out to the dance while Joseph waited, because _ saw no point in making up.""
+
+Options:
+A. Christopher
+B. Joseph
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Because he needed to make money, Joe spent more time at the workplace than at home because at the _ he made none of his money.",workplace,home,B,"Sentence:
+""Because he needed to make money, Joe spent more time at the workplace than at home because at the _ he made none of his money.""
+
+Options:
+A. workplace
+B. home
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+Kenneth went to the store to buy a cage for William's new pet rabbit. _ was happy to get a new home for the rabbit.,Kenneth,William,B,"Sentence:
+""Kenneth went to the store to buy a cage for William's new pet rabbit. _ was happy to get a new home for the rabbit.""
+
+Options:
+A. Kenneth
+B. William
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"Jen's kleptomania made her steal makeup and money, but the _ would get her in more trouble if she was caught.",makeup,money,B,"Sentence:
+""Jen's kleptomania made her steal makeup and money, but the _ would get her in more trouble if she was caught.""
+
+Options:
+A. makeup
+B. money
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"At the music shop, Sarah bought many vinyls even though CDs were in stock because the _ were not as high quality.",CDs,vinyls,A,"Sentence:
+""At the music shop, Sarah bought many vinyls even though CDs were in stock because the _ were not as high quality.""
+
+Options:
+A. CDs
+B. vinyls
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"He had honed his muscles at the gym and bought new workout clothes but they didn't fit, because the _ were too big.",muscles,clothes,A,"Sentence:
+""He had honed his muscles at the gym and bought new workout clothes but they didn't fit, because the _ were too big.""
+
+Options:
+A. muscles
+B. clothes
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Samuel likes to rollerblade a lot, but Brett is more of a skateboarder, so _ likes the skating rink.",Samuel,Brett,A,"Sentence:
+""Samuel likes to rollerblade a lot, but Brett is more of a skateboarder, so _ likes the skating rink.""
+
+Options:
+A. Samuel
+B. Brett
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"At the doctor's, Kyle finds out that he is infertile, but Samuel is not, so _ is very sad.",Kyle,Samuel,A,"Sentence:
+""At the doctor's, Kyle finds out that he is infertile, but Samuel is not, so _ is very sad.""
+
+Options:
+A. Kyle
+B. Samuel
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Samantha showed Sarah how to sew a button on her shirt since she knew _ hadn't had a lot of experience sewing..,Samantha,Sarah,B,"Sentence:
+""Samantha showed Sarah how to sew a button on her shirt since she knew _ hadn't had a lot of experience sewing..""
+
+Options:
+A. Samantha
+B. Sarah
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Victoria found reading poems most enthralling while Felicia found mysteries more to their liking. _ bought a book by Sir Conan Doyle at Barnes and Noble.,Victoria,Felicia,B,"Sentence:
+""Victoria found reading poems most enthralling while Felicia found mysteries more to their liking. _ bought a book by Sir Conan Doyle at Barnes and Noble.""
+
+Options:
+A. Victoria
+B. Felicia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+He needed to check the zoning laws of the city and county to build a pool in his backyard. The _ laws could not override the smaller area's laws.,city,county,B,"Sentence:
+""He needed to check the zoning laws of the city and county to build a pool in his backyard. The _ laws could not override the smaller area's laws.""
+
+Options:
+A. city
+B. county
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",64.0
+Alexandria was going on a date and wanted to look attractive. She put on the black dress but left the hat because the _ was nice.,dress,hat,A,"Sentence:
+""Alexandria was going on a date and wanted to look attractive. She put on the black dress but left the hat because the _ was nice.""
+
+Options:
+A. dress
+B. hat
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"Cynthia went through her dresser looking for a sweater; when she couldn't find one, Rebecca lent her one. _ was appreciated.",Cynthia,Rebecca,B,"Sentence:
+""Cynthia went through her dresser looking for a sweater; when she couldn't find one, Rebecca lent her one. _ was appreciated.""
+
+Options:
+A. Cynthia
+B. Rebecca
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Brunhilda chose to wear the brooch instead of the necklace to meet and impress the rich count in the study since she thought the _ looked expensive.,necklace,brooch,B,"Sentence:
+""Brunhilda chose to wear the brooch instead of the necklace to meet and impress the rich count in the study since she thought the _ looked expensive.""
+
+Options:
+A. necklace
+B. brooch
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+"He didn't want to send the personal letter to her, so he sent a card instead.  The _ was too revealing to share.",letter,card,A,"Sentence:
+""He didn't want to send the personal letter to her, so he sent a card instead.  The _ was too revealing to share.""
+
+Options:
+A. letter
+B. card
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"I always did well in that topic, but I alway struggled in the other subject, because the _ was a lot harder.",topic,subject,B,"Sentence:
+""I always did well in that topic, but I alway struggled in the other subject, because the _ was a lot harder.""
+
+Options:
+A. topic
+B. subject
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Michael's diet has had more vegetables added to it recently and less meats. He thinks the _ will lead to a more risky lifestyle.,vegetables,meats,B,"Sentence:
+""Michael's diet has had more vegetables added to it recently and less meats. He thinks the _ will lead to a more risky lifestyle.""
+
+Options:
+A. vegetables
+B. meats
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+Cynthia showed Sarah how to make the best witch costume for Halloween since _ knew she was hoping to win a prize with her costume.,Cynthia,Sarah,A,"Sentence:
+""Cynthia showed Sarah how to make the best witch costume for Halloween since _ knew she was hoping to win a prize with her costume.""
+
+Options:
+A. Cynthia
+B. Sarah
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Kenneth always had blemished skin unlike Steven, so it was no surprise when _ was the one that developed a mole.",Kenneth,Steven,A,"Sentence:
+""Kenneth always had blemished skin unlike Steven, so it was no surprise when _ was the one that developed a mole.""
+
+Options:
+A. Kenneth
+B. Steven
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Andrew loves to exercise he plays soccer with a ball on Fridays and hockey with a puck on Mondays. The _ was used on his game on Friday.,ball,puck,A,"Sentence:
+""Andrew loves to exercise he plays soccer with a ball on Fridays and hockey with a puck on Mondays. The _ was used on his game on Friday.""
+
+Options:
+A. ball
+B. puck
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"Kim wanted breasts, so the doctor said to either get surgery to put in implants or fats. She decided to get the _ because they were unnatural.",fats,implants,B,"Sentence:
+""Kim wanted breasts, so the doctor said to either get surgery to put in implants or fats. She decided to get the _ because they were unnatural.""
+
+Options:
+A. fats
+B. implants
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+The shoelace still drags on the floor after James wrapped it around the shoe. The _ is too long.,shoelace,shoe,A,"Sentence:
+""The shoelace still drags on the floor after James wrapped it around the shoe. The _ is too long.""
+
+Options:
+A. shoelace
+B. shoe
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Emily listened and made adjustments in the booth as Patricia laid down a hot hip-hop vocal track, as _ was a gifted producer.",Emily,Patricia,A,"Sentence:
+""Emily listened and made adjustments in the booth as Patricia laid down a hot hip-hop vocal track, as _ was a gifted producer.""
+
+Options:
+A. Emily
+B. Patricia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"English was Monica 's best subject, but was a challenge for Victoria , so _ had no problem constructing elegant sentences .",Monica,Victoria,A,"Sentence:
+""English was Monica 's best subject, but was a challenge for Victoria , so _ had no problem constructing elegant sentences .""
+
+Options:
+A. Monica
+B. Victoria
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Laura showed Megan the easiest way to wash her rubber bath mats since she new _ was having a hard time getting them clean.,Laura,Megan,B,"Sentence:
+""Laura showed Megan the easiest way to wash her rubber bath mats since she new _ was having a hard time getting them clean.""
+
+Options:
+A. Laura
+B. Megan
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Jim did not like vegetarian food, so he was glad that he could substitute his carrot for a burger as the _ tasted wonderful to him.",carrot,burger,B,"Sentence:
+""Jim did not like vegetarian food, so he was glad that he could substitute his carrot for a burger as the _ tasted wonderful to him.""
+
+Options:
+A. carrot
+B. burger
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"After the trip, Tanya had a wicked case of Diarrhea, though Rebecca had none. _ has the weaker stomach.",Tanya,Rebecca,A,"Sentence:
+""After the trip, Tanya had a wicked case of Diarrhea, though Rebecca had none. _ has the weaker stomach.""
+
+Options:
+A. Tanya
+B. Rebecca
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Steven knocked on Williams door because he wanted to play shuffleboard today, but nobody was around.  _ was at church.",Steven,William,B,"Sentence:
+""Steven knocked on Williams door because he wanted to play shuffleboard today, but nobody was around.  _ was at church.""
+
+Options:
+A. Steven
+B. William
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Kayla had an email signature while Felicia did not have one, and people usually thought that _ was colder.",Kayla,Felicia,B,"Sentence:
+""Kayla had an email signature while Felicia did not have one, and people usually thought that _ was colder.""
+
+Options:
+A. Kayla
+B. Felicia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"On Christmas Eve, right before giving out gifts, Adam used glue instead of tape to wrap the gift because all he had was the _ .",glue,tape,A,"Sentence:
+""On Christmas Eve, right before giving out gifts, Adam used glue instead of tape to wrap the gift because all he had was the _ .""
+
+Options:
+A. glue
+B. tape
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"When it came to charities, Kenneth was always volunteering at soup kitchens while Donald never did any charity work because _ was very selfish.",Kenneth,Donald,B,"Sentence:
+""When it came to charities, Kenneth was always volunteering at soup kitchens while Donald never did any charity work because _ was very selfish.""
+
+Options:
+A. Kenneth
+B. Donald
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Erin thought clutter made a home look unattractive but Felicia did not. _ kept their home cluttered up.,Erin,Felicia,B,"Sentence:
+""Erin thought clutter made a home look unattractive but Felicia did not. _ kept their home cluttered up.""
+
+Options:
+A. Erin
+B. Felicia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"I submitted a profit and loss statement for my business to qualify for a loan, but the bank refused because the _ was too high.",profit,loss,B,"Sentence:
+""I submitted a profit and loss statement for my business to qualify for a loan, but the bank refused because the _ was too high.""
+
+Options:
+A. profit
+B. loss
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Sandra uses a whisk to beat the scrambled eggs instead of an electric beater, because the _ left lumps in the eggs yesterday.",whisk,beater,B,"Sentence:
+""Sandra uses a whisk to beat the scrambled eggs instead of an electric beater, because the _ left lumps in the eggs yesterday.""
+
+Options:
+A. whisk
+B. beater
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Lindsey loves to study and delves deeply into her subjects, Emily does not therefore _  plans to be a stripper.",Lindsey,Emily,B,"Sentence:
+""Lindsey loves to study and delves deeply into her subjects, Emily does not therefore _  plans to be a stripper.""
+
+Options:
+A. Lindsey
+B. Emily
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"I wanted to take my sports car to my soccer game but my gear wouldn't fit in the trunk, the _ was too small.",trunk,gear,A,"Sentence:
+""I wanted to take my sports car to my soccer game but my gear wouldn't fit in the trunk, the _ was too small.""
+
+Options:
+A. trunk
+B. gear
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"To avoid revealing her pregnancy, the teen chose to wear the tunic rather than the blouse, because she thought the _ would make her look skinny.",blouse,tunic,B,"Sentence:
+""To avoid revealing her pregnancy, the teen chose to wear the tunic rather than the blouse, because she thought the _ would make her look skinny.""
+
+Options:
+A. blouse
+B. tunic
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"The man decided to pay for the groceries with a credit card, instead of a check because the _ is much slower to use.",credit card,check,B,"Sentence:
+""The man decided to pay for the groceries with a credit card, instead of a check because the _ is much slower to use.""
+
+Options:
+A. credit card
+B. check
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Matthew got their hair done by Lawrence, and was satisfied with the results; then _ saw the next person at the salon.",Matthew,Lawrence,B,"Sentence:
+""Matthew got their hair done by Lawrence, and was satisfied with the results; then _ saw the next person at the salon.""
+
+Options:
+A. Matthew
+B. Lawrence
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+On the camping trip he discovered a hole in his sleeping bag so he couldn't get warm due to the _ being damaged.,hole,sleeping bag,B,"Sentence:
+""On the camping trip he discovered a hole in his sleeping bag so he couldn't get warm due to the _ being damaged.""
+
+Options:
+A. hole
+B. sleeping bag
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"The market is only open on Wednesdays, and not on the weekend. Since it is the _ the market is closed.",weekend,market,A,"Sentence:
+""The market is only open on Wednesdays, and not on the weekend. Since it is the _ the market is closed.""
+
+Options:
+A. weekend
+B. market
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Jill wanted to use less plastic by switching to paper or canvas grocery bags.  She went with the _ because they could be recycled easily.,paper,canvas,A,"Sentence:
+""Jill wanted to use less plastic by switching to paper or canvas grocery bags.  She went with the _ because they could be recycled easily.""
+
+Options:
+A. paper
+B. canvas
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"Betty had the windows open last night, the wind last night it knocked the blind to the floor. The _ was strong.",wind,blind,A,"Sentence:
+""Betty had the windows open last night, the wind last night it knocked the blind to the floor. The _ was strong.""
+
+Options:
+A. wind
+B. blind
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Betty learned how to tell time with the digital clock quicker than the manual clock.  The _ is so easy to read.,digital,manual,A,"Sentence:
+""Betty learned how to tell time with the digital clock quicker than the manual clock.  The _ is so easy to read.""
+
+Options:
+A. digital
+B. manual
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Samuel failed their final exams while Brian passed them, so _ had no need to retake their classes in summer school.",Samuel,Brian,B,"Sentence:
+""Samuel failed their final exams while Brian passed them, so _ had no need to retake their classes in summer school.""
+
+Options:
+A. Samuel
+B. Brian
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"As the wolf approached the house, the man quickly took the knife and not the gun to defend himself because the _ was stored away.",knife,gun,B,"Sentence:
+""As the wolf approached the house, the man quickly took the knife and not the gun to defend himself because the _ was stored away.""
+
+Options:
+A. knife
+B. gun
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Harvey was writing a graphic novel and used male characters instead of female characters because the _ were not liked by female readers.,male,female,B,"Sentence:
+""Harvey was writing a graphic novel and used male characters instead of female characters because the _ were not liked by female readers.""
+
+Options:
+A. male
+B. female
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"The roller coaster attendant told Angela they were to heavy to ride but Jessica was small enough, so _ skipped going on the ride.",Angela,Jessica,A,"Sentence:
+""The roller coaster attendant told Angela they were to heavy to ride but Jessica was small enough, so _ skipped going on the ride.""
+
+Options:
+A. Angela
+B. Jessica
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Nelson burst out laughing when someone's stomach made a loud growling sound and Christopher went red.The teacher could tell  _ was very amused.,Nelson,Christopher,A,"Sentence:
+""Nelson burst out laughing when someone's stomach made a loud growling sound and Christopher went red.The teacher could tell  _ was very amused.""
+
+Options:
+A. Nelson
+B. Christopher
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"During the class, the yoga teacher decided to wear the white pants instead of the grey pants because the _ were comfortable.",white pants,grey pants,A,"Sentence:
+""During the class, the yoga teacher decided to wear the white pants instead of the grey pants because the _ were comfortable.""
+
+Options:
+A. white pants
+B. grey pants
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+I want to be a teacher but I don't know where to begin. I could go to school or shadow a teacher. The _ approach would cost a lot.,school,shadow,A,"Sentence:
+""I want to be a teacher but I don't know where to begin. I could go to school or shadow a teacher. The _ approach would cost a lot.""
+
+Options:
+A. school
+B. shadow
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+"Bob decided to go with the lasagna over the raviolli, because the _ was quite distasteful.",raviolli,lasagna,A,"Sentence:
+""Bob decided to go with the lasagna over the raviolli, because the _ was quite distasteful.""
+
+Options:
+A. raviolli
+B. lasagna
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"At the bar, Spanish is mostly spoken, while at the restaurant, people mostly speak English. That's because the _ owner is American.",bar,restaurant,B,"Sentence:
+""At the bar, Spanish is mostly spoken, while at the restaurant, people mostly speak English. That's because the _ owner is American.""
+
+Options:
+A. bar
+B. restaurant
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+Norman couldn't get his Atari video game system to work with his smart tv. The _ was too old.,video game system,tv,A,"Sentence:
+""Norman couldn't get his Atari video game system to work with his smart tv. The _ was too old.""
+
+Options:
+A. video game system
+B. tv
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Lindsey showed Rachel how to curl ribbon to look more decorative on a gift box since _ had more experience than them wrapping gifts.,Lindsey,Rachel,A,"Sentence:
+""Lindsey showed Rachel how to curl ribbon to look more decorative on a gift box since _ had more experience than them wrapping gifts.""
+
+Options:
+A. Lindsey
+B. Rachel
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Steven needed an emcee for the event being held and Hunter was considered the best, so _ hired them to do the event.",Steven,Hunter,A,"Sentence:
+""Steven needed an emcee for the event being held and Hunter was considered the best, so _ hired them to do the event.""
+
+Options:
+A. Steven
+B. Hunter
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Logan was able to sleep well every night, but Samuel struggled with nightly insomnia.  _ usually felt very tired and fatigued.",Logan,Samuel,B,"Sentence:
+""Logan was able to sleep well every night, but Samuel struggled with nightly insomnia.  _ usually felt very tired and fatigued.""
+
+Options:
+A. Logan
+B. Samuel
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+James was panting more heavily when he jogged on the street compared to when he jogged on the lawn because the _ is shorter.,street,lawn,B,"Sentence:
+""James was panting more heavily when he jogged on the street compared to when he jogged on the lawn because the _ is shorter.""
+
+Options:
+A. street
+B. lawn
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+Since the girl was an introvert she chose to play on the slide instead of the merry-go-round because the _ was crowded.,slide,merry-go-round,B,"Sentence:
+""Since the girl was an introvert she chose to play on the slide instead of the merry-go-round because the _ was crowded.""
+
+Options:
+A. slide
+B. merry-go-round
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Greg tended to be lazy, so he bought a fitness tracker and a journal to monitor his activity.  He preferred the _ because he liked technology.",fitness tracker,journal,A,"Sentence:
+""Greg tended to be lazy, so he bought a fitness tracker and a journal to monitor his activity.  He preferred the _ because he liked technology.""
+
+Options:
+A. fitness tracker
+B. journal
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",64.0
+"Tanya is envying really badly and is really jealous on Sarah that she is tall and model, so _  comforts her.",Tanya,Sarah,B,"Sentence:
+""Tanya is envying really badly and is really jealous on Sarah that she is tall and model, so _  comforts her.""
+
+Options:
+A. Tanya
+B. Sarah
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The parents had to give the children tacky lollipops instead of chocolates for Easter because the _ were intact.,lollipops,chocolates,A,"Sentence:
+""The parents had to give the children tacky lollipops instead of chocolates for Easter because the _ were intact.""
+
+Options:
+A. lollipops
+B. chocolates
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"The bold actor could memorize any lines, but had a hard time following instructions, as the _ were just a breeze for him.",lines,instructions,A,"Sentence:
+""The bold actor could memorize any lines, but had a hard time following instructions, as the _ were just a breeze for him.""
+
+Options:
+A. lines
+B. instructions
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Angela's cookies were burned, but Felicia's were baked perfectly, because _ was awake when the timer went off.",Angela,Felicia,B,"Sentence:
+""Angela's cookies were burned, but Felicia's were baked perfectly, because _ was awake when the timer went off.""
+
+Options:
+A. Angela
+B. Felicia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Aaron thought the goth girl with all the piercings was hot but not Kevin. _ liked girls who looked freaky.,Aaron,Kevin,A,"Sentence:
+""Aaron thought the goth girl with all the piercings was hot but not Kevin. _ liked girls who looked freaky.""
+
+Options:
+A. Aaron
+B. Kevin
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"While the man modified the height of the bike, the boy rode the tricycle, because the _ was the incorrect height.",bike,tricycle,A,"Sentence:
+""While the man modified the height of the bike, the boy rode the tricycle, because the _ was the incorrect height.""
+
+Options:
+A. bike
+B. tricycle
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Leslie thinks the emo look is pretty fresh but Robert thinks it's trashy. _ bought ripped jeans at the clothing store.,Leslie,Robert,A,"Sentence:
+""Leslie thinks the emo look is pretty fresh but Robert thinks it's trashy. _ bought ripped jeans at the clothing store.""
+
+Options:
+A. Leslie
+B. Robert
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The man could drive the forklift but not the crane because the man lacked the proper license for the _ .,forklift,crane,B,"Sentence:
+""The man could drive the forklift but not the crane because the man lacked the proper license for the _ .""
+
+Options:
+A. forklift
+B. crane
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+The man was rapping in the club louder than he was rapping in the bar because the speakers at the _ were bigger.,bar,club,B,"Sentence:
+""The man was rapping in the club louder than he was rapping in the bar because the speakers at the _ were bigger.""
+
+Options:
+A. bar
+B. club
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Erin is rated as the better concierge when compared to Kayla, so _ has probably done it for a greater number of years.",Erin,Kayla,A,"Sentence:
+""Erin is rated as the better concierge when compared to Kayla, so _ has probably done it for a greater number of years.""
+
+Options:
+A. Erin
+B. Kayla
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+rhododendrons are easy to prune but  roses are not because the _ are very ill natured.,rhododendrons,roses,B,"Sentence:
+""rhododendrons are easy to prune but  roses are not because the _ are very ill natured.""
+
+Options:
+A. rhododendrons
+B. roses
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Clint chose the jail surrounded by brick walls instead of barbed fences, because the _ would make it hard for him to escape.",walls,fences,B,"Sentence:
+""Clint chose the jail surrounded by brick walls instead of barbed fences, because the _ would make it hard for him to escape.""
+
+Options:
+A. walls
+B. fences
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"The rose I got was beautiful so I put it in the window rather than on the table, because others couldn't see it from the _ very clearly.",window,table,B,"Sentence:
+""The rose I got was beautiful so I put it in the window rather than on the table, because others couldn't see it from the _ very clearly.""
+
+Options:
+A. window
+B. table
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"The cook looked for a bowl to put the soup dish in instead of a plate, because the _ was deep enough to hold the liquid.",bowl,plate,A,"Sentence:
+""The cook looked for a bowl to put the soup dish in instead of a plate, because the _ was deep enough to hold the liquid.""
+
+Options:
+A. bowl
+B. plate
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+He picked the lemon from the tree to cut up and add into his recipe to make a lemon pie. The _ was leafy.,tree,pie,A,"Sentence:
+""He picked the lemon from the tree to cut up and add into his recipe to make a lemon pie. The _ was leafy.""
+
+Options:
+A. tree
+B. pie
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Megan had always wanted to learn how to swim so they asked Lindsey for lessons. _ was nervous but felt safe in the water.,Megan,Lindsey,A,"Sentence:
+""Megan had always wanted to learn how to swim so they asked Lindsey for lessons. _ was nervous but felt safe in the water.""
+
+Options:
+A. Megan
+B. Lindsey
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The package said to cook the meat in a skillet but sally decided to use a pan instead. The _ didn't have a lid and would cook slower.,skillet,pan,A,"Sentence:
+""The package said to cook the meat in a skillet but sally decided to use a pan instead. The _ didn't have a lid and would cook slower.""
+
+Options:
+A. skillet
+B. pan
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",64.0
+Katrina celebrates Christmas every single year with their family while Tanya celebrates Hanukkah with theirs. _ practices Christianity.,Katrina,Tanya,A,"Sentence:
+""Katrina celebrates Christmas every single year with their family while Tanya celebrates Hanukkah with theirs. _ practices Christianity.""
+
+Options:
+A. Katrina
+B. Tanya
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Abby forgot to put her towel in her gym bag so she used a washcloth to dab her sweat, because the _ was unavailable.",towel,washcloth,A,"Sentence:
+""Abby forgot to put her towel in her gym bag so she used a washcloth to dab her sweat, because the _ was unavailable.""
+
+Options:
+A. towel
+B. washcloth
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"The apples didn't freeze well in the old refrigerator's freezer, so they made an icebox and finished the job. The _ was colder.",icebox,freezer,A,"Sentence:
+""The apples didn't freeze well in the old refrigerator's freezer, so they made an icebox and finished the job. The _ was colder.""
+
+Options:
+A. icebox
+B. freezer
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"The stink of cigar smoke permeated the hallway, but the lounge had clear air, as smoking was permitted in the _ .",hallway,lounge,A,"Sentence:
+""The stink of cigar smoke permeated the hallway, but the lounge had clear air, as smoking was permitted in the _ .""
+
+Options:
+A. hallway
+B. lounge
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"They went on a safari and saw a panda eating bamboo, which Megan loved but Elena didn't care about. _ 's favorite animal was the tiger.",Megan,Elena,B,"Sentence:
+""They went on a safari and saw a panda eating bamboo, which Megan loved but Elena didn't care about. _ 's favorite animal was the tiger.""
+
+Options:
+A. Megan
+B. Elena
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"Samantha is considered to be the better dog breeder than Patricia, so _ must do crappier on the AKC inspection.",Samantha,Patricia,B,"Sentence:
+""Samantha is considered to be the better dog breeder than Patricia, so _ must do crappier on the AKC inspection.""
+
+Options:
+A. Samantha
+B. Patricia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+Shannon failed her history exam and but passed her science exam.  She felt ashamed of her performance on the _ exam.,history,science,A,"Sentence:
+""Shannon failed her history exam and but passed her science exam.  She felt ashamed of her performance on the _ exam.""
+
+Options:
+A. history
+B. science
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Carrie had to stop and buy an astringent face wash because Monica didn't use it and because _ has a clear complexion.,Carrie,Monica,B,"Sentence:
+""Carrie had to stop and buy an astringent face wash because Monica didn't use it and because _ has a clear complexion.""
+
+Options:
+A. Carrie
+B. Monica
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Ben was contemplating on shaving his head bald or getting a perm. Since he wanted to look like an egg, he got the _ .",perm,bald,B,"Sentence:
+""Ben was contemplating on shaving his head bald or getting a perm. Since he wanted to look like an egg, he got the _ .""
+
+Options:
+A. perm
+B. bald
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+Matthew carried a knife with them for protection but Benjamin carried a gun. _ shot the mugger who assualted them.,Matthew,Benjamin,B,"Sentence:
+""Matthew carried a knife with them for protection but Benjamin carried a gun. _ shot the mugger who assualted them.""
+
+Options:
+A. Matthew
+B. Benjamin
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Dave could get his wife jewelry made from diamond or cubic zirconia.  He chose the _ because it was more affordable.,cubic zirconia,diamond,A,"Sentence:
+""Dave could get his wife jewelry made from diamond or cubic zirconia.  He chose the _ because it was more affordable.""
+
+Options:
+A. cubic zirconia
+B. diamond
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"Mary decided she would stop drinking vodka and only drink gin from now on, because she never seemed to have a hangover after drinking the _ .",vodka,gin,B,"Sentence:
+""Mary decided she would stop drinking vodka and only drink gin from now on, because she never seemed to have a hangover after drinking the _ .""
+
+Options:
+A. vodka
+B. gin
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"Her date wanted to give her something special, and went with the flowers instead of the chocolates, because the _ were waxy.",chocolates,flowers,A,"Sentence:
+""Her date wanted to give her something special, and went with the flowers instead of the chocolates, because the _ were waxy.""
+
+Options:
+A. chocolates
+B. flowers
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The dock was a shambles though the port was in good shape.  The condition of the _ failed to impress the visitors.,dock,port,A,"Sentence:
+""The dock was a shambles though the port was in good shape.  The condition of the _ failed to impress the visitors.""
+
+Options:
+A. dock
+B. port
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"The company that I worked for wanted to move into a new space, but it didn't move because the _ was too small.",company,space,B,"Sentence:
+""The company that I worked for wanted to move into a new space, but it didn't move because the _ was too small.""
+
+Options:
+A. company
+B. space
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Lindsey is flatter than Megan, which explains why _ always buys a larger-sized bra when they shop together at the discount clothing store.",Lindsey,Megan,B,"Sentence:
+""Lindsey is flatter than Megan, which explains why _ always buys a larger-sized bra when they shop together at the discount clothing store.""
+
+Options:
+A. Lindsey
+B. Megan
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+Lindsey stopped at an eye clinic so Patricia could get a new eye prescription for glasses since _ couldn't see clearly to drive.,Lindsey,Patricia,B,"Sentence:
+""Lindsey stopped at an eye clinic so Patricia could get a new eye prescription for glasses since _ couldn't see clearly to drive.""
+
+Options:
+A. Lindsey
+B. Patricia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Maurice put up flyers for the new salon to try to get more customers after canceling the online ads, because the _ were expensive.",ads,flyers,A,"Sentence:
+""Maurice put up flyers for the new salon to try to get more customers after canceling the online ads, because the _ were expensive.""
+
+Options:
+A. ads
+B. flyers
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"For their garden Kayla liked to plant marigolds and Patricia wanted roses, _ thought marigolds were too plain.",Kayla,Patricia,B,"Sentence:
+""For their garden Kayla liked to plant marigolds and Patricia wanted roses, _ thought marigolds were too plain.""
+
+Options:
+A. Kayla
+B. Patricia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Kim wanted breasts, so the doctor said to either get surgery to put in implants or fats. She decided to get the _ because they were natural.",fats,implants,A,"Sentence:
+""Kim wanted breasts, so the doctor said to either get surgery to put in implants or fats. She decided to get the _ because they were natural.""
+
+Options:
+A. fats
+B. implants
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+John had to leave the room for the balcony to be able to see the tiny prints in the book. The _ is dark.,room,balcony,A,"Sentence:
+""John had to leave the room for the balcony to be able to see the tiny prints in the book. The _ is dark.""
+
+Options:
+A. room
+B. balcony
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Michael loved to watch Game of Thrones whereas Ryan loved reruns of The Facts of Life. The genre really liked by _ was sitcoms.,Michael,Ryan,B,"Sentence:
+""Michael loved to watch Game of Thrones whereas Ryan loved reruns of The Facts of Life. The genre really liked by _ was sitcoms.""
+
+Options:
+A. Michael
+B. Ryan
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"I wanted to organize my closet, so I pulled a bunch of stuff out of the closet and put it in a box, and now the _ is emptier.",closet,box,A,"Sentence:
+""I wanted to organize my closet, so I pulled a bunch of stuff out of the closet and put it in a box, and now the _ is emptier.""
+
+Options:
+A. closet
+B. box
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+He had 10 pages from his medical doctor and 5 from his insurance agent. The _ was far less thorough.,insurance agent,medical doctor,A,"Sentence:
+""He had 10 pages from his medical doctor and 5 from his insurance agent. The _ was far less thorough.""
+
+Options:
+A. insurance agent
+B. medical doctor
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Bill wanted his wife to think he was a nicer person, so he bought her the flowers instead of the chocolates, since the _ would make his wife happy.",chocolates,flowers,B,"Sentence:
+""Bill wanted his wife to think he was a nicer person, so he bought her the flowers instead of the chocolates, since the _ would make his wife happy.""
+
+Options:
+A. chocolates
+B. flowers
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+"Justin played in emo band Texas is the Reason, of which Dennis was a big fan, so _ asked him for an autograph.",Justin,Dennis,B,"Sentence:
+""Justin played in emo band Texas is the Reason, of which Dennis was a big fan, so _ asked him for an autograph.""
+
+Options:
+A. Justin
+B. Dennis
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Marilyn was usually a casual dresser, but since the wedding was formal, she knew the _ dress she bought would be appropriate.",casual,formal,B,"Sentence:
+""Marilyn was usually a casual dresser, but since the wedding was formal, she knew the _ dress she bought would be appropriate.""
+
+Options:
+A. casual
+B. formal
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Victoria ran the rabbit into the cage and Megan closed it in after it was lured. _ was the aggressive one in the hunt.,Victoria,Megan,A,"Sentence:
+""Victoria ran the rabbit into the cage and Megan closed it in after it was lured. _ was the aggressive one in the hunt.""
+
+Options:
+A. Victoria
+B. Megan
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Jason and Michael won a million dollars, but the former was still wealthy after ten years because _ foolishly squandered his winnings.",Jason,Michael,B,"Sentence:
+""Jason and Michael won a million dollars, but the former was still wealthy after ten years because _ foolishly squandered his winnings.""
+
+Options:
+A. Jason
+B. Michael
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Gary decided to ignore the pain and lift the weight a few more times before getting his water bottle, but the _ was tempting to him.",bottle,weight,A,"Sentence:
+""Gary decided to ignore the pain and lift the weight a few more times before getting his water bottle, but the _ was tempting to him.""
+
+Options:
+A. bottle
+B. weight
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+Carrie likes to spend a lot of time on the internet but Jessica does not. _ is rarely on their computer surfing the web.,Carrie,Jessica,B,"Sentence:
+""Carrie likes to spend a lot of time on the internet but Jessica does not. _ is rarely on their computer surfing the web.""
+
+Options:
+A. Carrie
+B. Jessica
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+It was Tanya's turn to clean the bathtub and Natalie's turn to clean the sink. _ was obligated to clean the bathtub.,Tanya,Natalie,A,"Sentence:
+""It was Tanya's turn to clean the bathtub and Natalie's turn to clean the sink. _ was obligated to clean the bathtub.""
+
+Options:
+A. Tanya
+B. Natalie
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+The spectacles could not detect newly formed stars but the telescopes could. This is because the _ were very strong.,spectacles,telescopes,B,"Sentence:
+""The spectacles could not detect newly formed stars but the telescopes could. This is because the _ were very strong.""
+
+Options:
+A. spectacles
+B. telescopes
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+I told him to take his antidepressants instead of relying on essential oils to treat his depressions because the _ are actually scams.,antidepressants,essential oils,B,"Sentence:
+""I told him to take his antidepressants instead of relying on essential oils to treat his depressions because the _ are actually scams.""
+
+Options:
+A. antidepressants
+B. essential oils
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Cynthia's parents decided to let her get a pet, but Angela's parents decided to not let her get one, so _ got a pet hamster.",Cynthia,Angela,A,"Sentence:
+""Cynthia's parents decided to let her get a pet, but Angela's parents decided to not let her get one, so _ got a pet hamster.""
+
+Options:
+A. Cynthia
+B. Angela
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",64.0
+John poured some water from the bottle to the bowl and there  still enough space in the bowl. The _  large.,bowl,bottle,A,"Sentence:
+""John poured some water from the bottle to the bowl and there  still enough space in the bowl. The _  large.""
+
+Options:
+A. bowl
+B. bottle
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+John told his parent he can go to college from home but had to take a cab to the church because the _ is close.,college,church,A,"Sentence:
+""John told his parent he can go to college from home but had to take a cab to the church because the _ is close.""
+
+Options:
+A. college
+B. church
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+William took a leap of faith and invested all of the money into one stock but Ian did not. _ played it safe.,William,Ian,B,"Sentence:
+""William took a leap of faith and invested all of the money into one stock but Ian did not. _ played it safe.""
+
+Options:
+A. William
+B. Ian
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Grooming the lab was a lot harder than grooming a dachshund. It's because the _ has longer hair.,lab,dachshund,A,"Sentence:
+""Grooming the lab was a lot harder than grooming a dachshund. It's because the _ has longer hair.""
+
+Options:
+A. lab
+B. dachshund
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Sally went to the pawn shop to trade in her antique watch for a tapestry. Unfortunately, the _ was broken.",watch,tapestry,A,"Sentence:
+""Sally went to the pawn shop to trade in her antique watch for a tapestry. Unfortunately, the _ was broken.""
+
+Options:
+A. watch
+B. tapestry
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"The girl wore the shorts, but took the pants to the seamstress be hemmed, because the _ were the wrong length.",shorts,pants,B,"Sentence:
+""The girl wore the shorts, but took the pants to the seamstress be hemmed, because the _ were the wrong length.""
+
+Options:
+A. shorts
+B. pants
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"He tried to put the chemical from the jug into a new bottler, but it all couldn't go because the _ was too much.",chemical,bottle,A,"Sentence:
+""He tried to put the chemical from the jug into a new bottler, but it all couldn't go because the _ was too much.""
+
+Options:
+A. chemical
+B. bottle
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+Christopher saved his money and didn't take risks but Nick like to spend all his and take many risks. _ lived dangerously.,Christopher,Nick,B,"Sentence:
+""Christopher saved his money and didn't take risks but Nick like to spend all his and take many risks. _ lived dangerously.""
+
+Options:
+A. Christopher
+B. Nick
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Cynthia wanted a birdcage made of gold so they asked Erin to make it so _  contracted one to be built.,Cynthia,Erin,A,"Sentence:
+""Cynthia wanted a birdcage made of gold so they asked Erin to make it so _  contracted one to be built.""
+
+Options:
+A. Cynthia
+B. Erin
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Logan loved a good long shower but Brett liked a long hot bath. _ installed a rainforest head in their bathroom.,Logan,Brett,A,"Sentence:
+""Logan loved a good long shower but Brett liked a long hot bath. _ installed a rainforest head in their bathroom.""
+
+Options:
+A. Logan
+B. Brett
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"After the accident, I was bound to the wheelchair for weeks. Learning to walk and run again was hard so I took it slow and chose to _ .",walk,run,A,"Sentence:
+""After the accident, I was bound to the wheelchair for weeks. Learning to walk and run again was hard so I took it slow and chose to _ .""
+
+Options:
+A. walk
+B. run
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",64.0
+The mother told the boy it was safer to ride his bike on the sidewalk instead of the path because the _ was flatter.,sidewalk,path,A,"Sentence:
+""The mother told the boy it was safer to ride his bike on the sidewalk instead of the path because the _ was flatter.""
+
+Options:
+A. sidewalk
+B. path
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Craig tied his laces in a simple knot while Logan tied his in a fancy bow because _ was very dextrous.,Craig,Logan,B,"Sentence:
+""Craig tied his laces in a simple knot while Logan tied his in a fancy bow because _ was very dextrous.""
+
+Options:
+A. Craig
+B. Logan
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Eric asked Ian if he could be in front of him in line at the checkout at a supermarket because _ has much more items in a cart.,Eric,Ian,B,"Sentence:
+""Eric asked Ian if he could be in front of him in line at the checkout at a supermarket because _ has much more items in a cart.""
+
+Options:
+A. Eric
+B. Ian
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+My dad gave me a homemade gift and store-bought gift for Christmas. I like the _ since it's more meaningful.,homemade gift,store-bought,A,"Sentence:
+""My dad gave me a homemade gift and store-bought gift for Christmas. I like the _ since it's more meaningful.""
+
+Options:
+A. homemade gift
+B. store-bought
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Kate wants to join the music club, while she has no interest in the chess club. She must be uncaring about the _ .",music club,chess club,B,"Sentence:
+""Kate wants to join the music club, while she has no interest in the chess club. She must be uncaring about the _ .""
+
+Options:
+A. music club
+B. chess club
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+Matthew didn't have the documents necessary to get their license so they asked Donald to drive them to the city because _ didn't have a car.,Matthew,Donald,A,"Sentence:
+""Matthew didn't have the documents necessary to get their license so they asked Donald to drive them to the city because _ didn't have a car.""
+
+Options:
+A. Matthew
+B. Donald
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+The smell of urine was overwhelming Victoria when they were cleaning up after Sarah.  _ had to go outside and get some fresh air.,Victoria,Sarah,A,"Sentence:
+""The smell of urine was overwhelming Victoria when they were cleaning up after Sarah.  _ had to go outside and get some fresh air.""
+
+Options:
+A. Victoria
+B. Sarah
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The cat ran into the house when it started to rain and then rubbed its fur on the couch. It got the _ dry.,fur,couch,A,"Sentence:
+""The cat ran into the house when it started to rain and then rubbed its fur on the couch. It got the _ dry.""
+
+Options:
+A. fur
+B. couch
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"After they found a restaurant Felicia ordered 2 burgers with fries while Christine ordered a large coke, because _ was just hungry.",Felicia,Christine,A,"Sentence:
+""After they found a restaurant Felicia ordered 2 burgers with fries while Christine ordered a large coke, because _ was just hungry.""
+
+Options:
+A. Felicia
+B. Christine
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Ian is making a pool party for Neil and needs to raise pH in a pool, so _ buys pH raising preparates.",Ian,Neil,A,"Sentence:
+""Ian is making a pool party for Neil and needs to raise pH in a pool, so _ buys pH raising preparates.""
+
+Options:
+A. Ian
+B. Neil
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"I was admitted to the hospital, they didn't know if I would have a room or the hallway. They had no space and gave me the _ .",room,hallway,B,"Sentence:
+""I was admitted to the hospital, they didn't know if I would have a room or the hallway. They had no space and gave me the _ .""
+
+Options:
+A. room
+B. hallway
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",64.0
+The diet Michael decided to follow was more efficient than the one  William is following  because _  has too much saturated fat on it.,Michael,William,B,"Sentence:
+""The diet Michael decided to follow was more efficient than the one  William is following  because _  has too much saturated fat on it.""
+
+Options:
+A. Michael
+B. William
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Leo planted a baby tree in his yard far away from the fence and near a bush, because the _ might have given off too much shade.",fence,bush,A,"Sentence:
+""Leo planted a baby tree in his yard far away from the fence and near a bush, because the _ might have given off too much shade.""
+
+Options:
+A. fence
+B. bush
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"Ben had lemons and limes, but he chose to make a drink with the _ because he disliked green.",limes,lemons,B,"Sentence:
+""Ben had lemons and limes, but he chose to make a drink with the _ because he disliked green.""
+
+Options:
+A. limes
+B. lemons
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+The mask was stained but brittle. So we used the water spray over the cleaning solution as the _ was harsh to use on it.,water spray,cleaning solution,B,"Sentence:
+""The mask was stained but brittle. So we used the water spray over the cleaning solution as the _ was harsh to use on it.""
+
+Options:
+A. water spray
+B. cleaning solution
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+Rebecca left the sunroof open in the car while Mary always closed it. _ got mold and mildew in the seats.,Rebecca,Mary,A,"Sentence:
+""Rebecca left the sunroof open in the car while Mary always closed it. _ got mold and mildew in the seats.""
+
+Options:
+A. Rebecca
+B. Mary
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Since _ was taller, Lawrence was allowed to ride the rollercoaster and Christopher had to settle for watching from the sidelines.",Lawrence,Christopher,A,"Sentence:
+""Since _ was taller, Lawrence was allowed to ride the rollercoaster and Christopher had to settle for watching from the sidelines.""
+
+Options:
+A. Lawrence
+B. Christopher
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Rebecca is on the computer all day, though Felicia prefers to be in the outdoors. _ is a nature person.",Rebecca,Felicia,B,"Sentence:
+""Rebecca is on the computer all day, though Felicia prefers to be in the outdoors. _ is a nature person.""
+
+Options:
+A. Rebecca
+B. Felicia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"I dropped out of the class at the school and signed up for one at the academy, since the _ succeeded in teaching me to sew.",school,academy,B,"Sentence:
+""I dropped out of the class at the school and signed up for one at the academy, since the _ succeeded in teaching me to sew.""
+
+Options:
+A. school
+B. academy
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"In order to prune the flowers in his garden outside, Ted looked down at his shovel and his shears and picked up the _ .",shovel,shears,B,"Sentence:
+""In order to prune the flowers in his garden outside, Ted looked down at his shovel and his shears and picked up the _ .""
+
+Options:
+A. shovel
+B. shears
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Eve found that the plants in the greenhouse thrived through the frost while the ones in the garden died, because the _ was warmer.",greenhouse,garden,A,"Sentence:
+""Eve found that the plants in the greenhouse thrived through the frost while the ones in the garden died, because the _ was warmer.""
+
+Options:
+A. greenhouse
+B. garden
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Patricia's zipper on their favorite coat broke, so she took it to her tailor Victoria. _ was glad to fix the coat's broken zipper.",Patricia,Victoria,B,"Sentence:
+""Patricia's zipper on their favorite coat broke, so she took it to her tailor Victoria. _ was glad to fix the coat's broken zipper.""
+
+Options:
+A. Patricia
+B. Victoria
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",63.0
+"Jen wrote her screenplay on a notebook and then moved it to her computer, and the _ felt more secure to her.",notebook,computer,B,"Sentence:
+""Jen wrote her screenplay on a notebook and then moved it to her computer, and the _ felt more secure to her.""
+
+Options:
+A. notebook
+B. computer
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Mary traded the jelly beans for the chocolate candies, because she really enojyed the taste of the _ .",jelly beans,chocolate candies,B,"Sentence:
+""Mary traded the jelly beans for the chocolate candies, because she really enojyed the taste of the _ .""
+
+Options:
+A. jelly beans
+B. chocolate candies
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"When Mikey switched to a vegetable diet, his skin improved compared to the meat one. The _ one must be harsher to his skin.",vegetable,meat,B,"Sentence:
+""When Mikey switched to a vegetable diet, his skin improved compared to the meat one. The _ one must be harsher to his skin.""
+
+Options:
+A. vegetable
+B. meat
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+I selected the hammer instead of the mallet as my tool choice since the _ is lighter and I'm out of shape.,hammer,mallet,A,"Sentence:
+""I selected the hammer instead of the mallet as my tool choice since the _ is lighter and I'm out of shape.""
+
+Options:
+A. hammer
+B. mallet
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Lily gave up making a bag with a sewing machine because of the thick instruction book and used hand sewing method instead because the _ is time consuming.,sewing machine,hand sewing method,A,"Sentence:
+""Lily gave up making a bag with a sewing machine because of the thick instruction book and used hand sewing method instead because the _ is time consuming.""
+
+Options:
+A. sewing machine
+B. hand sewing method
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",65.0
+Betty learned how to tell time with the digital clock quicker than the manual clock.  The _ is so hard to read.,digital,manual,B,"Sentence:
+""Betty learned how to tell time with the digital clock quicker than the manual clock.  The _ is so hard to read.""
+
+Options:
+A. digital
+B. manual
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"When I have bad breath, I always reach for my mint gum instead of my cinnamon gum since the _ gum is less refreshing.",mint,cinnamon,B,"Sentence:
+""When I have bad breath, I always reach for my mint gum instead of my cinnamon gum since the _ gum is less refreshing.""
+
+Options:
+A. mint
+B. cinnamon
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"His laptop was damaged and his desktop was brand new, so he used the _ when writing his blog because it was faster.",laptop,desktop,B,"Sentence:
+""His laptop was damaged and his desktop was brand new, so he used the _ when writing his blog because it was faster.""
+
+Options:
+A. laptop
+B. desktop
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Amy was in school to be a teacher, while Angela was in school to be a programmer, because _ wanted to write programs.",Amy,Angela,B,"Sentence:
+""Amy was in school to be a teacher, while Angela was in school to be a programmer, because _ wanted to write programs.""
+
+Options:
+A. Amy
+B. Angela
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Patricia tried to lecture Felicia on how to lose weight despite the fact that _ is overweight and needs to diet.,Patricia,Felicia,A,"Sentence:
+""Patricia tried to lecture Felicia on how to lose weight despite the fact that _ is overweight and needs to diet.""
+
+Options:
+A. Patricia
+B. Felicia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Kalli had a lot of anxiety about speaking into the microphone, but was comfortable with the computer, because the _ was familiar to her.",microphone,computer,B,"Sentence:
+""Kalli had a lot of anxiety about speaking into the microphone, but was comfortable with the computer, because the _ was familiar to her.""
+
+Options:
+A. microphone
+B. computer
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Felicia tried to reduce Jessica 's contributions to the committee, but _ was too persistent and she failed to stop her from speaking up.",Felicia,Jessica,B,"Sentence:
+""Felicia tried to reduce Jessica 's contributions to the committee, but _ was too persistent and she failed to stop her from speaking up.""
+
+Options:
+A. Felicia
+B. Jessica
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+Kayla wanted to start a business in a field that Felicia was working in so _ asked for some help.,Kayla,Felicia,A,"Sentence:
+""Kayla wanted to start a business in a field that Felicia was working in so _ asked for some help.""
+
+Options:
+A. Kayla
+B. Felicia
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+James got a divorce so he ended up keeping his car and selling the family house because the _ had a lot of bad memories.,house,car,A,"Sentence:
+""James got a divorce so he ended up keeping his car and selling the family house because the _ had a lot of bad memories.""
+
+Options:
+A. house
+B. car
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The professional gardener made sure to use the right tools. He left the shovel home but brought the rake because the _  wasn't needed.,shovel,rake,A,"Sentence:
+""The professional gardener made sure to use the right tools. He left the shovel home but brought the rake because the _  wasn't needed.""
+
+Options:
+A. shovel
+B. rake
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+"Kerri wanted to replace her mothball with some brand new potpourri, because the _ was old.",mothball,potpourri,A,"Sentence:
+""Kerri wanted to replace her mothball with some brand new potpourri, because the _ was old.""
+
+Options:
+A. mothball
+B. potpourri
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"Lindsey places the balloon bunch strategically to hide the hole in Amy's dining room wall, and _ is glad to have a smart party planner.",Lindsey,Amy,B,"Sentence:
+""Lindsey places the balloon bunch strategically to hide the hole in Amy's dining room wall, and _ is glad to have a smart party planner.""
+
+Options:
+A. Lindsey
+B. Amy
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+Kim wanted to check her facts on a website or in a book but the book was damaged so she used the _ instead.,book,website,B,"Sentence:
+""Kim wanted to check her facts on a website or in a book but the book was damaged so she used the _ instead.""
+
+Options:
+A. book
+B. website
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"The clouds evoked great fear in the people, while the clear skies calmed them, because the _ were so foreboding.",clouds,skies,A,"Sentence:
+""The clouds evoked great fear in the people, while the clear skies calmed them, because the _ were so foreboding.""
+
+Options:
+A. clouds
+B. skies
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+Angela was filling out a report for Elena for _ forgot how to put all the facts and figures in a easily digestable format.,Angela,Elena,B,"Sentence:
+""Angela was filling out a report for Elena for _ forgot how to put all the facts and figures in a easily digestable format.""
+
+Options:
+A. Angela
+B. Elena
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+John emptied the water from the bottle into the cup but we still have some left in the bottle. The _ is big.,bottle,cup,A,"Sentence:
+""John emptied the water from the bottle into the cup but we still have some left in the bottle. The _ is big.""
+
+Options:
+A. bottle
+B. cup
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Tanya's communication skills with their partner weren't too good while Erin's was great. _ would get into fights with their partner quite rarely.,Tanya,Erin,B,"Sentence:
+""Tanya's communication skills with their partner weren't too good while Erin's was great. _ would get into fights with their partner quite rarely.""
+
+Options:
+A. Tanya
+B. Erin
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"He rode the bicycle up the hill but gave up when he got to the road, as the _ was just much easier to ride on.",hill,road,A,"Sentence:
+""He rode the bicycle up the hill but gave up when he got to the road, as the _ was just much easier to ride on.""
+
+Options:
+A. hill
+B. road
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"Joel was prone to sunburn so spent much time indoors, quite the opposite of Lawrence. _ often cooked to pass the summer days.",Joel,Lawrence,A,"Sentence:
+""Joel was prone to sunburn so spent much time indoors, quite the opposite of Lawrence. _ often cooked to pass the summer days.""
+
+Options:
+A. Joel
+B. Lawrence
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",61.0
+Mikey found that the bar of soap didn't work as well as the body wash because the _ was low-cost.,bar of soap,body wash,A,"Sentence:
+""Mikey found that the bar of soap didn't work as well as the body wash because the _ was low-cost.""
+
+Options:
+A. bar of soap
+B. body wash
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+The attorney needed the cloak to cover his whole body but it didn't so he went with a trenchcoat since the _ was long.,trenchcoat,cloak,A,"Sentence:
+""The attorney needed the cloak to cover his whole body but it didn't so he went with a trenchcoat since the _ was long.""
+
+Options:
+A. trenchcoat
+B. cloak
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+"When Christine went to buy Christmas presents at the department store, Carrie helped them ring up their purchases. _ is a salesperson.",Christine,Carrie,B,"Sentence:
+""When Christine went to buy Christmas presents at the department store, Carrie helped them ring up their purchases. _ is a salesperson.""
+
+Options:
+A. Christine
+B. Carrie
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+"Christine played spin the bottle and had to kiss Betty after their turn, because _ was the the one who spun the bottle.",Christine,Betty,A,"Sentence:
+""Christine played spin the bottle and had to kiss Betty after their turn, because _ was the the one who spun the bottle.""
+
+Options:
+A. Christine
+B. Betty
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+"In the town Angela lives more people dress like hipster than the town where Victoria lives, I guess there are older generation in _ 's town.",Angela,Victoria,B,"Sentence:
+""In the town Angela lives more people dress like hipster than the town where Victoria lives, I guess there are older generation in _ 's town.""
+
+Options:
+A. Angela
+B. Victoria
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",62.0
+"She preferred the bedroom next to the kitchen compared to the one next to the toilet, because the bedroom next to the _ had stronger odor.",kitchen,toilet,B,"Sentence:
+""She preferred the bedroom next to the kitchen compared to the one next to the toilet, because the bedroom next to the _ had stronger odor.""
+
+Options:
+A. kitchen
+B. toilet
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0

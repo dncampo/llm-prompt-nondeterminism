@@ -1,0 +1,7 @@
+dataset_name,model_name,token_column,strategy_name,partition_name,target_len,delta_min,delta_max,delta_median,token_len_min,token_len_max,available_count_before_sampling,saved_count,was_expanded,warning_message
+HellaSwag,gemma2_9b_it,len_tk_gemma2_9b_it,strategy_2_progressive,target,121,-39,0,-10.0,82,121,7734,8,False,
+HellaSwag,gemma2_9b_it,len_tk_gemma2_9b_it,strategy_2_progressive,larger_1,121,1,3,2.0,122,124,956,310,False,
+HellaSwag,gemma2_9b_it,len_tk_gemma2_9b_it,strategy_2_progressive,larger_2,121,4,13,8.0,125,134,2899,310,False,
+HellaSwag,gemma2_9b_it,len_tk_gemma2_9b_it,strategy_2_progressive,larger_3,121,14,54,25.0,135,175,5489,310,False,
+HellaSwag,gemma2_9b_it,len_tk_gemma2_9b_it,strategy_2_progressive,larger_4,121,55,209,147.0,176,330,32551,310,False,
+HellaSwag,gemma2_9b_it,len_tk_gemma2_9b_it,strategy_2_progressive,larger_5,121,210,287,217.0,331,408,318,310,False,

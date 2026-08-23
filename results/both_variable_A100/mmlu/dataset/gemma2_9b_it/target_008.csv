@@ -1,0 +1,81 @@
+question,subject,split,answer,final_prompt,len_tk_gemma2_9b_it
+"A sender must not be able to deny sending a message that was sent, is known as",computer_security,test-00000-of-00001,A,"A sender must not be able to deny sending a message that was sent, is known as
+
+Choices:
+A. Message Nonrepudiation
+B. Message Integrity
+C. Message Condentiality
+D. Message Sending
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",67
+Near multicollinearity occurs when,econometrics,validation-00000-of-00001,D,"Near multicollinearity occurs when
+
+Choices:
+A. Two or more explanatory variables are perfectly correlated with one another
+B. The explanatory variables are highly correlated with the error term
+C. The explanatory variables are highly correlated with the dependent variable
+D. Two or more explanatory variables are highly correlated with one another
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",84
+A thermometer would be used to,,auxiliary_train-00000-of-00001,D,"A thermometer would be used to
+
+Choices:
+A. determine if it is airier
+B. determine if it is windy
+C. determine the high tide
+D. determine if it is hotter in the desert
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",64
+" Which of the following is a basic intrinsic good, according to Aquinas's version of natural law theory?",moral_disputes,test-00000-of-00001,D," Which of the following is a basic intrinsic good, according to Aquinas's version of natural law theory?
+
+Choices:
+A. human life
+B. human procreation
+C. human sociability
+D. all of the above
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",68
+The classic aging pattern is defined as 2 decline on which subtest(s) of the Wechsler Adult Intelligence Scale-Revised,professional_psychology,test-00000-of-00001,B,"The classic aging pattern is defined as 2 decline on which subtest(s) of the Wechsler Adult Intelligence Scale-Revised
+
+Choices:
+A. All Verbal subtests
+B. All Performance subtests
+C. Vocabulary subtest only
+D. Block Design subtest only
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",79
+"If a hilly area that reaches incredible peaks is existing, then what happened long ago was",,auxiliary_train-00000-of-00001,C,"If a hilly area that reaches incredible peaks is existing, then what happened long ago was
+
+Choices:
+A. things were steamed
+B. rocks were tiny
+C. stones crumpling together
+D. plants were eaten
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",65
+What does Dworkin mean by the 'semantic sting'?,jurisprudence,test-00000-of-00001,D,"What does Dworkin mean by the 'semantic sting'?
+
+Choices:
+A. The language of the law is generally unclear.
+B. Lawyers' arguments usually concern language.
+C. Judges are prey to linguistic misunderstanding.
+D. The rule of recognition cannot fully account for legal validity.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",82
+Which of the following is characteristic of a perfectly competitive firm's demand curve?,high_school_microeconomics,validation-00000-of-00001,C,"Which of the following is characteristic of a perfectly competitive firm's demand curve?
+
+Choices:
+A. average revenue is less than price at all levels of output
+B. marginal revenue is equal to marginal cost at all levels of output
+C. price and marginal revenue are equal at all levels of output
+D. it is the same as the market demand curve
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",94

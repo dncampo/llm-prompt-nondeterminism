@@ -1,0 +1,4341 @@
+question,question_concept,_split,answer,final_prompt,len_tk_phi3_mini_4k_instruct
+"He was hiking for miles, what did he suffer from?",hiking,train-00000-of-00001,B,"Question:
+He was hiking for miles, what did he suffer from?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. sweating
+B. cramps
+C. physical exertion
+D. smile
+E. deliriousness
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+It was directed towards women but it was mostly couples who what?,couples,train-00000-of-00001,C,"Question:
+It was directed towards women but it was mostly couples who what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. date
+B. have sex
+C. enjoy movie
+D. row with each other
+E. enjoy sex
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"Dogs run around all day, it's a good thing they have what?",dogs,train-00000-of-00001,E,"Question:
+Dogs run around all day, it's a good thing they have what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pointed ears
+B. fleas
+C. bones
+D. tails
+E. four legs
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+Why might you be found grooming yourself in the mirror on the way out the door?,grooming,train-00000-of-00001,E,"Question:
+Why might you be found grooming yourself in the mirror on the way out the door?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cleanliness
+B. mistakes
+C. anxiety
+D. beauty
+E. neatness
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+Where do the people find milk for sale?,people,train-00000-of-00001,A,"Question:
+Where do the people find milk for sale?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. supermarket
+B. opera
+C. apartment
+D. train station
+E. the refrigerator :  the kitchen
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"When I was home, I was comfortable.  But I had a crippling fear of going where?",home,train-00000-of-00001,A,"Question:
+When I was home, I was comfortable.  But I had a crippling fear of going where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. outside
+B. vacation
+C. idle
+D. apartment
+E. neighborhood
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where can you get a puck to take home?,puck,train-00000-of-00001,E,"Question:
+Where can you get a puck to take home?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hockey rink
+B. arcade
+C. ice hockey game
+D. locker room
+E. sporting goods store
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"If you listen to someone talk without talking yourself, you might do what?",talking,train-00000-of-00001,E,"Question:
+If you listen to someone talk without talking yourself, you might do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. conversation
+B. communicate
+C. exchange of ideas
+D. sharing information
+E. obtaining information
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Where did most people keep their telephone directory near the nourishment they keep in their house?,telephone directory,train-00000-of-00001,A,"Question:
+Where did most people keep their telephone directory near the nourishment they keep in their house?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. kitchen
+B. building
+C. office
+D. boat
+E. library
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Where would you buy alcohol from a person who will also bring things to eat?,alcohol,train-00000-of-00001,C,"Question:
+Where would you buy alcohol from a person who will also bring things to eat?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. chemistry lab
+B. party
+C. restaurants
+D. supermarket
+E. pub
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+If I were to suffer from sudden illness I would be within reason to visit where?,illness,train-00000-of-00001,B,"Question:
+If I were to suffer from sudden illness I would be within reason to visit where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. nursing home
+B. hospital
+C. brain
+D. elderly person
+E. building
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"While he was falling into a pile of broken glass, what did he fear?",falling,train-00000-of-00001,E,"Question:
+While he was falling into a pile of broken glass, what did he fear?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. injury
+B. being laughed at
+C. breaking the glass
+D. contact with
+E. lacerations
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Billy went away because his parents were fighting and he didn't want to stay where?,away,train-00000-of-00001,C,"Question:
+Billy went away because his parents were fighting and he didn't want to stay where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. home team
+B. present
+C. at home
+D. come back
+E. charming
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"Cats are looking longingly at an aquarium, what are they looking to do?",cats,train-00000-of-00001,C,"Question:
+Cats are looking longingly at an aquarium, what are they looking to do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. like heat
+B. play
+C. eating fish
+D. drink water
+E. come to dinner
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+How can people fulfill their own calorie requirements?,people,validation-00000-of-00001,B,"Question:
+How can people fulfill their own calorie requirements?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. compete with each other
+B. feed themselves
+C. feel lonely
+D. talk to each other
+E. ask a doctor
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Where would a weasel go if it is hungry?,weasel,train-00000-of-00001,E,"Question:
+Where would a weasel go if it is hungry?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. court room
+B. chicken coop
+C. backyards
+D. natural history museum
+E. cherry tree
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+The clicking away of a shorthand typewriter was doing what while hearing testimony?,hearing testimony,train-00000-of-00001,D,"Question:
+The clicking away of a shorthand typewriter was doing what while hearing testimony?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. anger
+B. nodding
+C. listening
+D. take notes
+E. writing down
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What kind of person would believe in God and kill a divine entity?,divine,train-00000-of-00001,E,"Question:
+What kind of person would believe in God and kill a divine entity?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. undivine
+B. godless
+C. wonderful
+D. humdrum
+E. horrible
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"I have a lot of money and a need to visit a desert, where is my likely destination?",money,train-00000-of-00001,C,"Question:
+I have a lot of money and a need to visit a desert, where is my likely destination?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bank account
+B. race track
+C. casino
+D. supermarket
+E. art show
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+What could happen to a cat other than wanting food?,cat,validation-00000-of-00001,B,"Question:
+What could happen to a cat other than wanting food?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. feline
+B. thirsty
+C. sharp claws
+D. pussycat
+E. hungry
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What type of explosive weapon often kills innocents long after the war is over?,explosive,train-00000-of-00001,D,"Question:
+What type of explosive weapon often kills innocents long after the war is over?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fireworks display
+B. bomb
+C. gun
+D. landmine
+E. army
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"He was washing hands, what happened to his hands as a result?",washing hands,train-00000-of-00001,C,"Question:
+He was washing hands, what happened to his hands as a result?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. jazz hands
+B. health
+C. become wet
+D. skin irritation
+E. dry skin
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What is a maid usually hired for?,maid,train-00000-of-00001,A,"Question:
+What is a maid usually hired for?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cleaning house
+B. iron shirts and trousers
+C. clean house
+D. maid uniform
+E. clean room
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Where could you put a dollar that would make it hard to get out without breaking?,dollar,train-00000-of-00001,B,"Question:
+Where could you put a dollar that would make it hard to get out without breaking?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cash drawer
+B. piggy bank
+C. purse
+D. box
+E. pocket
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"Billy tried to arise, but he could not stand from bed. He continued to do what?",arise,train-00000-of-00001,D,"Question:
+Billy tried to arise, but he could not stand from bed. He continued to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fall down
+B. lie flat
+C. get down
+D. lay down
+E. sitting down
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"The glass ceiling was a what, that wasn't enough to defeat her opponent?",ceiling,train-00000-of-00001,E,"Question:
+The glass ceiling was a what, that wasn't enough to defeat her opponent?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. building
+B. leak
+C. loft
+D. sag
+E. metaphor
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+Having fun with people you care about will likely cause you to do what?,having fun,train-00000-of-00001,D,"Question:
+Having fun with people you care about will likely cause you to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. better mood
+B. smiling
+C. feeling better
+D. feeling happy
+E. being excited
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"A beaver is taking logs from a Pacific beach, where is it located?",beaver,train-00000-of-00001,A,"Question:
+A beaver is taking logs from a Pacific beach, where is it located?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. washington
+B. ontario
+C. books
+D. canada
+E. in russia
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"Ones and zeroes are how computers do everything, you could say they simply what?",computers,train-00000-of-00001,C,"Question:
+Ones and zeroes are how computers do everything, you could say they simply what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. addition
+B. do work
+C. do arithmetic
+D. multitask
+E. share files
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+A hurricane is similar to what other wind event?,hurricane,train-00000-of-00001,C,"Question:
+A hurricane is similar to what other wind event?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. tornadocane
+B. disaster
+C. tornadoes
+D. death
+E. horrendous
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"She needed a new night table, what does she need to visit to get one legally?",night table,train-00000-of-00001,A,"Question:
+She needed a new night table, what does she need to visit to get one legally?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. furniture store
+B. homes
+C. hotel
+D. hallway
+E. grocery
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+What is a way that couples like to go about 	having fun ?,having fun,train-00000-of-00001,D,"Question:
+What is a way that couples like to go about 	having fun ?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cleaning house
+B. playing around
+C. constructing
+D. kiss
+E. wild ride
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What can cause someone to want to go somewhere else because it's so smelly?,go somewhere,train-00000-of-00001,E,"Question:
+What can cause someone to want to go somewhere else because it's so smelly?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. rose bush
+B. go back
+C. die
+D. arrive there
+E. fart
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"I want to buy a gong, where should I look for one?",gong,validation-00000-of-00001,E,"Question:
+I want to buy a gong, where should I look for one?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. orchestra
+B. church
+C. chinese temple
+D. chinatown
+E. music store
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"The person signed up for a dating website, what is he looking for?",person,train-00000-of-00001,E,"Question:
+The person signed up for a dating website, what is he looking for?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. financial security
+B. quick marriage
+C. live well
+D. own house
+E. good relationship
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+If you turn off the music in a room with no other noise that room would be what?,music,validation-00000-of-00001,A,"Question:
+If you turn off the music in a room with no other noise that room would be what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. silent
+B. opera
+C. silence
+D. television
+E. elevator
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"The buildings were designed to hold a lot of people, where should it be built?",buildings,train-00000-of-00001,C,"Question:
+The buildings were designed to hold a lot of people, where should it be built?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. small
+B. in a hole
+C. large city
+D. university
+E. town
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What are all living things that have at least one nerve called?,nerve,train-00000-of-00001,C,"Question:
+What are all living things that have at least one nerve called?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. person's body
+B. brainstem
+C. organism
+D. turtles
+E. fingertips
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Seeing how old things created so long ago is likely to cause?,seeing old things,train-00000-of-00001,B,"Question:
+Seeing how old things created so long ago is likely to cause?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. painful memories
+B. reverence
+C. curiosity
+D. depression
+E. nostalgia
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+Sam ran out of clipboards. Where might he got for more?,clipboard,train-00000-of-00001,D,"Question:
+Sam ran out of clipboards. Where might he got for more?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. windows 95
+B. school
+C. ammunition shop
+D. office supply store
+E. desk
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"When a person is on trial for killing, what is a jury likely to decide?",killing,train-00000-of-00001,E,"Question:
+When a person is on trial for killing, what is a jury likely to decide?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. execution
+B. investigation
+C. going to jail
+D. retribution
+E. punishment
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"The advertisement appeared outside of a central Wisconsin town, where was it located?",advertisement,train-00000-of-00001,B,"Question:
+The advertisement appeared outside of a central Wisconsin town, where was it located?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. web page
+B. la ville
+C. magazine
+D. email
+E. fargo
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What would you need to do to start work if you do not work in your house?,work,train-00000-of-00001,C,"Question:
+What would you need to do to start work if you do not work in your house?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. walk in rain
+B. sleep at night
+C. go somewhere
+D. rest
+E. ride bus
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where do you go when you're about to board a vehicle on railing?,railing,train-00000-of-00001,A,"Question:
+Where do you go when you're about to board a vehicle on railing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. railway station
+B. deck
+C. flight of stairs
+D. porch
+E. bus station
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What happens to water in a leaky faucet?,water,train-00000-of-00001,C,"Question:
+What happens to water in a leaky faucet?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. water spout
+B. wet clothes
+C. dribble
+D. power turbine
+E. thin soup
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Where do investment bankers hang out in the suburbs?,banker,train-00000-of-00001,E,"Question:
+Where do investment bankers hang out in the suburbs?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. wall street
+B. city hall
+C. monopoly game
+D. michigan
+E. country club
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+Sam turned on the projector and showed his powerpoint presentation to his partners.  Where might he be?,projector,train-00000-of-00001,E,"Question:
+Sam turned on the projector and showed his powerpoint presentation to his partners.  Where might he be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. theatre
+B. conference
+C. show films
+D. movies
+E. meeting
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Playing chess is like most things where practice helps to build your what at it?,playing chess,train-00000-of-00001,D,"Question:
+Playing chess is like most things where practice helps to build your what at it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. sharking abilities
+B. opponent
+C. thought
+D. skill
+E. intelligence
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+The roses flowered in June.  Sarah loved smelling the what?,flower,train-00000-of-00001,A,"Question:
+The roses flowered in June.  Sarah loved smelling the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. blossom
+B. vase
+C. park
+D. cast shadow
+E. open
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What will a person who is a narcissist do when around other people?,person,train-00000-of-00001,D,"Question:
+What will a person who is a narcissist do when around other people?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. put down others
+B. get laid
+C. acknowledgment
+D. talk about themselves
+E. accomplish goals
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"People want to explore space, so what should they use to do it?",people,train-00000-of-00001,C,"Question:
+People want to explore space, so what should they use to do it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. public place
+B. roadblock
+C. space shuttle
+D. hoverboard
+E. supermarket
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Where do you store your groceries when you drive home?,groceries,train-00000-of-00001,E,"Question:
+Where do you store your groceries when you drive home?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. grocery cart
+B. supermarket
+C. pantry
+D. shelf
+E. trunk
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"A bad person places little value on being honest, acting without pretense or being what?",bad,train-00000-of-00001,E,"Question:
+A bad person places little value on being honest, acting without pretense or being what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. excellent
+B. upright
+C. premium
+D. competent
+E. sincere
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+What do adults do at a cookout with friends?,adults,train-00000-of-00001,C,"Question:
+What do adults do at a cookout with friends?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dress themselves
+B. drive vehicle
+C. drink beer
+D. play games
+E. smoke cigarettes
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"All that was left to purchase was a bass drum, what would he have as a result?",bass drum,train-00000-of-00001,C,"Question:
+All that was left to purchase was a bass drum, what would he have as a result?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. rock band
+B. marching band
+C. drum set
+D. orchestra
+E. violin
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"When someone is watching a film like Saw, what are they likely experiencing?",watching film,train-00000-of-00001,B,"Question:
+When someone is watching a film like Saw, what are they likely experiencing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. they want to close their eyes
+B. fear
+C. like
+D. being entertained
+E. insight
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"If there is a bird at my window, what is it likely sitting on?",bird,train-00000-of-00001,D,"Question:
+If there is a bird at my window, what is it likely sitting on?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cage
+B. forest
+C. a ledge
+D. windowsill
+E. countryside
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What can happen when you contemplate alone for a long time?,contemplate,validation-00000-of-00001,A,"Question:
+What can happen when you contemplate alone for a long time?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. daydream
+B. headache
+C. get ideas
+D. sleep
+E. become distracted
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+How does going jogging generally affect one's self esteem?,going jogging,validation-00000-of-00001,A,"Question:
+How does going jogging generally affect one's self esteem?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. feel better
+B. feel pride
+C. sweating
+D. ocean
+E. arthritis
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What is likely to be the feeling of someone who hurts someone else?,hurting else,train-00000-of-00001,A,"Question:
+What is likely to be the feeling of someone who hurts someone else?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. feel remorse
+B. will resent
+C. anger
+D. sadness
+E. bad karma
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+My company is vertical.  How do I make it more horizontal?,company,train-00000-of-00001,A,"Question:
+My company is vertical.  How do I make it more horizontal?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. branch out
+B. ship goods
+C. commit crime
+D. change strategies
+E. own resources
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"The poet needed to write about his distant past, where did he have to go to do so?",poet,train-00000-of-00001,D,"Question:
+The poet needed to write about his distant past, where did he have to go to do so?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. garden
+B. bathroom
+C. classroom
+D. home
+E. university
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+where do some monkeys tend to live taht is hot?,monkey,train-00000-of-00001,E,"Question:
+where do some monkeys tend to live taht is hot?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. rain forest
+B. tree tops
+C. treetops
+D. great outdoors
+E. tropical areas
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What do people in love do on their birthdays?,love,train-00000-of-00001,D,"Question:
+What do people in love do on their birthdays?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. stay away from each other
+B. please parents
+C. meet friend
+D. buy presents for others
+E. make friends
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"He was serious and pragmatic, so why did he drive his car?",driving car,train-00000-of-00001,A,"Question:
+He was serious and pragmatic, so why did he drive his car?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. transportation
+B. car crash
+C. death
+D. sleepy
+E. stress
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What will happen to the animal if it doesn't eat?,animal,train-00000-of-00001,A,"Question:
+What will happen to the animal if it doesn't eat?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. die
+B. meat
+C. cuddly pet
+D. feel hunger
+E. learn how to dance
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"A man wants air conditioning while we watches the game on Saturday, where will it likely be installed?",air conditioning,validation-00000-of-00001,B,"Question:
+A man wants air conditioning while we watches the game on Saturday, where will it likely be installed?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. car
+B. house
+C. offices
+D. park
+E. movie theatre
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What does a person do if they want to appear authroitative?,person,train-00000-of-00001,A,"Question:
+What does a person do if they want to appear authroitative?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. stand erect
+B. washing dishes
+C. catch cold
+D. bow to people
+E. wait patiently
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"Being tired makes humans realize they need what even in a car, or chair?",being tired,train-00000-of-00001,D,"Question:
+Being tired makes humans realize they need what even in a car, or chair?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. snore
+B. go to bed
+C. read a book
+D. have rest
+E. go to sleep
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"If a person is working a lot, what are they likely trying to earn?",person,validation-00000-of-00001,A,"Question:
+If a person is working a lot, what are they likely trying to earn?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. much money
+B. own house
+C. creativity
+D. new car
+E. caregiver
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"After exercising for 3 hours straight, what did the girl experience?",exercising,train-00000-of-00001,E,"Question:
+After exercising for 3 hours straight, what did the girl experience?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. exhaustion
+B. muscle growth
+C. tiredness
+D. sore muscles
+E. pain
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"The shark was feeling cold, what did it decide to look for?",shark,train-00000-of-00001,B,"Question:
+The shark was feeling cold, what did it decide to look for?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. ocean
+B. tropical waters
+C. sea world
+D. tomales bay
+E. great oceans
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+Artificial intelligence is changing society.  Shifting needs and capabilities have led to what?,changing society,train-00000-of-00001,A,"Question:
+Artificial intelligence is changing society.  Shifting needs and capabilities have led to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. change in leadership
+B. revolution
+C. no water
+D. acceptance
+E. depression
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where do you live if there are a lot of mailboxes in the foyer?,foyer,train-00000-of-00001,D,"Question:
+Where do you live if there are a lot of mailboxes in the foyer?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. spacious house
+B. mansion
+C. building
+D. apartment
+E. townhouse
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"They needed a machine to help with their studies, it was used often in the where?",machine,train-00000-of-00001,D,"Question:
+They needed a machine to help with their studies, it was used often in the where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. industrial area
+B. restaurant
+C. house
+D. laboratory
+E. office
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What is someone doing when scheduling when to go to party?,going to party,validation-00000-of-00001,E,"Question:
+What is someone doing when scheduling when to go to party?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. rumpspringa
+B. meeting new people
+C. having fun
+D. meet new people
+E. plan
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+A product that has been out of stock but is now restocked is what?,scarce,train-00000-of-00001,E,"Question:
+A product that has been out of stock but is now restocked is what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. plenty
+B. empty
+C. abundant
+D. plentiful
+E. available
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Reaching advantage position in a competitin puts me in what position as compared to others?,reaching advantage,train-00000-of-00001,C,"Question:
+Reaching advantage position in a competitin puts me in what position as compared to others?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. determination
+B. upper hand
+C. superior
+D. higher position
+E. skill
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What is a person chatting with friends likely hoping to accomplish?,chatting with friends,train-00000-of-00001,E,"Question:
+What is a person chatting with friends likely hoping to accomplish?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. gathering of information
+B. communication
+C. feel relaxed
+D. kill boredom
+E. social bonding
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"Long term consumption of beer can lead to all sorts of problems, it can be quite what?",beer,train-00000-of-00001,E,"Question:
+Long term consumption of beer can lead to all sorts of problems, it can be quite what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. water
+B. liquid
+C. foamy
+D. intoxicating
+E. harmful
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+In order to give birth to a child you have to do this with a man?,child,train-00000-of-00001,A,"Question:
+In order to give birth to a child you have to do this with a man?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. have sex
+B. eat vegetables
+C. go to school
+D. become adult
+E. use birth control
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+WHat do many people like to do at festivals?,many people,train-00000-of-00001,E,"Question:
+WHat do many people like to do at festivals?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. play games
+B. talk
+C. hear birds voices
+D. eat ice cream
+E. listen to music
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"If you didn't find any plants on another planet, where might you look to find some?",plants,train-00000-of-00001,A,"Question:
+If you didn't find any plants on another planet, where might you look to find some?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. surface of earth
+B. park
+C. greenhouse
+D. windowsill
+E. ice burg
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"There is a lot of ways to live life, but it all ends the same with what?",life,train-00000-of-00001,C,"Question:
+There is a lot of ways to live life, but it all ends the same with what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. void
+B. created
+C. death
+D. coma
+E. happy
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Where can I find a steakhouse with a view of corn fields?,steak house,train-00000-of-00001,A,"Question:
+Where can I find a steakhouse with a view of corn fields?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. nebraska
+B. new york
+C. mexico
+D. home
+E. utah
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"After the bald eagle was caught, where did it spend the rest of its life?",bald eagle,train-00000-of-00001,B,"Question:
+After the bald eagle was caught, where did it spend the rest of its life?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cliff
+B. captivity
+C. colorado
+D. texas
+E. utah
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What do people use in the army when they are being attacked?,people,train-00000-of-00001,C,"Question:
+What do people use in the army when they are being attacked?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. desire to travel
+B. talk to each other
+C. use weapons
+D. crying
+E. smoke marijuana
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+James thought that cost of buying the new screen outweighted the what?,cost,train-00000-of-00001,E,"Question:
+James thought that cost of buying the new screen outweighted the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. retail markup
+B. revenue
+C. for free
+D. income
+E. benefit
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What is a place where clippers are used on women?,clippers,train-00000-of-00001,A,"Question:
+What is a place where clippers are used on women?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. salon
+B. barbershop
+C. pharmacy
+D. barber's shop
+E. bathroom cabinet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+If you have beans while eating breakfast you may experience what?,eating breakfast,train-00000-of-00001,C,"Question:
+If you have beans while eating breakfast you may experience what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fullness
+B. indigestion
+C. gas
+D. gain energy
+E. stomach ache
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+When an unpopular change in the way things are done occurs what is the public reaction?,instituting civil action,train-00000-of-00001,C,"Question:
+When an unpopular change in the way things are done occurs what is the public reaction?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. confusion
+B. going to court
+C. moral outrage
+D. trial
+E. hurt feelings
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where would you put a plate immediately after eating from it?,plate,validation-00000-of-00001,D,"Question:
+Where would you put a plate immediately after eating from it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. kitchen cupboard
+B. floor
+C. table
+D. dishwasher
+E. flea market
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"If a person wants to sort a pile of stuff, they must start by what?",person,train-00000-of-00001,E,"Question:
+If a person wants to sort a pile of stuff, they must start by what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. control computer
+B. go on vacation
+C. cross street
+D. gain weight
+E. separate things
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Where is a public monument likely to be erected by a city?,monument,validation-00000-of-00001,A,"Question:
+Where is a public monument likely to be erected by a city?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. municipal park
+B. office
+C. state park
+D. cemetary
+E. public gardens
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"Because of safety concerns a law was passed, now all cars must have what?",cars,train-00000-of-00001,D,"Question:
+Because of safety concerns a law was passed, now all cars must have what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. windows
+B. trunks
+C. four wheels
+D. seat belts
+E. diesel engines
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where would you see some people standing on a line near a road?,people,train-00000-of-00001,E,"Question:
+Where would you see some people standing on a line near a road?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. water fountain
+B. military base
+C. apartment
+D. fire house
+E. bus stop
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"The board game instructed that you must conquer opponent, only the what would come out on top?",conquer opponent,train-00000-of-00001,E,"Question:
+The board game instructed that you must conquer opponent, only the what would come out on top?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. top piece
+B. strong
+C. win
+D. total domination
+E. best
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+James was dedicated to contemplating things.  What did he seek?,contemplating,train-00000-of-00001,E,"Question:
+James was dedicated to contemplating things.  What did he seek?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. revelations
+B. hesitation
+C. lessons
+D. new insights
+E. enlightenment
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Which way is the pacific ocean from Nevada?,pacific ocean,train-00000-of-00001,E,"Question:
+Which way is the pacific ocean from Nevada?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. atlas
+B. san francisco bay
+C. beach
+D. southern hemisphere
+E. west
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"The inspector was agreeing with the factory protocols, what was the status of the factory?",agreeing with,validation-00000-of-00001,A,"Question:
+The inspector was agreeing with the factory protocols, what was the status of the factory?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. compliance
+B. eligible
+C. contract
+D. harmony
+E. friendship
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+If there is a grocery store nearby it is in your what?,grocery store,train-00000-of-00001,D,"Question:
+If there is a grocery store nearby it is in your what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. neck of the woods
+B. town
+C. shopping center
+D. neighborhood
+E. street
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What do those of a relative committing suicide likely to feel?,committing suicide,train-00000-of-00001,A,"Question:
+What do those of a relative committing suicide likely to feel?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. sorrow
+B. uncomfortable
+C. harm to others
+D. being dead
+E. death
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"The family wanted to live with carpeting, so where did they end up putting it?",carpeting,train-00000-of-00001,D,"Question:
+The family wanted to live with carpeting, so where did they end up putting it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. istanbul
+B. fireplace
+C. gym
+D. houses
+E. bedroom
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where might I re-home a well loved piece of furniture from college days?,furniture,train-00000-of-00001,C,"Question:
+Where might I re-home a well loved piece of furniture from college days?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pawn shop
+B. rug
+C. friend's house
+D. room
+E. apartment
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"If you worked at an office building, where you might find a ficus tree?",ficus,train-00000-of-00001,B,"Question:
+If you worked at an office building, where you might find a ficus tree?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hallway
+B. boss's office
+C. large pot
+D. tropical zones
+E. tropical region
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Why wouldn't someone want to work in an office?,working,train-00000-of-00001,B,"Question:
+Why wouldn't someone want to work in an office?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. blisters
+B. frustration
+C. being paid
+D. making shareholders richer
+E. making money
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What is an easy way to make a potato soft?,potato,train-00000-of-00001,B,"Question:
+What is an easy way to make a potato soft?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. restaurants
+B. cooking pot
+C. beef stew
+D. steak house
+E. let it rot
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"The cat seemed calm around the stranger, but it was actually quite what and ready to claw?",calm,train-00000-of-00001,C,"Question:
+The cat seemed calm around the stranger, but it was actually quite what and ready to claw?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. medium
+B. excited
+C. agitated
+D. frantic
+E. frenzied
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+What does a person want  to do to get a promotion at work?,person,train-00000-of-00001,D,"Question:
+What does a person want  to do to get a promotion at work?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. smile
+B. plant flowers
+C. promise to do
+D. gain respect
+E. fish lake
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+I need a person to milk a cow would a volunteer do this?,person,train-00000-of-00001,D,"Question:
+I need a person to milk a cow would a volunteer do this?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cross street
+B. milk cow
+C. lose weight
+D. step forward
+E. need food
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What do marine life use to shelter themselves from a shark?,shark,train-00000-of-00001,A,"Question:
+What do marine life use to shelter themselves from a shark?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. coral reef
+B. television program
+C. pacific ocean
+D. open ocean
+E. seaweed
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What does going to party with the opposite sex lead to?,going to party,train-00000-of-00001,E,"Question:
+What does going to party with the opposite sex lead to?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. get drunk
+B. meet new people
+C. drinking beer
+D. enjoy yourself
+E. having sex
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What mood sets in when someone is going to work with a boss they dislike?,going to work,train-00000-of-00001,D,"Question:
+What mood sets in when someone is going to work with a boss they dislike?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. boredom
+B. teamwork
+C. stress
+D. anger
+E. exhaustion
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"The woman is watching television and trying to forget her day, what is her goal?",watching television,validation-00000-of-00001,E,"Question:
+The woman is watching television and trying to forget her day, what is her goal?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. entertainment
+B. falling asleep
+C. getting fat
+D. crying
+E. relaxation
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"If people are busy, what do they tend to do?",people,train-00000-of-00001,D,"Question:
+If people are busy, what do they tend to do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. make lists
+B. trade places
+C. talk to each other
+D. hurry along
+E. say ""hello"" to one another
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+John thought that using television is different from listening to radio. How is television different from radio?,using television,train-00000-of-00001,A,"Question:
+John thought that using television is different from listening to radio. How is television different from radio?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. visual
+B. conformity
+C. audio
+D. entertained
+E. laziness
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"A person wanted a seafood dinner, so what did he decide to do?",person,train-00000-of-00001,A,"Question:
+A person wanted a seafood dinner, so what did he decide to do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fish lake
+B. gain respect
+C. plant flowers
+D. wish really hard
+E. cross street
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What is the closest place to eat when you are not out on the town?,place to eat,train-00000-of-00001,D,"Question:
+What is the closest place to eat when you are not out on the town?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. serving drinks
+B. food court
+C. shopping center
+D. own house
+E. downtown
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+What do you hope to achieve when finding information about manners?,finding information,train-00000-of-00001,E,"Question:
+What do you hope to achieve when finding information about manners?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. understanding of
+B. solution to problem
+C. polite
+D. being able to use
+E. know how to act
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"If an outdoors man wants accommodations, where is he likely looking to go?",accommodations,train-00000-of-00001,E,"Question:
+If an outdoors man wants accommodations, where is he likely looking to go?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. motel
+B. comfort
+C. hostel
+D. theater
+E. camp ground
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+If a person acts in a manner that embarrasses themselves and family their behavior is what?,person,train-00000-of-00001,E,"Question:
+If a person acts in a manner that embarrasses themselves and family their behavior is what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. have no home
+B. ridiculous
+C. beautiful
+D. restricted
+E. shameful
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"The cancer patient was expecting to die, so he made out his what?",die,validation-00000-of-00001,B,"Question:
+The cancer patient was expecting to die, so he made out his what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. not to live
+B. write will
+C. never want
+D. seek help
+E. go to hell
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"If people are on a beach, what are they likely doing?",people,train-00000-of-00001,B,"Question:
+If people are on a beach, what are they likely doing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. eat plants
+B. sun themselves
+C. swimming
+D. gain wealth
+E. talk to each other
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"The pitcher stepped on the mound ready to throw, where was he located specifically?",mound,validation-00000-of-00001,E,"Question:
+The pitcher stepped on the mound ready to throw, where was he located specifically?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hell
+B. baseball stadium
+C. golf course
+D. africa
+E. baseball diamond
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+The mountain was very massive.  It did what to the nearby hills?,massive,train-00000-of-00001,D,"Question:
+The mountain was very massive.  It did what to the nearby hills?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. lame
+B. insubstantial
+C. inconsequential
+D. dwarf
+E. massless
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"The brothers were punching angrily, why would they do that?",punching,train-00000-of-00001,A,"Question:
+The brothers were punching angrily, why would they do that?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cause pain
+B. to defend themselves.
+C. broken bones
+D. bruise
+E. pain for
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+They came to an amiable solution to their rather what problem?,amiable,train-00000-of-00001,D,"Question:
+They came to an amiable solution to their rather what problem?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. amiability
+B. disagreeable
+C. amiably
+D. unpleasant
+E. ungracious
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What is something that probably has a lot of testosterone and way too much alcohol?,alcohol,train-00000-of-00001,D,"Question:
+What is something that probably has a lot of testosterone and way too much alcohol?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. beer
+B. wine
+C. restaurant
+D. fraternity house
+E. pub
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What is likely to run high when two people are competing against each other?,competing against,train-00000-of-00001,C,"Question:
+What is likely to run high when two people are competing against each other?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pride
+B. frustration
+C. emotions
+D. encouraging
+E. tensions
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+If your opponents in a marathon is very fast it is easy to fall what?,fast,train-00000-of-00001,B,"Question:
+If your opponents in a marathon is very fast it is easy to fall what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. lightly
+B. behind
+C. train
+D. slowly
+E. sitfast
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+The department store is located in the Northwest USA.  Where might it be?,department store,train-00000-of-00001,D,"Question:
+The department store is located in the Northwest USA.  Where might it be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. new york
+B. big city
+C. town
+D. idaho
+E. shopping mall
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+If you spend most of your time resting you may be what?,resting,train-00000-of-00001,A,"Question:
+If you spend most of your time resting you may be what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. laziness
+B. relaxation
+C. doing nothing
+D. falling asleep
+E. well rested
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"The Mississippi is a very large river, it is the largest in the North American what?",river,train-00000-of-00001,E,"Question:
+The Mississippi is a very large river, it is the largest in the North American what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. wilderness
+B. country
+C. city
+D. bridge
+E. continent
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"The old clothes weren't even useful as rags, they belonged where?",old clothes,train-00000-of-00001,B,"Question:
+The old clothes weren't even useful as rags, they belonged where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. loft
+B. trash
+C. attic
+D. fire pit
+E. trunk
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"The student was having difficulty finding information in the book, so he raise his hand and began to what?",finding information,train-00000-of-00001,D,"Question:
+The student was having difficulty finding information in the book, so he raise his hand and began to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. learn
+B. turn pages
+C. death
+D. ask questions
+E. go to school
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Where would you expect to see a white fox?,fox,train-00000-of-00001,D,"Question:
+Where would you expect to see a white fox?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. great outdoors
+B. open meadow
+C. forest
+D. arctic tundra
+E. mountains
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What do people do if they are near the sea?,people,train-00000-of-00001,E,"Question:
+What do people do if they are near the sea?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. write stories
+B. talk to each other
+C. go fishing
+D. die of starvation
+E. eat fish
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+Where do kids like to hang out to watch tv and avoid their parents in the house?,house,train-00000-of-00001,A,"Question:
+Where do kids like to hang out to watch tv and avoid their parents in the house?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. basement
+B. kitchen
+C. rooms
+D. den
+E. yard
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What is someone likely to feel after the act of procreating?,procreating,train-00000-of-00001,B,"Question:
+What is someone likely to feel after the act of procreating?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. exhaustion
+B. feeling good
+C. having children
+D. overpopulation
+E. hair loss
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+How would you express information if you do not have a pen or pencil?,express information,validation-00000-of-00001,D,"Question:
+How would you express information if you do not have a pen or pencil?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. may disagree
+B. close mouth
+C. write down
+D. talk
+E. eyes
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+Where can you spend the night on the ground floor when you're away from home?,ground floor,train-00000-of-00001,C,"Question:
+Where can you spend the night on the ground floor when you're away from home?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. brownstone
+B. highrise building
+C. hotel
+D. subway
+E. office building
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+The cashier said if you want to buy food you have to do what?,buy food,train-00000-of-00001,B,"Question:
+The cashier said if you want to buy food you have to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. need to eat
+B. spend money
+C. drive your car.
+D. paying
+E. hunger
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"The conductor ordered the gong to sound, who was the gong player playing with?",gong,train-00000-of-00001,A,"Question:
+The conductor ordered the gong to sound, who was the gong player playing with?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. orchestra
+B. tibet
+C. music store
+D. chinatown
+E. band
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+James went to the best steakhouse outside of the South.  Where is James?,steakhouse,train-00000-of-00001,D,"Question:
+James went to the best steakhouse outside of the South.  Where is James?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dairy farm
+B. texas
+C. building
+D. michigan
+E. florida
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What kind of tale might feature a talking weasel?,weasel,validation-00000-of-00001,E,"Question:
+What kind of tale might feature a talking weasel?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. mulberry bush
+B. animated film
+C. chicken coop
+D. history book
+E. children's story
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+If you need more information on a subject you can read books to what?,books,train-00000-of-00001,E,"Question:
+If you need more information on a subject you can read books to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. include information
+B. explain problems
+C. get confused
+D. win prizes
+E. further knowledge
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What happens if lovers want to show affection?,lovers,train-00000-of-00001,A,"Question:
+What happens if lovers want to show affection?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. kiss each other
+B. show disgust of each other
+C. argue
+D. part ways
+E. break up
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"am was a pretty bad neighbour.  He was annoying, and considered to be a what?",neighbour,train-00000-of-00001,C,"Question:
+am was a pretty bad neighbour.  He was annoying, and considered to be a what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. distant
+B. foe
+C. bore
+D. remote person
+E. hermit
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Rumors of roving bands of monsters killing people could lead to what?,killing people,train-00000-of-00001,C,"Question:
+Rumors of roving bands of monsters killing people could lead to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. panic
+B. getting in trouble
+C. mass hysteria
+D. go to prison
+E. murder
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"If a sailor sets off on a voyage, where might they stow a suitcase?",suitcase,train-00000-of-00001,A,"Question:
+If a sailor sets off on a voyage, where might they stow a suitcase?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cargo hold
+B. airplane
+C. baggage compartment
+D. movie
+E. boat
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Faith in a high power is said to provide solace in times of what?,faith,train-00000-of-00001,B,"Question:
+Faith in a high power is said to provide solace in times of what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. move mountains
+B. despair
+C. uneducated
+D. disbelief
+E. knowledge
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"The color yellow is associated with the opposite of the characteristic, what is it?",yellow,train-00000-of-00001,A,"Question:
+The color yellow is associated with the opposite of the characteristic, what is it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fearless
+B. english carrier
+C. courageous
+D. brave
+E. achromatic
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"Though she made the cut years ago, its figurative scars would never what?",cut,train-00000-of-00001,D,"Question:
+Though she made the cut years ago, its figurative scars would never what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. joining
+B. put together
+C. stitch
+D. heal
+E. paste
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What is a convenient way for a farmer to preserve their crops?,farmer,train-00000-of-00001,A,"Question:
+What is a convenient way for a farmer to preserve their crops?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. can produce
+B. harvestation
+C. water plants
+D. produce food
+E. rise early
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"James sat down and looked at the menu, then he placed an order.  Where might he be?",menu,train-00000-of-00001,B,"Question:
+James sat down and looked at the menu, then he placed an order.  Where might he be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. shop
+B. cafe
+C. internet sites
+D. table
+E. advertisement
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Running errands with screaming kids will likely cause what?,running errands,validation-00000-of-00001,C,"Question:
+Running errands with screaming kids will likely cause what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. efficiency
+B. insanity
+C. aggravation
+D. tiredness
+E. stress
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+The stud bull was brought in to breed with the prize winning what?,bull,train-00000-of-00001,B,"Question:
+The stud bull was brought in to breed with the prize winning what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. horse
+B. cow
+C. bullbleep
+D. feeble
+E. female
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+A child can enjoy stories about a talking beaver in what communication item?,beaver,train-00000-of-00001,E,"Question:
+A child can enjoy stories about a talking beaver in what communication item?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. canada
+B. australia
+C. wooded area
+D. body of water
+E. books
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+In what sort of container should you keep your ficus?,ficus,train-00000-of-00001,C,"Question:
+In what sort of container should you keep your ficus?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. refigerator
+B. screened porch
+C. clay pot
+D. shady places
+E. arboretum
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"Dad is putting away folding chairs after a party, where does he store them?",folding chair,train-00000-of-00001,B,"Question:
+Dad is putting away folding chairs after a party, where does he store them?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. church
+B. garage
+C. attic
+D. room
+E. closet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"They had to know where to go, they got on the national highway after consulting the what?",national highway,validation-00000-of-00001,B,"Question:
+They had to know where to go, they got on the national highway after consulting the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. canada
+B. atlas
+C. united states
+D. major cities
+E. book
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Johnny was looking for cookies that his mom had hid from him.  Where might he look for them?,cookie,train-00000-of-00001,E,"Question:
+Johnny was looking for cookies that his mom had hid from him.  Where might he look for them?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dessert
+B. evercookie
+C. evercookie
+D. store
+E. jar
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"The computer was hooked up to the internet, what could it do as a result?",computer,validation-00000-of-00001,E,"Question:
+The computer was hooked up to the internet, what could it do as a result?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. process information
+B. believe in god
+C. make decisions
+D. process information
+E. receive data
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"Buying products is difficult, even impossible, if you experience what?",buying products,train-00000-of-00001,C,"Question:
+Buying products is difficult, even impossible, if you experience what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. agony
+B. owning
+C. bankruptcy
+D. economic boom
+E. pleasure
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Where would you find a bottle used to feed a new human?,bottle,train-00000-of-00001,E,"Question:
+Where would you find a bottle used to feed a new human?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. supermarket
+B. grocery store
+C. vending machine
+D. liquor store
+E. nursery
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+WHat do you need to do when you buy something so you dont overspend?,buy,train-00000-of-00001,C,"Question:
+WHat do you need to do when you buy something so you dont overspend?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. paying
+B. spend money
+C. have in mind
+D. get money
+E. make list
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where can you buy socks and jeans?,jeans,train-00000-of-00001,C,"Question:
+Where can you buy socks and jeans?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. washing machine
+B. laundromat
+C. clothing store
+D. closet
+E. shopping mall
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"Sam examined the thing closely.  He was interested in it, and he wanted to do what?",examine thing,train-00000-of-00001,C,"Question:
+Sam examined the thing closely.  He was interested in it, and he wanted to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. interesting
+B. interests
+C. learn more about
+D. complex
+E. go to bed
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+If you're pouring water over grounds what type of drink are you making?,water,train-00000-of-00001,A,"Question:
+If you're pouring water over grounds what type of drink are you making?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cup of coffee
+B. brook
+C. synagogue
+D. tea
+E. sink
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+Where would you find teeth whitening bleachers?,bleachers,train-00000-of-00001,D,"Question:
+Where would you find teeth whitening bleachers?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. gymnasium
+B. soccer game
+C. sporting event
+D. pharmacy
+E. soccer game
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"The baby was cranky, it needed to eat breakfast but refused to what?",eat breakfast,validation-00000-of-00001,B,"Question:
+The baby was cranky, it needed to eat breakfast but refused to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. buy food
+B. open mouth
+C. get out of bed
+D. cry
+E. wake up
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+What should you say to someone that sneezes?,sneeze,train-00000-of-00001,A,"Question:
+What should you say to someone that sneezes?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bless you
+B. keep your eyes open
+C. yawn
+D. inhale
+E. cough
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Remembering a terrible event is likely to cause what?,remembering,train-00000-of-00001,E,"Question:
+Remembering a terrible event is likely to cause what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. problems
+B. inspiration
+C. going to a therapist
+D. crying
+E. trauma
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"If a person wants to put some excitement into his routine, he learn how to do what?",excitement,train-00000-of-00001,C,"Question:
+If a person wants to put some excitement into his routine, he learn how to do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. play hockey
+B. basketball
+C. dance
+D. go somewhere
+E. express information
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+In what kind of environment does an anemone live?,anemone,validation-00000-of-00001,D,"Question:
+In what kind of environment does an anemone live?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. nursery
+B. south pacific
+C. desert
+D. sea water
+E. atlantic ocean
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Is that person acting as silly as a clown?,person,validation-00000-of-00001,B,"Question:
+Is that person acting as silly as a clown?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. make mistakes
+B. ridiculous
+C. have no home
+D. mentally unhinged
+E. schizophrenia
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+A projector displayed people on the huge screen while the audience laughed.  What might they be watching?,projector,train-00000-of-00001,A,"Question:
+A projector displayed people on the huge screen while the audience laughed.  What might they be watching?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. movies
+B. theatre
+C. cabaret
+D. conference
+E. meeting
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"The judge found him guilty of committing perjury, this brought the man great what?",committing perjury,train-00000-of-00001,A,"Question:
+The judge found him guilty of committing perjury, this brought the man great what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. shame
+B. arrest
+C. distress
+D. embarrassment
+E. tension
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Danny was having fun singing in front of his class.   He has a lot of what?,having fun,train-00000-of-00001,C,"Question:
+Danny was having fun singing in front of his class.   He has a lot of what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. laughter
+B. being happy
+C. glee
+D. opera
+E. injuries
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where might you find dirt on a place you would see a gutter and rubber hit it regularly?,dirt,train-00000-of-00001,D,"Question:
+Where might you find dirt on a place you would see a gutter and rubber hit it regularly?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. race track
+B. bed
+C. ground
+D. street
+E. subway
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"He wanted to research well-crafted chesterfield, where should he look?",chesterfield,train-00000-of-00001,A,"Question:
+He wanted to research well-crafted chesterfield, where should he look?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. museum
+B. living room
+C. museum
+D. derbyshire
+E. foyer
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"A child wants to play, what would they likely want?",child,validation-00000-of-00001,C,"Question:
+A child wants to play, what would they likely want?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fall down
+B. breathe
+C. play tag
+D. be dismembered by a chainsaw
+E. become adult
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+What could using computer not cause if you are paralyzed?,using computer,train-00000-of-00001,B,"Question:
+What could using computer not cause if you are paralyzed?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pleasure
+B. carpal tunnel syndrome
+C. medical bill
+D. eye strain
+E. increased efficiency
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"The outdoor restaurant has no business when it rained, where should it move to?",restaurant,train-00000-of-00001,C,"Question:
+The outdoor restaurant has no business when it rained, where should it move to?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. big city
+B. town
+C. building
+D. new york
+E. new place
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+How will a teacher begin projects for students required to work together?,teacher,train-00000-of-00001,C,"Question:
+How will a teacher begin projects for students required to work together?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. state facts
+B. teach pupils
+C. group students
+D. better knowledge
+E. dividing students
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What do I say when I am meeting people for the first time?,meeting people,train-00000-of-00001,B,"Question:
+What do I say when I am meeting people for the first time?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hugging
+B. introducing yourself
+C. making friends
+D. smiling
+E. shake hands
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"A human is fragile, so you should take care since you only get what?",human,train-00000-of-00001,A,"Question:
+A human is fragile, so you should take care since you only get what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. one body
+B. muscles
+C. mouth
+D. two arms
+E. stupidity
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"The executives talked strategy walking through the lobby, what were they likely discussing?",lobby,train-00000-of-00001,D,"Question:
+The executives talked strategy walking through the lobby, what were they likely discussing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. opera
+B. office building
+C. receptionist
+D. business plan
+E. game plan
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What is a person's immediate reaction to winning the lottery?,person,train-00000-of-00001,A,"Question:
+What is a person's immediate reaction to winning the lottery?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. feel lucky
+B. wash themselves
+C. wonder what happened
+D. cross street
+E. run
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"The people were building a backdrop for the play, their tools echoed in the empty what?",backdrop,train-00000-of-00001,D,"Question:
+The people were building a backdrop for the play, their tools echoed in the empty what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bodyshop
+B. stage show
+C. theatre
+D. theater
+E. photography studio
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Where can I find a constitutional monarchy with a parliamentary democracy and federation?,government,train-00000-of-00001,C,"Question:
+Where can I find a constitutional monarchy with a parliamentary democracy and federation?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. church
+B. democracy
+C. canada
+D. country
+E. civilization
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+Why may a person with troubles do when praying?,praying,train-00000-of-00001,E,"Question:
+Why may a person with troubles do when praying?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. talking to god
+B. clap
+C. kneel down
+D. look upward
+E. ask for help
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Where would you put some ham if you want to cook it?,ham,validation-00000-of-00001,B,"Question:
+Where would you put some ham if you want to cook it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hamshackle
+B. pizza
+C. fridge
+D. refrigerator
+E. part of meal
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"The man was a great motivational speaker, he explained how his disability was actually his greatest what?",disability,train-00000-of-00001,D,"Question:
+The man was a great motivational speaker, he explained how his disability was actually his greatest what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. competency
+B. potential
+C. competence
+D. strength
+E. potence
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Colorado became one of the first to legalize recreational marijuana in the what?,colorado,train-00000-of-00001,E,"Question:
+Colorado became one of the first to legalize recreational marijuana in the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. mexico
+B. america
+C. texas
+D. arizona
+E. united states
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+If a person is on vacation what are they likely to achieve?,person,train-00000-of-00001,A,"Question:
+If a person is on vacation what are they likely to achieve?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. feel pleasure
+B. look attractive
+C. interesting experiences
+D. compliments
+E. relaxation
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"The college student wanted to meet people, but he didn't really like to what?",meet people,train-00000-of-00001,C,"Question:
+The college student wanted to meet people, but he didn't really like to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. take class
+B. friendly
+C. go to parties
+D. go outside
+E. go outside
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Where would you put something after an iron has been used on it?,iron,train-00000-of-00001,C,"Question:
+Where would you put something after an iron has been used on it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. ironing board
+B. house
+C. linen closet
+D. laundry room
+E. kitchen
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What would you be unable to do on a mountain if there is not good weather?,good weather,train-00000-of-00001,E,"Question:
+What would you be unable to do on a mountain if there is not good weather?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. travel
+B. go somewhere
+C. ride bike
+D. play frisbee
+E. climb
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+You can read a magazine where while waiting for your transportation on rails to arrive?,magazine,train-00000-of-00001,A,"Question:
+You can read a magazine where while waiting for your transportation on rails to arrive?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. train station
+B. bookstore
+C. newsstand
+D. waiting room
+E. airport
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+He borrowed a metal detector to try to find his ring that he what while pulling weeds?,find,train-00000-of-00001,B,"Question:
+He borrowed a metal detector to try to find his ring that he what while pulling weeds?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. found
+B. lost
+C. loose
+D. lose
+E. hide
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"At a university, what sort of building is likely to be called a hall?",hall,train-00000-of-00001,D,"Question:
+At a university, what sort of building is likely to be called a hall?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. conference
+B. small classroom
+C. large building
+D. dormitory
+E. inside
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"If I wanted to play poker, where should I put the table?",table,train-00000-of-00001,B,"Question:
+If I wanted to play poker, where should I put the table?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. demonstration
+B. card room
+C. rug
+D. neighbor's house
+E. middle of the road
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+If you rent a condominium in a glove-shaped state where are you?,condominium,train-00000-of-00001,B,"Question:
+If you rent a condominium in a glove-shaped state where are you?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. great lake state
+B. michigan
+C. community
+D. towels
+E. complex
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where would you put refuse if you do not want it to exist any more?,refuse,train-00000-of-00001,E,"Question:
+Where would you put refuse if you do not want it to exist any more?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. basement
+B. dump
+C. wastebasket
+D. garbage can
+E. incinerator
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"After the magic show they returned to their hotel, there was lots to see where?",hotel,train-00000-of-00001,C,"Question:
+After the magic show they returned to their hotel, there was lots to see where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. touristic area
+B. different country
+C. las vegas
+D. resort
+E. city
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"A gentleman is trying to relax, where is he likely to be able to do that?",gentleman,train-00000-of-00001,C,"Question:
+A gentleman is trying to relax, where is he likely to be able to do that?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. meeting
+B. club
+C. meditation center
+D. church
+E. in bed
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+Where could you find a weasel that is not alive?,weasel,train-00000-of-00001,D,"Question:
+Where could you find a weasel that is not alive?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. court room
+B. cherry tree
+C. chicken coop
+D. natural history museum
+E. zoo
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What is it called when people are suspicious of their leaders?,people,train-00000-of-00001,E,"Question:
+What is it called when people are suspicious of their leaders?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fingers crossed
+B. share things
+C. sail boats
+D. learn from each other
+E. question authority
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"Bob lights a fire in the wood stove in the winter, what does he want?",fire,train-00000-of-00001,E,"Question:
+Bob lights a fire in the wood stove in the winter, what does he want?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. emits light
+B. warm hands
+C. boil water
+D. emit light
+E. warm house
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Where could you put some olives to keep them fresh?,olives,train-00000-of-00001,E,"Question:
+Where could you put some olives to keep them fresh?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. jar
+B. pressed for thier oil
+C. ice box
+D. pizza
+E. refrigerator
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+From where do you buy a train ticket in person?,train ticket,train-00000-of-00001,A,"Question:
+From where do you buy a train ticket in person?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. ticket booth
+B. train depot
+C. purse
+D. manual
+E. conductor's hand
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What do you do when you're going to market?,going to market,validation-00000-of-00001,A,"Question:
+What do you do when you're going to market?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. buy food
+B. see other people
+C. buying vegetables
+D. buy a fat pig
+E. traveling
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What do kids have to do before they can go outside a house?,kids,train-00000-of-00001,B,"Question:
+What do kids have to do before they can go outside a house?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. distracting
+B. open door
+C. wonder about
+D. take shoes off
+E. become adults
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"He finished installing a swinging hinge on both parts, she had always wanted a fancy what?",hinge,train-00000-of-00001,C,"Question:
+He finished installing a swinging hinge on both parts, she had always wanted a fancy what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. swing door
+B. gate
+C. french door
+D. car door
+E. exterior door
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"The flooring was a good bargain, you got a bigger discount the bigger the what?",flooring,train-00000-of-00001,A,"Question:
+The flooring was a good bargain, you got a bigger discount the bigger the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bundle
+B. loft
+C. charming
+D. home depot
+E. house
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+What happens at the first opening of a business if it's not succesful?,opening business,train-00000-of-00001,D,"Question:
+What happens at the first opening of a business if it's not succesful?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. making money
+B. grand opening
+C. wealth
+D. lose money
+E. get rich
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"The all star was still playing ball in the championship, he wasn't one hundred percent because of a what?",playing ball,train-00000-of-00001,D,"Question:
+The all star was still playing ball in the championship, he wasn't one hundred percent because of a what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. having fun
+B. pleasure
+C. trauma
+D. injury
+E. throwing
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+A flashing LED might indicate a serious problem with your computer if it is on your what?,led,train-00000-of-00001,D,"Question:
+A flashing LED might indicate a serious problem with your computer if it is on your what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. electronic equipment
+B. screen
+C. electronic devices
+D. pc board
+E. electrical machine
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+What kind of cold storage could you find in your house?,cold storage,validation-00000-of-00001,E,"Question:
+What kind of cold storage could you find in your house?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. ice pack
+B. freezer
+C. laboratory
+D. warehouse
+E. refrigerator
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+The teacher told the choir that they might faint and fall if they locked their knees while what?,fall,train-00000-of-00001,D,"Question:
+The teacher told the choir that they might faint and fall if they locked their knees while what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. getting hurt
+B. ocean
+C. stand up
+D. standing
+E. summer
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What do you do after you reproduce?,reproduce,train-00000-of-00001,C,"Question:
+What do you do after you reproduce?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. accidently got pregnant somehow
+B. have children
+C. raise children
+D. offspring
+E. extra copies for gang
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"A fertilizer is making a flower grow, what is likely to happen next?",making grow,train-00000-of-00001,E,"Question:
+A fertilizer is making a flower grow, what is likely to happen next?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. more of
+B. flowering
+C. leaves
+D. harvesting
+E. blooms
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What are you using if there are speakers strapped on your ears?,speakers,validation-00000-of-00001,B,"Question:
+What are you using if there are speakers strapped on your ears?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. take it all in
+B. headphones
+C. desktop
+D. conference
+E. concert
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+If you have rotten food when eating breakfast in bed what will you be doing?,eating breakfast in bed,train-00000-of-00001,C,"Question:
+If you have rotten food when eating breakfast in bed what will you be doing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. mess
+B. joy
+C. vomiting
+D. contentment
+E. pleasure
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+Where does an audience come every week to listen to a person speaking?,audience,train-00000-of-00001,B,"Question:
+Where does an audience come every week to listen to a person speaking?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. hockey game
+B. church
+C. sporting event
+D. movie theater
+E. phone call
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Some celebrities find going public useful after being caught at what?,going public,train-00000-of-00001,B,"Question:
+Some celebrities find going public useful after being caught at what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. high heel shoes
+B. getting high
+C. problems
+D. press coverage
+E. wide acceptance
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+Where areas are there likely to be many nightclubs?,nightclub,validation-00000-of-00001,D,"Question:
+Where areas are there likely to be many nightclubs?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. manhattan
+B. drink and dance
+C. alcohol
+D. major city
+E. downtown area
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What city would you find a temple containing men with shaved heads?,temple,train-00000-of-00001,B,"Question:
+What city would you find a temple containing men with shaved heads?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. jewish community
+B. nepal
+C. middle east
+D. timbuktu
+E. india
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"If two men are competing, why don't they like each other?",competing,train-00000-of-00001,A,"Question:
+If two men are competing, why don't they like each other?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. rivalry
+B. winning or losing
+C. accomplishment
+D. achievements
+E. death
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"There was a test tomorrow, what did the guy need to do?",test,train-00000-of-00001,A,"Question:
+There was a test tomorrow, what did the guy need to do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. practice
+B. school grade
+C. study for subject
+D. homework
+E. ignore
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+When would there be someone sitting on a chair that you cannot see?,chair,train-00000-of-00001,D,"Question:
+When would there be someone sitting on a chair that you cannot see?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. office
+B. auditorium
+C. circus
+D. confession
+E. synagogue
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"There are many cubicles in the office, they all have computers for employees to what?",computers,train-00000-of-00001,C,"Question:
+There are many cubicles in the office, they all have computers for employees to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. teach
+B. cost money
+C. do work
+D. be productive
+E. help people
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+The bulky man enjoyed to eat hamburger or anything else high in what?,eat hamburger,train-00000-of-00001,A,"Question:
+The bulky man enjoyed to eat hamburger or anything else high in what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. protein
+B. crack
+C. cook one
+D. satisfy hunger
+E. good to eat
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What would someone be if he or she is not massive?,massive,train-00000-of-00001,A,"Question:
+What would someone be if he or she is not massive?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dwarf
+B. massless
+C. inconsequential
+D. lame
+E. insubstantial
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"In a barbershop, what is the most important tool the barber uses?",barbershop,train-00000-of-00001,B,"Question:
+In a barbershop, what is the most important tool the barber uses?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. commercial area
+B. razor
+C. water
+D. city
+E. scissors
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"Most humans by shoes in pairs, this is because they happen to have what?",humans,train-00000-of-00001,E,"Question:
+Most humans by shoes in pairs, this is because they happen to have what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. two ears
+B. lay eggs
+C. one head
+D. a bad day
+E. two feet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+What is the large-sclae  general result of waging war?,waging war,train-00000-of-00001,A,"Question:
+What is the large-sclae  general result of waging war?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. death and destruction
+B. killing people
+C. defeat
+D. people die
+E. evil
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What is someone likely to do to someone accused of killing people they love?,killing people,train-00000-of-00001,C,"Question:
+What is someone likely to do to someone accused of killing people they love?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. go home
+B. sadness
+C. retaliation
+D. remorse
+E. going to jail
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"When a leader has committed crimes against their people, what should they do?",leader,train-00000-of-00001,E,"Question:
+When a leader has committed crimes against their people, what should they do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. rule nation
+B. die
+C. direct people
+D. control population
+E. step down
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Where is the lawnmower I hear from across the street?,lawn mower,train-00000-of-00001,E,"Question:
+Where is the lawnmower I hear from across the street?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. shed
+B. garage
+C. cutting grass
+D. lawn
+E. neighbor's house
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Where may you be if you're buying pork chops at a corner shop?,corner shop,validation-00000-of-00001,E,"Question:
+Where may you be if you're buying pork chops at a corner shop?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. england
+B. town
+C. desert
+D. kentucky
+E. iowa
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+When you niece is a child what relation of your would she live with?,niece,train-00000-of-00001,D,"Question:
+When you niece is a child what relation of your would she live with?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. family reunion
+B. adoption
+C. family tree
+D. brother's house
+E. family picture book
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+What might someone want to be if he or she is thick?,thick,train-00000-of-00001,A,"Question:
+What might someone want to be if he or she is thick?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. slender
+B. free flowing
+C. sparse
+D. unacquainted
+E. diet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+If you have to read a book that is very dry and long you may become what?,read book,validation-00000-of-00001,E,"Question:
+If you have to read a book that is very dry and long you may become what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. have time
+B. boring
+C. learn new
+D. enjoyable
+E. bored
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What does a farmer wanting to make a maze do?,farmers,train-00000-of-00001,C,"Question:
+What does a farmer wanting to make a maze do?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. farm land
+B. grow chinese gooseberries
+C. grow corn
+D. raise cattle
+E. supply food
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"When someone is talking a lot and being lively, they are said to be?",talking,train-00000-of-00001,D,"Question:
+When someone is talking a lot and being lively, they are said to be?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. speaking from mouth
+B. voice
+C. blabbering
+D. being alive
+E. speech
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Where will you find eggs before the farmer collects them?,eggs,train-00000-of-00001,D,"Question:
+Where will you find eggs before the farmer collects them?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. supermarket
+B. inside chicken
+C. omletts
+D. chicken coop
+E. egg carton
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+The part of a computer that holds the memory and processing chips is called what?,chips,train-00000-of-00001,B,"Question:
+The part of a computer that holds the memory and processing chips is called what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pantry
+B. motherboard
+C. bar
+D. casino
+E. supermarket
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What does having to obtain lunch at a restaurant result in?,having lunch,train-00000-of-00001,B,"Question:
+What does having to obtain lunch at a restaurant result in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dining
+B. spending money
+C. heartburn
+D. digestion
+E. obesity
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+Where would be the closest place you would find a piece of literature you own?,literature,train-00000-of-00001,B,"Question:
+Where would be the closest place you would find a piece of literature you own?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. under the bed
+B. own home
+C. books and magazines
+D. meeting
+E. public library
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"The storm was surprising, where didn't it show up for meteorologists?",storm,train-00000-of-00001,C,"Question:
+The storm was surprising, where didn't it show up for meteorologists?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. train
+B. tropical seas
+C. weather report
+D. america
+E. caribbean
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Starting a fire is a terrible idea because flames move in what pattern?,starting fire,train-00000-of-00001,B,"Question:
+Starting a fire is a terrible idea because flames move in what pattern?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. explosion
+B. unpredictable
+C. disaster
+D. warmth
+E. everywhere
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"If I keep getting crumbs under my table, what should I put under it?",table,validation-00000-of-00001,C,"Question:
+If I keep getting crumbs under my table, what should I put under it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. conference
+B. neighbor's house
+C. rug
+D. net
+E. card room
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What does someone do when there are dishes astray in the kitchen?,person,train-00000-of-00001,E,"Question:
+What does someone do when there are dishes astray in the kitchen?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. gain weight
+B. wait patiently
+C. stand erect
+D. promise to do
+E. washing dishes
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+What might someone jogging be trying to achieve long term?,jogging,train-00000-of-00001,D,"Question:
+What might someone jogging be trying to achieve long term?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. foot pain
+B. shin splints
+C. increased heart rate
+D. being healthy
+E. knee pain
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+Where can a lady store a writing instrument while away from home?,writing instrument,train-00000-of-00001,D,"Question:
+Where can a lady store a writing instrument while away from home?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. office supply store
+B. in her shoe
+C. classroom
+D. purse
+E. stationery store
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+If you believe something but then you begin getting and understanding new information you may come to a what?,getting,train-00000-of-00001,B,"Question:
+If you believe something but then you begin getting and understanding new information you may come to a what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. disappointment
+B. new realization
+C. heat wave
+D. joy
+E. wanting more
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Jan wasn't very good at studying.  What might help him study better?,studying,train-00000-of-00001,D,"Question:
+Jan wasn't very good at studying.  What might help him study better?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. having a bigger brain
+B. headaches
+C. inspiration
+D. more intelligence
+E. understanding
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"The fight enemy choice had led him to a grave injury, he was now what?",fight enemy,train-00000-of-00001,A,"Question:
+The fight enemy choice had led him to a grave injury, he was now what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. dying
+B. victory
+C. casualties
+D. protect yourself
+E. death
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+What burning  feeling is eating hamburger in large amunts likely to cause?,eating hamburger,train-00000-of-00001,D,"Question:
+What burning  feeling is eating hamburger in large amunts likely to cause?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. gas
+B. being full
+C. death
+D. heartburn
+E. food poisoning
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"Curiosity got him out of his small hometown, he simply wanted to what?",curiosity,train-00000-of-00001,C,"Question:
+Curiosity got him out of his small hometown, he simply wanted to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. analyse
+B. die
+C. go somewhere
+D. see favorite show
+E. read book
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"If a person does something to hurt someone else, they might do what?",person,train-00000-of-00001,A,"Question:
+If a person does something to hurt someone else, they might do what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. feel sorry
+B. trust god
+C. cross street
+D. ride a bike
+E. lend money
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What is likely to happen to someone who hurts someone else without regret?,hurting else,train-00000-of-00001,E,"Question:
+What is likely to happen to someone who hurts someone else without regret?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. feel happy
+B. feel remorse
+C. will resent
+D. punishment
+E. bad karma
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where would you put a teaspoon if you are not using it?,teaspoon,train-00000-of-00001,C,"Question:
+Where would you put a teaspoon if you are not using it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. in mouth
+B. eating
+C. kitchen drawer
+D. cup of coffee
+E. coffee cup
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Why is a person likely to be satisfied when using an auto shop?,person,train-00000-of-00001,E,"Question:
+Why is a person likely to be satisfied when using an auto shop?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. have enough food
+B. knowledgable
+C. compliments
+D. goals
+E. meet expectations
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"More people should lower the guard and just have fun, we don't got long just what?",have fun,validation-00000-of-00001,A,"Question:
+More people should lower the guard and just have fun, we don't got long just what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. enjoy living
+B. happy
+C. enjoyable
+D. get laid
+E. do enjoy
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+When you have a lot of anger and someone talks you down you're much more what?,anger,train-00000-of-00001,B,"Question:
+When you have a lot of anger and someone talks you down you're much more what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. sweetness
+B. calm
+C. destroy enemy
+D. happiness
+E. madness
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"There was a sign telling picnickers not to feed squirrels, where was this sign likely placed?",squirrel,train-00000-of-00001,A,"Question:
+There was a sign telling picnickers not to feed squirrels, where was this sign likely placed?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. park
+B. forest
+C. tree
+D. roof
+E. yard
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Sean liked analyzing information.  He felt that he helped him learn what?,analysing,train-00000-of-00001,A,"Question:
+Sean liked analyzing information.  He felt that he helped him learn what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. new knowledge
+B. enlightened
+C. facts
+D. discovering truth
+E. learn more about
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+There are many dance clubs and higher rates of obesity where?,dance club,train-00000-of-00001,A,"Question:
+There are many dance clubs and higher rates of obesity where?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. united states
+B. ohio
+C. toun
+D. michigan
+E. fast food restaurants
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+Where are you likely to find a bald eagle on a floating bridge?,bald eagle,train-00000-of-00001,A,"Question:
+Where are you likely to find a bald eagle on a floating bridge?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pacific northwest
+B. river
+C. canada
+D. northern california
+E. washington state
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+How could being someones taxi for the day while they run errands be good for the world?,run errands,train-00000-of-00001,D,"Question:
+How could being someones taxi for the day while they run errands be good for the world?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. gain
+B. supplies
+C. helpful
+D. help people
+E. add to
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"I really want a keyboard instrument, where should I go to try some out?",keyboard instrument,train-00000-of-00001,A,"Question:
+I really want a keyboard instrument, where should I go to try some out?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. music store
+B. band
+C. orchestra
+D. accompany singer
+E. museum
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",86
+"Some people really loved beer, they call it what gold?",beer,train-00000-of-00001,C,"Question:
+Some people really loved beer, they call it what gold?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. alcohol in
+B. intoxicating
+C. liquid
+D. hair of the dog
+E. harmful
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"i like to examine different things,why do books the chapters on the back",curiosity,train-00000-of-00001,D,"Question:
+i like to examine different things,why do books the chapters on the back
+
+Which of the following is the best response to the question?
+
+Choices:
+A. examine thing
+B. go somewhere
+C. knit
+D. read book
+E. see particular program
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+"Being fat is unhealthy, one who is should probably exercise to what?",being fat,train-00000-of-00001,B,"Question:
+Being fat is unhealthy, one who is should probably exercise to what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. stay fit
+B. get in shape
+C. look better
+D. run faster
+E. eat healthily
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+In what place could you find air that has been breathed by many people recently?,air,train-00000-of-00001,D,"Question:
+In what place could you find air that has been breathed by many people recently?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. charming
+B. space shuttle
+C. house
+D. train station
+E. surface of earth
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"When people get tired and would like to take a nap, the often go?",people,train-00000-of-00001,A,"Question:
+When people get tired and would like to take a nap, the often go?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. lay down
+B. speak languages
+C. imagine
+D. to work
+E. talk to each other
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What kind of breathing makes noise but does not indicate that you are sick?,breathing,train-00000-of-00001,A,"Question:
+What kind of breathing makes noise but does not indicate that you are sick?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. sigh
+B. clavicular
+C. yawn
+D. cough
+E. live
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What happens to the conscience of someone who has been caught committing a murder?,committing murder,train-00000-of-00001,E,"Question:
+What happens to the conscience of someone who has been caught committing a murder?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. jail time
+B. fear
+C. going to prison
+D. nothing
+E. feeling of guilt
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"The poet wanted to promote his new literature to literary majors, where did he go to do so?",poet,train-00000-of-00001,C,"Question:
+The poet wanted to promote his new literature to literary majors, where did he go to do so?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. classroom
+B. book store
+C. university
+D. study
+E. home
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Where would you find a trash can while enjoying the great outdoors?,trash can,train-00000-of-00001,C,"Question:
+Where would you find a trash can while enjoying the great outdoors?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. water cooler
+B. alley
+C. park
+D. food place
+E. motel
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+If you want to remember an event what should you do at it?,remember,train-00000-of-00001,A,"Question:
+If you want to remember an event what should you do at it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. take pictures
+B. try
+C. use a flame thrower
+D. focus on
+E. not forget
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What is a student encouraged to do as they mature?,student,train-00000-of-00001,D,"Question:
+What is a student encouraged to do as they mature?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. wait in line
+B. do extra credit
+C. cross road
+D. think for himself
+E. study book
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+Sally appreciated discovering the truth.  After so much worry at gave her what?,discovering truth,train-00000-of-00001,D,"Question:
+Sally appreciated discovering the truth.  After so much worry at gave her what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. enlightenment
+B. happiness
+C. conclusion
+D. relief
+E. excitement
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+If union workers go off strike it means management did what?,go off strike,train-00000-of-00001,D,"Question:
+If union workers go off strike it means management did what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. company closed
+B. more money
+C. complaints had been addressed
+D. demands were met
+E. get back to work
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where is a razor likely to be found on vacation?,razor,train-00000-of-00001,A,"Question:
+Where is a razor likely to be found on vacation?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. suitcase
+B. barber shop
+C. box cutter
+D. psycho's pocket
+E. medicine cabinet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+The rowdy frat boys shouted they would have fun and do what tonight?,have fun,train-00000-of-00001,B,"Question:
+The rowdy frat boys shouted they would have fun and do what tonight?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. do enjoy
+B. get laid
+C. enjoyable
+D. work less
+E. enjoy living
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What might a couple have a lot of when they are deciding on stopping being married to each other?,stopping being married to,validation-00000-of-00001,E,"Question:
+What might a couple have a lot of when they are deciding on stopping being married to each other?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pleasure
+B. detachment
+C. exercise
+D. bankruptcy
+E. fights
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Where can you keep a fire extinguisher in the house if it's really big?,fire extinguisher,train-00000-of-00001,C,"Question:
+Where can you keep a fire extinguisher in the house if it's really big?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. school bus
+B. car
+C. garage
+D. stairwell
+E. hospital
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"If you wanted to put a lamp in the room where you sleep, where should it go?",lamp,train-00000-of-00001,A,"Question:
+If you wanted to put a lamp in the room where you sleep, where should it go?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bedroom
+B. desktop
+C. table building
+D. corner
+E. office
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What does a stove do to the place that it's in?,stove,validation-00000-of-00001,B,"Question:
+What does a stove do to the place that it's in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cool house
+B. warm room
+C. gas or electric
+D. burn child
+E. brown meat
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+What is one of the many hazards of traveling?,traveling,train-00000-of-00001,B,"Question:
+What is one of the many hazards of traveling?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. queasiness
+B. diarrhea
+C. exhilarating
+D. motion sickness
+E. going somewhere
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+People took their seats and read their programs. They were expecting to enjoy an entertaining night of what?,programs,train-00000-of-00001,C,"Question:
+People took their seats and read their programs. They were expecting to enjoy an entertaining night of what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. group functions
+B. church
+C. theater
+D. conference
+E. television
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+Where is a human likely to be when entering a condo?,condo,train-00000-of-00001,D,"Question:
+Where is a human likely to be when entering a condo?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. suburbia
+B. milwaukee
+C. new york
+D. residential area
+E. cruise ship
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+"The teacher said she doesn't want to hear anybody talk, she wanted complete what?",talk,train-00000-of-00001,A,"Question:
+The teacher said she doesn't want to hear anybody talk, she wanted complete what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. silence
+B. stop eating think first
+C. think first
+D. shut up
+E. being quiet
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"They were going somewhere outside of walking distance, so they took the what?",going somewhere,train-00000-of-00001,C,"Question:
+They were going somewhere outside of walking distance, so they took the what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. transporting
+B. energy
+C. car
+D. fire
+E. they cannot took for sleeping and travelling .
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+Where could you find some large pieces of paper that are not for sale?,paper,train-00000-of-00001,E,"Question:
+Where could you find some large pieces of paper that are not for sale?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cabinet
+B. computer printer
+C. suitcase
+D. office supply store
+E. artist's studio
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+There is a lot of water nearby to what popular west coast attraction?,water,train-00000-of-00001,B,"Question:
+There is a lot of water nearby to what popular west coast attraction?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. sink
+B. disneyland
+C. washing machine
+D. pail
+E. space shuttle
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"The clothing was extremely expensive compared to other places, where was it likely purchased?",clothing,train-00000-of-00001,B,"Question:
+The clothing was extremely expensive compared to other places, where was it likely purchased?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cinema hall
+B. mall
+C. department store
+D. closet
+E. shop
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+Where is a bunch of grapes likely to be carried in?,grape,train-00000-of-00001,D,"Question:
+Where is a bunch of grapes likely to be carried in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fruit cocktail
+B. wine press
+C. a box
+D. picnic basket
+E. kitchen
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+"A man takes a seat at a museum outside of Barcelona, where is he likely?",seat,validation-00000-of-00001,B,"Question:
+A man takes a seat at a museum outside of Barcelona, where is he likely?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. in cinema
+B. martorell
+C. falling down
+D. show
+E. airplane
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",88
+What may you feel after standing in line for a long time and not getting what you were after?,standing in line,train-00000-of-00001,A,"Question:
+What may you feel after standing in line for a long time and not getting what you were after?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. frustration
+B. order
+C. pain
+D. fatigue
+E. disappointed
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+"The potatoes were to be served, what is the best vessel to serve them in?",potatoes,train-00000-of-00001,D,"Question:
+The potatoes were to be served, what is the best vessel to serve them in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. fried
+B. countryside
+C. restaurant
+D. plate
+E. french fries
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",91
+"Sally had two dogs, so he put newspaper somewhere.  Where did he put it?",newspaper,train-00000-of-00001,B,"Question:
+Sally had two dogs, so he put newspaper somewhere.  Where did he put it?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. front door
+B. floor
+C. subway
+D. bathtub
+E. trash
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90
+What leads a person to check up on someone else when they are working?,person,train-00000-of-00001,B,"Question:
+What leads a person to check up on someone else when they are working?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. schizophrenia
+B. mistrust
+C. annoying
+D. executed
+E. isolation
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+What do people do in the place that jellyfish live?,jellyfish,train-00000-of-00001,D,"Question:
+What do people do in the place that jellyfish live?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. swim
+B. encyclopedia
+C. jungle
+D. surf
+E. pacific ocean
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",87
+He wore out his dictionary as he worked on his what?,dictionary,train-00000-of-00001,D,"Question:
+He wore out his dictionary as he worked on his what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. determine word's definition
+B. thesaurus
+C. eat cake
+D. novel
+E. encyclopedia
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",89
+Where would you find an office worker gossiping with their colleagues?,person,validation-00000-of-00001,A,"Question:
+Where would you find an office worker gossiping with their colleagues?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. water cooler
+B. space shuttle
+C. baby shower
+D. bus stop
+E. family
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",90

@@ -1,0 +1,81 @@
+question,subject,split,answer,final_prompt,len_tk_llama3.1_8b_instruct
+"A spherical balloon filled with helium is floating in air. If the balloon is inflated until its radius is doubled, how will the buoyant force on the balloon be affected?",high_school_physics,validation-00000-of-00001,C,"A spherical balloon filled with helium is floating in air. If the balloon is inflated until its radius is doubled, how will the buoyant force on the balloon be affected?
+
+Choices:
+A. It will decrease by a factor of 4.
+B. It will increase by a factor of 4.
+C. It will increase by a factor of 8.
+D. It will not be affected.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",98
+Which of the following kinds of personality theorists is the most likely to use a projective test?,high_school_psychology,test-00000-of-00001,D,"Which of the following kinds of personality theorists is the most likely to use a projective test?
+
+Choices:
+A. social-cognitive
+B. behaviorist
+C. humanist
+D. psychoanalyst
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",61
+What is an example of reproduction being a stage in the life cycle process?,,auxiliary_train-00000-of-00001,A,"What is an example of reproduction being a stage in the life cycle process?
+
+Choices:
+A. births can occur only after reproduction takes place
+B. death is the last stage in the life cycle
+C. reproduction mightn't guarantee a healthy life
+D. life can end during reproduction
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",77
+what determines the number of body parts and organism is born with?,,auxiliary_train-00000-of-00001,C,"what determines the number of body parts and organism is born with?
+
+Choices:
+A. survival of fittest
+B. random chance
+C. the organisms creators
+D. natural predators
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",56
+How many positive integers are factors of 120 and also factors of 40?,high_school_mathematics,test-00000-of-00001,B,"How many positive integers are factors of 120 and also factors of 40?
+
+Choices:
+A. 4
+B. 8
+C. 2
+D. 1
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",56
+Which property of an object can be described as smooth?,,auxiliary_train-00000-of-00001,D,"Which property of an object can be described as smooth?
+
+Choices:
+A. color
+B. odor
+C. size
+D. texture
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",47
+Which of the following would NOT shift the aggregate supply curve?,high_school_macroeconomics,test-00000-of-00001,A,"Which of the following would NOT shift the aggregate supply curve?
+
+Choices:
+A. An increase in the price level.
+B. A decrease in the amount of resources in the economy.
+C. An increase in the amount of resources in the economy.
+D. An increase in technology.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",74
+A place you would want to avoid that is prone to Earthquakes would be,,auxiliary_train-00000-of-00001,C,"A place you would want to avoid that is prone to Earthquakes would be
+
+Choices:
+A. Kansas
+B. Alaska
+C. Osaka
+D. France
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",53

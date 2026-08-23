@@ -1,0 +1,113 @@
+question,question_concept,_split,answer,final_prompt,len_tk_gemma2_9b_base
+What contains a company of people?,company,train-00000-of-00001,E,"Question:
+What contains a company of people?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. yellow pages
+B. market place
+C. newspaper
+D. city
+E. armed forces
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",70
+Why might someone continue smoking?,smoking,train-00000-of-00001,C,"Question:
+Why might someone continue smoking?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. the smell
+B. bad breath
+C. pleasure
+D. death
+E. lung disease
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",69
+What does someone need to do to begin creating art?,creating art,train-00000-of-00001,A,"Question:
+What does someone need to do to begin creating art?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. relax
+B. controversy
+C. pleasure
+D. frustration
+E. needs theater
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",72
+Remembering past successe is likely to cause what?,remembering,train-00000-of-00001,C,"Question:
+Remembering past successe is likely to cause what?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. problems
+B. crying
+C. inspiration
+D. trauma
+E. nightmares
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",70
+What would you need to do to live life?,live life,train-00000-of-00001,B,"Question:
+What would you need to do to live life?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. death
+B. breathe
+C. experience things
+D. money
+E. growing older
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",72
+What does giving assistance give to someone?,giving assistance,train-00000-of-00001,C,"Question:
+What does giving assistance give to someone?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. relief
+B. helpfulness
+C. good feeling
+D. pleasure
+E. happiness
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",70
+Where would you use a computer while gaining knowledge?,computer,train-00000-of-00001,E,"Question:
+Where would you use a computer while gaining knowledge?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. apartment
+B. house
+C. table
+D. house
+E. school
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",70
+what does skin cover?,skin,train-00000-of-00001,A,"Question:
+what does skin cover?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. body
+B. good health
+C. tent
+D. fruit
+E. people
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",66

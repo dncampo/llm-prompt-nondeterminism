@@ -1,0 +1,113 @@
+question,question_concept,_split,answer,final_prompt,len_tk_mistral_7b_base
+What container does peanut butter come in?,peanut butter,train-00000-of-00001,C,"Question:
+What container does peanut butter come in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. cupboard
+B. pantry
+C. jar
+D. bottle
+E. supermarket
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",79
+Where might a student store a pencil when traveling,pencil,train-00000-of-00001,A,"Question:
+Where might a student store a pencil when traveling
+
+Which of the following is the best response to the question?
+
+Choices:
+A. backpack
+B. desktop
+C. classroom
+D. desk drawer
+E. pocket
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",77
+What happens when you cash in?,cash in,train-00000-of-00001,E,"Question:
+What happens when you cash in?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. happiness
+B. sell stock
+C. celebrate
+D. withdraw
+E. get money
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",75
+Where do you buy potato chips?,chips,train-00000-of-00001,D,"Question:
+Where do you buy potato chips?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bar
+B. pantry
+C. motherboard
+D. supermarket
+E. in retail shop
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",79
+Dry and cracked heels are found on?,heel,train-00000-of-00001,D,"Question:
+Dry and cracked heels are found on?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. boot
+B. the desert
+C. loaf of bread
+D. foot
+E. hock
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",80
+What does there need to be for a shadow to appear?,shadow,train-00000-of-00001,B,"Question:
+What does there need to be for a shadow to appear?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. ground
+B. bright light
+C. bridge
+D. sunshine
+E. beam
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",80
+What type of location would you find fish for sale?,fish,train-00000-of-00001,E,"Question:
+What type of location would you find fish for sale?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. refrigerator
+B. ocean
+C. pay debts
+D. stream
+E. market
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",80
+Why do people go to see others playing baseball?,playing baseball,train-00000-of-00001,C,"Question:
+Why do people go to see others playing baseball?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. pain
+B. delight
+C. entertainment
+D. stupid
+E. fun
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",76

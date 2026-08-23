@@ -1,0 +1,73 @@
+sentence,option1,option2,answer,final_prompt,len_tk_mistral_7b_instruct
+"The members enjoyed the drinks and threw away the foods, thanks to the _ being garbage quality.",drinks,foods,B,"Sentence:
+""The members enjoyed the drinks and threw away the foods, thanks to the _ being garbage quality.""
+
+Options:
+A. drinks
+B. foods
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0
+The pan held heat for longer than the bowl because the _ was made out of iron.,pan,bowl,A,"Sentence:
+""The pan held heat for longer than the bowl because the _ was made out of iron.""
+
+Options:
+A. pan
+B. bowl
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+We will need more eggs in order to fill up the bowl because the _ is small.,egg,bowl,A,"Sentence:
+""We will need more eggs in order to fill up the bowl because the _ is small.""
+
+Options:
+A. egg
+B. bowl
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",58.0
+Dennis stood up in the subway car and offered hi seat to Nelson because _ was standing.,Dennis,Nelson,B,"Sentence:
+""Dennis stood up in the subway car and offered hi seat to Nelson because _ was standing.""
+
+Options:
+A. Dennis
+B. Nelson
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+It was easier to train for the race than the marathon because the _ was much shorter.,marathon,race,B,"Sentence:
+""It was easier to train for the race than the marathon because the _ was much shorter.""
+
+Options:
+A. marathon
+B. race
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+Jane wanted to put the guitar in the stand but the _ was too heavy.,stand,guitar,B,"Sentence:
+""Jane wanted to put the guitar in the stand but the _ was too heavy.""
+
+Options:
+A. stand
+B. guitar
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",57.0
+Working in the kitchen was perfect for Adam but not Jason because _ went to culinary school.,Adam,Jason,A,"Sentence:
+""Working in the kitchen was perfect for Adam but not Jason because _ went to culinary school.""
+
+Options:
+A. Adam
+B. Jason
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",60.0
+The music sounded better coming from the organ than the piano because the _ was big and impressive.,piano,organ,B,"Sentence:
+""The music sounded better coming from the organ than the piano because the _ was big and impressive.""
+
+Options:
+A. piano
+B. organ
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",59.0

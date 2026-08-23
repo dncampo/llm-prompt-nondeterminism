@@ -1,0 +1,81 @@
+question,subject,split,answer,final_prompt,len_tk_phi3_mini_4k_instruct
+Angler fish hunt by using,,auxiliary_train-00000-of-00001,C,"Angler fish hunt by using
+
+Choices:
+A. fishermen
+B. spear guns
+C. illumination
+D. fishing poles
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",59
+Which term describes the forces that unify and strengthen a country?,high_school_geography,test-00000-of-00001,C,"Which term describes the forces that unify and strengthen a country?
+
+Choices:
+A. Diffusion
+B. Centrifugal
+C. Centripetal
+D. Ethnocentric
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",67
+"A national survey finds that, while most people are in favor of integration in the workplace, the majority also oppose affirmative action. This finding is best explained by which of the following? ,",professional_psychology,validation-00000-of-00001,C,"A national survey finds that, while most people are in favor of integration in the workplace, the majority also oppose affirmative action. This finding is best explained by which of the following? ,
+
+Choices:
+A. the illusory correlation
+B. the contact hypothesis
+C. symbolic racism theory
+D. realistic group conﬂict theory
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",102
+The model that posits that any change in one context or domain of development can disrupt the entire system and prompt a reorganization that leads to more adaptive functioning is ___________.,professional_psychology,validation-00000-of-00001,B,"The model that posits that any change in one context or domain of development can disrupt the entire system and prompt a reorganization that leads to more adaptive functioning is ___________.
+
+Choices:
+A. The Selective Optimization with Compensation (SOC) model
+B. The dynamic systems theory
+C. The cognitive-developmental theory
+D. The theory of psychosocial development
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",111
+Averaging the output of multiple decision trees helps _.,machine_learning,test-00000-of-00001,D,"Averaging the output of multiple decision trees helps _.
+
+Choices:
+A. Increase bias
+B. Decrease bias
+C. Increase variance
+D. Decrease variance
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",67
+Many scientists think that some of the dinosaurs did not go extinct but rather evolved into what kind of creature?,miscellaneous,test-00000-of-00001,C,"Many scientists think that some of the dinosaurs did not go extinct but rather evolved into what kind of creature?
+
+Choices:
+A. amphibians
+B. reptiles
+C. birds
+D. mammals
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",76
+A raccoon be most likely to live near which of the following?,,auxiliary_train-00000-of-00001,A,"A raccoon be most likely to live near which of the following?
+
+Choices:
+A. a human garbage dump
+B. an icy barren tundra
+C. an arid desert plain
+D. a tropical rain forest
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",74
+How do the spines of a cactus help it survive?,,auxiliary_train-00000-of-00001,C,"How do the spines of a cactus help it survive?
+
+Choices:
+A. Spines help the cactus get moisture.
+B. Spines anchor the cactus in the ground.
+C. Spines protect the cactus from animals.
+D. Spines support the stems and branches of the cactus.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",101

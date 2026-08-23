@@ -1,0 +1,81 @@
+question,subject,split,answer,final_prompt,len_tk_qwen2.5_7b_instruct
+The change in fur color of the Arctic hare from brown in the summer to white in the winter is an example of,,auxiliary_train-00000-of-00001,D,"The change in fur color of the Arctic hare from brown in the summer to white in the winter is an example of
+
+Choices:
+A. mimicry.
+B. heredity.
+C. diversity.
+D. camouflage.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",62
+"A thing which is measured, such as a bucket of salt, needs to first be",,auxiliary_train-00000-of-00001,C,"A thing which is measured, such as a bucket of salt, needs to first be
+
+Choices:
+A. evaded
+B. burned
+C. gathered
+D. lost
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",54
+How can a woman's compact best help if she is lost on a mountain?,,auxiliary_train-00000-of-00001,C,"How can a woman's compact best help if she is lost on a mountain?
+
+Choices:
+A. She will be able to fix her appearance to be more likely to receive help
+B. She can use the makeup as camouflage
+C. she can use the mirror to signal someone
+D. She can break the mirror to use the pieces for a weapon
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",89
+"When helping a patient to resolve ambivalence, build commitment, and reach a decision to change, which of the following basic principle is not used at Motivational Interviewing:",professional_psychology,test-00000-of-00001,A,"When helping a patient to resolve ambivalence, build commitment, and reach a decision to change, which of the following basic principle is not used at Motivational Interviewing:
+
+Choices:
+A. Does not support self-efficacy for change
+B. Empathy through reflective listening
+C. Roll with resistance
+D. Avoid direct confrontation
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",86
+"If a person looks at the night sky in February and then again in June, the stars will be",,auxiliary_train-00000-of-00001,D,"If a person looks at the night sky in February and then again in June, the stars will be
+
+Choices:
+A. unchanged
+B. gone
+C. unmoved
+D. differently placed
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",58
+The Moon orbits Earth at a speed of approximately one kilometer per second. The Moon is kept in orbit by which of the following?,,auxiliary_train-00000-of-00001,A,"The Moon orbits Earth at a speed of approximately one kilometer per second. The Moon is kept in orbit by which of the following?
+
+Choices:
+A. gravity
+B. lunar phases
+C. magnetism
+D. ocean tides
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",66
+Visible light is which type of wave?,,auxiliary_train-00000-of-00001,D,"Visible light is which type of wave?
+
+Choices:
+A. seismic
+B. mechanical
+C. longitudinal
+D. electromagnetic
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",43
+Advantages of open loop control system is/are,electrical_engineering,test-00000-of-00001,A,"Advantages of open loop control system is/are
+
+Choices:
+A. simple and economical.
+B. accurate.
+C. reliable.
+D. all of the above.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",51

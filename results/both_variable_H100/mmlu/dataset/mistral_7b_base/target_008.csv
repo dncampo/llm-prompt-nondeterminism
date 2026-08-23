@@ -1,0 +1,81 @@
+question,subject,split,answer,final_prompt,len_tk_mistral_7b_base
+What is a replay attack?,computer_security,test-00000-of-00001,D,"What is a replay attack?
+
+Choices:
+A. When the attacker replies to a message sent to it by the system
+B. An attack that continuously repeats, probing for a weakness
+C. An attack that uses the system's own messages and so cannot be defended against
+D. The attacker resends a captured message, and the site accept its and responds in the attacker's favor
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",115
+A null type instrument as compared to a deflected type instrument has,electrical_engineering,test-00000-of-00001,C,"A null type instrument as compared to a deflected type instrument has
+
+Choices:
+A. a lower sensitivity.
+B. a faster response.
+C. a higher accuracy.
+D. all of the above.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",70
+A man will most likely be unable to see if he gets lost in,,auxiliary_train-00000-of-00001,A,"A man will most likely be unable to see if he gets lost in
+
+Choices:
+A. a dense forest
+B. a long river
+C. a desert
+D. a mountain
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",64
+ Singer argues that developing nations are harming poor nations by,moral_disputes,test-00000-of-00001,A," Singer argues that developing nations are harming poor nations by
+
+Choices:
+A. causing global warming.
+B. handing out too much foreign aid, which increases need.
+C. ignoring important aspects of their culture.
+D. indoctrinating them with Western values.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",86
+Gas will rise when what happens to it?,,auxiliary_train-00000-of-00001,A,"Gas will rise when what happens to it?
+
+Choices:
+A. blazing temps
+B. cooling
+C. melting
+D. freezing
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",58
+What does the earth orbit that causes the seasons to change?,,auxiliary_train-00000-of-00001,D,"What does the earth orbit that causes the seasons to change?
+
+Choices:
+A. mercury
+B. venus
+C. pluto
+D. plasma star
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",60
+Why does a Marxist account of law reject individual rights?,jurisprudence,test-00000-of-00001,B,"Why does a Marxist account of law reject individual rights?
+
+Choices:
+A. Because they are inconsistent with state control.
+B. Because they are an expression of a capitalist economy and are unnecessary in a socialist society.
+C. Because the concept of rights is philosophically unsound.
+D. Because Marx, Engels, and Lenin failed to provide a coherent analysis of rights.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",110
+Which of the following scenarios would increase a nation's production possibility frontier (PPF)?,high_school_microeconomics,validation-00000-of-00001,B,"Which of the following scenarios would increase a nation's production possibility frontier (PPF)?
+
+Choices:
+A. The nation's system of higher education slowly declines in quality.
+B. The nation invests in research and development of new technology.
+C. The nation's infant mortality rate increases.
+D. Environmental pollution severely damages the health of the population.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",105

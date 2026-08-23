@@ -1,0 +1,73 @@
+sentence,option1,option2,answer,final_prompt,len_tk_qwen3_8b_instruct
+The patient decided to take more medicine for the pain but the _ was too strong.,pain,medicine,A,"Sentence:
+""The patient decided to take more medicine for the pain but the _ was too strong.""
+
+Options:
+A. pain
+B. medicine
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",47.0
+Sarah Jane's watch smashed when the book hit it since the _ was too strong.,watch,book,B,"Sentence:
+""Sarah Jane's watch smashed when the book hit it since the _ was too strong.""
+
+Options:
+A. watch
+B. book
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",48.0
+The car of Monica has more horsepower than Elena's because _ 's car has more cylinders.,Monica,Elena,A,"Sentence:
+""The car of Monica has more horsepower than Elena's because _ 's car has more cylinders.""
+
+Options:
+A. Monica
+B. Elena
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",49.0
+Christopher asked Jason to help him prepare for the test because _ didn't know the material.,Christopher,Jason,A,"Sentence:
+""Christopher asked Jason to help him prepare for the test because _ didn't know the material.""
+
+Options:
+A. Christopher
+B. Jason
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",49.0
+Bill replaced his entire grass lawn for his house with new rock. The _ was old.,lawn,rock,A,"Sentence:
+""Bill replaced his entire grass lawn for his house with new rock. The _ was old.""
+
+Options:
+A. lawn
+B. rock
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",49.0
+"Jennifer gave the steaming cup of tea to Lindsey, because _ liked their tea hot.",Jennifer,Lindsey,B,"Sentence:
+""Jennifer gave the steaming cup of tea to Lindsey, because _ liked their tea hot.""
+
+Options:
+A. Jennifer
+B. Lindsey
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",49.0
+"The student preferred doing their homework with pencil rather than pen, because the _ provided less control.",pen,pencil,A,"Sentence:
+""The student preferred doing their homework with pencil rather than pen, because the _ provided less control.""
+
+Options:
+A. pen
+B. pencil
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",49.0
+Kevin was trying to crochet a scarf for Dennis because _ loved to do arts and crafts.,Kevin,Dennis,A,"Sentence:
+""Kevin was trying to crochet a scarf for Dennis because _ loved to do arts and crafts.""
+
+Options:
+A. Kevin
+B. Dennis
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",49.0

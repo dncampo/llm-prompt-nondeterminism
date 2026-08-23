@@ -1,0 +1,73 @@
+sentence,option1,option2,answer,final_prompt,len_tk_glm4_9b_chat
+The seamstress tried to duplicate the pattern with the machine but the _ was too complicated.,pattern,machine,A,"Sentence:
+""The seamstress tried to duplicate the pattern with the machine but the _ was too complicated.""
+
+Options:
+A. pattern
+B. machine
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",50.0
+"The letter that Joel has written is being read by Adam, so _ is the editor.",Joel,Adam,B,"Sentence:
+""The letter that Joel has written is being read by Adam, so _ is the editor.""
+
+Options:
+A. Joel
+B. Adam
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",50.0
+Jeffrey taught yoga and hoped Donald would drop out as a student because _ was disruptive.,Jeffrey,Donald,B,"Sentence:
+""Jeffrey taught yoga and hoped Donald would drop out as a student because _ was disruptive.""
+
+Options:
+A. Jeffrey
+B. Donald
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",51.0
+"Sam liked apples and hated oranges, so he would never  the _ at the supermarket.",oranges,apples,A,"Sentence:
+""Sam liked apples and hated oranges, so he would never  the _ at the supermarket.""
+
+Options:
+A. oranges
+B. apples
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",51.0
+Samuel was diagnosed by Neil with HIV so _ spent the day asking questions about treatment.,Samuel,Neil,A,"Sentence:
+""Samuel was diagnosed by Neil with HIV so _ spent the day asking questions about treatment.""
+
+Options:
+A. Samuel
+B. Neil
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",51.0
+The boy decided the customize the sunglasses instead of the shoes because the _ were already unique.,sunglasses,shoes,B,"Sentence:
+""The boy decided the customize the sunglasses instead of the shoes because the _ were already unique.""
+
+Options:
+A. sunglasses
+B. shoes
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",50.0
+"Since Lindsey had a far weaker arm than Christine, _ threw the football a long distance.",Lindsey,Christine,B,"Sentence:
+""Since Lindsey had a far weaker arm than Christine, _ threw the football a long distance.""
+
+Options:
+A. Lindsey
+B. Christine
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",51.0
+Steven bought some donuts to treat Brian because fortunately  _ was feeling generous this morning.,Steven,Brian,A,"Sentence:
+""Steven bought some donuts to treat Brian because fortunately  _ was feeling generous this morning.""
+
+Options:
+A. Steven
+B. Brian
+
+Reply with only the single capital letter (A or B) corresponding to the correct answer.
+",51.0

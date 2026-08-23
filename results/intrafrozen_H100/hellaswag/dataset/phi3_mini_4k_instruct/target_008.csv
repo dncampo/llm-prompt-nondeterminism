@@ -1,0 +1,105 @@
+ind,activity_label,ctx,answer,final_prompt,len_tk_phi3_mini_4k_instruct
+15557.0,Washing face,Woman is holding a soap facial cleanser on her hands and a face towel. the woman,C,"Context:
+""Woman is holding a soap facial cleanser on her hands and a face towel. the woman""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. washes her face on the beach.
+B. open the soap and started to breathe on the face.
+C. cleans the face with the liquid soap in circular motions.
+D. put the red soap in her hands, then soap on her hands and the face towel.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",134
+2611.0,Cutting the grass,A man touches his faces and waves. the man,C,"Context:
+""A man touches his faces and waves. the man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. motions for someone in a suit to come and gray their hair.
+B. in black puts a medal medal around his neck.
+C. walks a mower across very tall growing grass.
+D. runs and claps his hands together.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",113
+25881.0,Hand car wash,A man is spraying a hose with a nozzle onto his car. he,C,"Context:
+""A man is spraying a hose with a nozzle onto his car. he""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. continuously sprays a tree in the parking lot while simultaneously using the hose as a receptacle.
+B. stops to put the hose on the car.
+C. gets a bucket and starts to scrub the car.
+D. steps on the hose and sprays it to the side.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",137
+38629.0,Getting a piercing,A man is sitting down getting his ear pierced. The person piercing the ear sticks the needle in the ear. they,B,"Context:
+""A man is sitting down getting his ear pierced. The person piercing the ear sticks the needle in the ear. they""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. just remove the piercing.
+B. then put an earring into the hole.
+C. both begin to work out while the man holding the head is still watching.
+D. then play rock paper scissors all over each other.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",128
+14588.0,Shoveling snow,The man shovels a long path of snow. The man turns around and shovels a long path of snow again. the man,D,"Context:
+""The man shovels a long path of snow. The man turns around and shovels a long path of snow again. the man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. takes the shovel and puts it on the floor and shovels again.
+B. sits down to finish his snow walk.
+C. kneels down and washes a sumo ski.
+D. shovels snow for a third time.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",133
+34387.0,Pole vault,A person is seen running down a long track while holding a pole. the person pole,D,"Context:
+""A person is seen running down a long track while holding a pole. the person pole""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. vaults over a large tower several times before returning to the jumped off point.
+B. vaults off a diving board into the water.
+C. springs over a high bar and is shown again in slow motion.
+D. volts over the beam onto a mat and is shown again in slow motion.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",136
+4047.0,Arm wrestling,Two men are sitting at a table. the men,D,"Context:
+""Two men are sitting at a table. the men""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. are playing pool in front of their table.
+B. are wrestlers engaged in arm wrestling.
+C. started dancing together in front of the camera.
+D. engage in a game of arm wrestling.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",107
+25191.0,Playing lacrosse,Two referees runs about and down the field with the players. Other players watch from the sideline near a fence. a group of people keeping score,B,"Context:
+""Two referees runs about and down the field with the players. Other players watch from the sideline near a fence. a group of people keeping score""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. and behind them two coach's by a fence.
+B. sit at a table on the sideline.
+C. are roping a crowd.
+D. distance ensure no one gets injured.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",125

@@ -1,0 +1,105 @@
+ind,activity_label,ctx,answer,final_prompt,len_tk_glm4_9b_chat
+15459.0,Triple jump,The man's long jump is replayed several times in various speeds. Another man fouls in his long jump attempt. the first man,C,"Context:
+""The man's long jump is replayed several times in various speeds. Another man fouls in his long jump attempt. the first man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. is shown in the video.
+B. returns the jump by throwing it back.
+C. is shown alternatively bending over and walking around.
+D. staggers the first man and stumbles.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",101
+35613.0,Ice fishing,A man is knelling down on snow covered ice. The man points to a whole in the ice. the man,C,"Context:
+""A man is knelling down on snow covered ice. The man points to a whole in the ice. the man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. then digs through some snow on the ground.
+B. drills some holes in the snow.
+C. then retrieves a line from the line in the ice exposing a caught fish.
+D. crawls across the ice.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",102
+42256.0,Playing drums,"A young boy is sitting outdoors on a wooden bench and drumming on a drum set that is made out of steel plates, cans and pots. a man",A,"Context:
+""A young boy is sitting outdoors on a wooden bench and drumming on a drum set that is made out of steel plates, cans and pots. a man""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. just walked past him while the boy was drumming loudly.
+B. stands over him listening to him play.
+C. walks down the sidewalk behind the boy.
+D. is sweeping next to him while he plays the drums.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",112
+37736.0,Knitting,A woman is shown talking on the phone. people,C,"Context:
+""A woman is shown talking on the phone. people""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. are shown swimming under a body of water.
+B. are trying to get a tattoo on their arm.
+C. walk through a large lobby.
+D. are running on a course over sand.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",85
+26911.0,BMX,A flag is blowing in the wind outside. The camera pans around to show various hills. several kids on bikes,A,"Context:
+""A flag is blowing in the wind outside. The camera pans around to show various hills. several kids on bikes""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. race through the course.
+B. are driving down hill.
+C. are climbing and playing on the slopes.
+D. are going up a hill.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",88
+14682.0,Plastering,A close up of a sign is shown followed by a person dipping paint. the person,C,"Context:
+""A close up of a sign is shown followed by a person dipping paint. the person""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. paints the tree petals on the tree.
+B. paints themselves all over the sign.
+C. is then seen spreading paint all around the area while another smiles to the camera.
+D. moves the paint around on the wooden floor.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",99
+43417.0,Surfing,A man runs and dives into the water on a beach. a man carrying a surf board,A,"Context:
+""A man runs and dives into the water on a beach. a man carrying a surf board""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. walks on the beach.
+B. dives off of a high dive platform into water.
+C. pushes a kayak raft around on a course.
+D. jumps into the water very high.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",91
+39265.0,Putting on shoes,A person is seen sitting on the end of a couch holding shoes. She begins to put one shoe on followed by another. in the end,C,"Context:
+""A person is seen sitting on the end of a couch holding shoes. She begins to put one shoe on followed by another. in the end""
+
+Which of the following endings best completes the context?
+
+Choices:
+A. she puts more shoes on.
+B. she begins wearing only one.
+C. she shows off her shoes to the camera.
+D. she has two shoes on as well as a scarf and shoes.
+
+Reply with exactly one uppercase letter out of A, B, C, or D.
+",104

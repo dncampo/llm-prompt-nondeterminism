@@ -1,0 +1,7 @@
+dataset_name,model_name,token_column,strategy_name,partition_name,target_len,delta_min,delta_max,delta_median,token_len_min,token_len_max,available_count_before_sampling,saved_count,was_expanded,warning_message
+MMLU,qwen3_8b_base,len_tk_qwen3_8b_base,strategy_2_progressive,target,102,-63,0,-42.0,39,102,17160,8,False,
+MMLU,qwen3_8b_base,len_tk_qwen3_8b_base,strategy_2_progressive,larger_1,102,1,4,2.0,103,106,445,310,False,
+MMLU,qwen3_8b_base,len_tk_qwen3_8b_base,strategy_2_progressive,larger_2,102,5,28,16.0,107,130,2750,310,False,
+MMLU,qwen3_8b_base,len_tk_qwen3_8b_base,strategy_2_progressive,larger_3,102,29,157,112.0,131,259,13616,310,False,
+MMLU,qwen3_8b_base,len_tk_qwen3_8b_base,strategy_2_progressive,larger_4,102,158,855,326.5,260,957,80074,310,False,
+MMLU,qwen3_8b_base,len_tk_qwen3_8b_base,strategy_2_progressive,larger_5,102,856,1435,936.5,958,1537,313,310,False,

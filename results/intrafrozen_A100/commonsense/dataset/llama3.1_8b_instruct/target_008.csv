@@ -1,0 +1,113 @@
+question,question_concept,_split,answer,final_prompt,len_tk_llama3.1_8b_instruct
+What sort of organization do employees usually work for?,employees,train-00000-of-00001,D,"Question:
+What sort of organization do employees usually work for?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. a business
+B. meeting
+C. corporation
+D. company
+E. office
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",66
+Where do you hide a dead body?,dead body,train-00000-of-00001,D,"Question:
+Where do you hide a dead body?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. funeral
+B. closet
+C. container
+D. trunk
+E. basement
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",63
+The spine is located in your,spine,train-00000-of-00001,B,"Question:
+The spine is located in your
+
+Which of the following is the best response to the question?
+
+Choices:
+A. human body
+B. back
+C. lumbar
+D. book
+E. skeleton
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",64
+What could stop you fron analysing?,analysing,train-00000-of-00001,B,"Question:
+What could stop you fron analysing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. bad code
+B. change
+C. better knowledge
+D. headache
+E. learning more about
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",67
+Where can you borrow magazines?,magazines,train-00000-of-00001,A,"Question:
+Where can you borrow magazines?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. library
+B. bookstore
+C. friends
+D. table
+E. doctor
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",61
+What is a kind of literature?,literature,train-00000-of-00001,B,"Question:
+What is a kind of literature?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. newspaper
+B. books and magazines
+C. own home
+D. public library
+E. good homes
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",67
+For what reason did he commit the killing?,killing,train-00000-of-00001,D,"Question:
+For what reason did he commit the killing?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. investigation
+B. disease
+C. punishment
+D. retribution
+E. going to jail
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",67
+What room has coffee tables?,table,train-00000-of-00001,E,"Question:
+What room has coffee tables?
+
+Which of the following is the best response to the question?
+
+Choices:
+A. internet cafe
+B. store room
+C. meeting
+D. kitchen
+E. livingroom
+
+Reply with exactly one uppercase letter out of A, B, C, D or E.
+",64

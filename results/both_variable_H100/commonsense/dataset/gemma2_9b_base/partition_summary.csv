@@ -1,0 +1,7 @@
+dataset_name,model_name,token_column,strategy_name,partition_name,target_len,delta_min,delta_max,delta_median,token_len_min,token_len_max,available_count_before_sampling,saved_count,was_expanded,warning_message
+CommonsenseQA,gemma2_9b_base,len_tk_gemma2_9b_base,strategy_2_progressive,target,72,-8,0,-2.0,64,72,2046,8,False,
+CommonsenseQA,gemma2_9b_base,len_tk_gemma2_9b_base,strategy_2_progressive,larger_1,72,1,1,1.0,73,73,729,310,False,
+CommonsenseQA,gemma2_9b_base,len_tk_gemma2_9b_base,strategy_2_progressive,larger_2,72,2,4,3.0,74,76,2255,310,False,
+CommonsenseQA,gemma2_9b_base,len_tk_gemma2_9b_base,strategy_2_progressive,larger_3,72,5,9,7.0,77,81,2982,310,False,
+CommonsenseQA,gemma2_9b_base,len_tk_gemma2_9b_base,strategy_2_progressive,larger_4,72,10,21,13.0,82,93,2608,310,False,
+CommonsenseQA,gemma2_9b_base,len_tk_gemma2_9b_base,strategy_2_progressive,larger_5,72,22,63,26.0,94,135,342,310,False,
